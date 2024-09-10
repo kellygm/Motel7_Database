@@ -1,0 +1,113 @@
+1|Room Service
+1|Spa
+1|Gym
+1|Restaurant
+1|Concierge
+1|Pool
+2|Spa
+2|Pool
+2|Gym
+2|Room Service
+2|Concierge
+2|Restaurant
+2|Bar
+3|Spa
+3|Room Service
+3|Gym
+3|Pool
+3|Concierge
+3|Free Wi-Fi
+4|Pool
+4|Free Wi-Fi
+4|Concierge
+4|Spa
+5|Free Wi-Fi
+5|Parking
+5|Restaurant
+5|Bar
+6|Spa
+6|Bar
+6|Pool
+6|Room Service
+6|Parking
+6|Concierge
+6|Gym
+6|Restaurant
+7|Free Wi-Fi
+7|Room Service
+7|Concierge
+8|Room Service
+8|Parking
+8|Concierge
+8|Bar
+8|Restaurant
+8|Gym
+9|Restaurant
+9|Concierge
+9|Room Service
+9|Spa
+9|Parking
+9|Free Wi-Fi
+10|Gym
+10|Free Wi-Fi
+10|Restaurant
+10|Bar
+10|Parking
+10|Concierge
+10|Room Service
+10|Pool
+10|Spa
+11|Restaurant
+11|Parking
+11|Concierge
+12|Spa
+12|Pool
+12|Restaurant
+13|Parking
+13|Bar
+13|Spa
+13|Room Service
+13|Free Wi-Fi
+14|Spa
+14|Parking
+14|Concierge
+14|Gym
+14|Free Wi-Fi
+14|Restaurant
+14|Bar
+14|Room Service
+14|Pool
+15|Pool
+15|Bar
+15|Spa
+15|Restaurant
+15|Concierge
+15|Gym
+16|Restaurant
+16|Bar
+16|Free Wi-Fi
+16|Concierge
+17|Spa
+17|Concierge
+17|Free Wi-Fi
+17|Pool
+17|Parking
+17|Gym
+17|Bar
+18|Bar
+18|Pool
+18|Free Wi-Fi
+18|Gym
+18|Parking
+18|Concierge
+19|Room Service
+19|Pool
+19|Concierge
+20|Free Wi-Fi
+20|Room Service
+20|Concierge
+20|Gym
+20|Restaurant
+20|Parking
+20|Bar
+20|Spa

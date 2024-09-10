@@ -1,0 +1,60 @@
+1|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+2|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+3|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+4|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+5|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+6|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+7|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+8|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+9|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+10|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+11|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+12|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+13|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+14|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+15|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+16|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+17|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+18|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+19|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+20|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+21|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+22|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+23|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+24|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+25|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+26|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+27|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+28|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+29|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+30|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+31|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+32|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+33|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+34|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+35|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+36|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+37|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+38|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+39|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+40|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+41|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+42|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+43|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+44|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+45|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+46|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+47|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+48|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+49|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+50|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+51|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+52|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Kitchenette, Medium Dining Table, Separate Bedroom(s), Small Balcony
+53|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+54|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+55|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+56|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table
+57|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Queen Sized Bed, Microwave
+58|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Two Queen Beds, Small Dining Table
+59|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Direct Elevator Access, Jacuzzi Tub, Two Bedrooms (one with king size bed, one with two queens), Private(roof-top) Terrace, Washer and Dryer
+60|TV, Desk, Mini-Fridge, Standard Bathroom, Couch, Three Queen Beds, Medium Dining Table

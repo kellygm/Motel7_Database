@@ -1,0 +1,7500 @@
+rented movie|5.0|1
+city tour|100.0|1
+mini-fridge used|20.0|1
+mini-fridge used|20.0|1
+rented movie|5.0|1
+mini-fridge used|20.0|2
+spa|50.0|2
+spa|50.0|2
+rented movie|5.0|2
+rented movie|5.0|2
+mini-fridge used|20.0|3
+mini-fridge used|20.0|3
+valet|10.0|3
+spa|50.0|3
+city tour|100.0|3
+room service|25.0|4
+spa|50.0|4
+city tour|100.0|4
+room service|25.0|4
+rented movie|5.0|4
+city tour|100.0|5
+valet|10.0|5
+rented movie|5.0|5
+rented movie|5.0|5
+city tour|100.0|5
+city tour|100.0|6
+valet|10.0|6
+city tour|100.0|6
+room service|25.0|6
+mini-fridge used|20.0|6
+mini-fridge used|20.0|7
+valet|10.0|7
+room service|25.0|7
+mini-fridge used|20.0|7
+room service|25.0|7
+valet|10.0|8
+room service|25.0|8
+valet|10.0|8
+room service|25.0|8
+room service|25.0|8
+city tour|100.0|9
+valet|10.0|9
+valet|10.0|9
+city tour|100.0|9
+rented movie|5.0|9
+valet|10.0|10
+room service|25.0|10
+spa|50.0|10
+valet|10.0|10
+room service|25.0|10
+spa|50.0|11
+rented movie|5.0|11
+room service|25.0|11
+spa|50.0|11
+rented movie|5.0|11
+rented movie|5.0|12
+rented movie|5.0|12
+valet|10.0|12
+rented movie|5.0|12
+mini-fridge used|20.0|12
+valet|10.0|13
+spa|50.0|13
+valet|10.0|13
+rented movie|5.0|13
+valet|10.0|13
+spa|50.0|14
+room service|25.0|14
+spa|50.0|14
+city tour|100.0|14
+spa|50.0|14
+mini-fridge used|20.0|15
+room service|25.0|15
+rented movie|5.0|15
+room service|25.0|15
+room service|25.0|15
+mini-fridge used|20.0|16
+mini-fridge used|20.0|16
+mini-fridge used|20.0|16
+valet|10.0|16
+rented movie|5.0|16
+city tour|100.0|17
+rented movie|5.0|17
+spa|50.0|17
+city tour|100.0|17
+spa|50.0|17
+city tour|100.0|18
+mini-fridge used|20.0|18
+valet|10.0|18
+valet|10.0|18
+rented movie|5.0|18
+valet|10.0|19
+rented movie|5.0|19
+room service|25.0|19
+room service|25.0|19
+city tour|100.0|19
+valet|10.0|20
+city tour|100.0|20
+spa|50.0|20
+rented movie|5.0|20
+spa|50.0|20
+rented movie|5.0|21
+city tour|100.0|21
+room service|25.0|21
+mini-fridge used|20.0|21
+city tour|100.0|21
+mini-fridge used|20.0|22
+valet|10.0|22
+valet|10.0|22
+spa|50.0|22
+valet|10.0|22
+rented movie|5.0|23
+valet|10.0|23
+room service|25.0|23
+valet|10.0|23
+rented movie|5.0|23
+city tour|100.0|24
+rented movie|5.0|24
+valet|10.0|24
+city tour|100.0|24
+valet|10.0|24
+spa|50.0|25
+spa|50.0|25
+valet|10.0|25
+rented movie|5.0|25
+spa|50.0|25
+room service|25.0|26
+spa|50.0|26
+mini-fridge used|20.0|26
+valet|10.0|26
+valet|10.0|26
+spa|50.0|27
+mini-fridge used|20.0|27
+city tour|100.0|27
+rented movie|5.0|27
+room service|25.0|27
+city tour|100.0|28
+spa|50.0|28
+valet|10.0|28
+spa|50.0|28
+spa|50.0|28
+spa|50.0|29
+city tour|100.0|29
+valet|10.0|29
+valet|10.0|29
+city tour|100.0|29
+rented movie|5.0|30
+spa|50.0|30
+room service|25.0|30
+room service|25.0|30
+city tour|100.0|30
+room service|25.0|31
+mini-fridge used|20.0|31
+city tour|100.0|31
+city tour|100.0|31
+valet|10.0|31
+room service|25.0|32
+spa|50.0|32
+valet|10.0|32
+spa|50.0|32
+room service|25.0|32
+city tour|100.0|33
+mini-fridge used|20.0|33
+spa|50.0|33
+city tour|100.0|33
+valet|10.0|33
+room service|25.0|34
+city tour|100.0|34
+mini-fridge used|20.0|34
+mini-fridge used|20.0|34
+mini-fridge used|20.0|34
+spa|50.0|35
+spa|50.0|35
+spa|50.0|35
+room service|25.0|35
+room service|25.0|35
+spa|50.0|36
+valet|10.0|36
+valet|10.0|36
+spa|50.0|36
+rented movie|5.0|36
+valet|10.0|37
+mini-fridge used|20.0|37
+mini-fridge used|20.0|37
+spa|50.0|37
+mini-fridge used|20.0|37
+spa|50.0|38
+room service|25.0|38
+valet|10.0|38
+valet|10.0|38
+city tour|100.0|38
+city tour|100.0|39
+city tour|100.0|39
+room service|25.0|39
+room service|25.0|39
+valet|10.0|39
+spa|50.0|40
+mini-fridge used|20.0|40
+spa|50.0|40
+mini-fridge used|20.0|40
+city tour|100.0|40
+mini-fridge used|20.0|41
+spa|50.0|41
+city tour|100.0|41
+room service|25.0|41
+city tour|100.0|41
+valet|10.0|42
+valet|10.0|42
+city tour|100.0|42
+rented movie|5.0|42
+rented movie|5.0|42
+city tour|100.0|43
+city tour|100.0|43
+spa|50.0|43
+mini-fridge used|20.0|43
+mini-fridge used|20.0|43
+valet|10.0|44
+mini-fridge used|20.0|44
+valet|10.0|44
+mini-fridge used|20.0|44
+mini-fridge used|20.0|44
+spa|50.0|45
+spa|50.0|45
+city tour|100.0|45
+mini-fridge used|20.0|45
+mini-fridge used|20.0|45
+mini-fridge used|20.0|46
+spa|50.0|46
+rented movie|5.0|46
+rented movie|5.0|46
+rented movie|5.0|46
+spa|50.0|47
+rented movie|5.0|47
+rented movie|5.0|47
+spa|50.0|47
+valet|10.0|47
+valet|10.0|48
+valet|10.0|48
+mini-fridge used|20.0|48
+rented movie|5.0|48
+spa|50.0|48
+mini-fridge used|20.0|49
+mini-fridge used|20.0|49
+mini-fridge used|20.0|49
+valet|10.0|49
+valet|10.0|49
+mini-fridge used|20.0|50
+room service|25.0|50
+mini-fridge used|20.0|50
+city tour|100.0|50
+mini-fridge used|20.0|50
+valet|10.0|51
+room service|25.0|51
+room service|25.0|51
+spa|50.0|51
+valet|10.0|51
+city tour|100.0|52
+spa|50.0|52
+room service|25.0|52
+city tour|100.0|52
+spa|50.0|52
+mini-fridge used|20.0|53
+mini-fridge used|20.0|53
+rented movie|5.0|53
+mini-fridge used|20.0|53
+rented movie|5.0|53
+spa|50.0|54
+rented movie|5.0|54
+rented movie|5.0|54
+spa|50.0|54
+city tour|100.0|54
+valet|10.0|55
+city tour|100.0|55
+rented movie|5.0|55
+spa|50.0|55
+room service|25.0|55
+city tour|100.0|56
+room service|25.0|56
+city tour|100.0|56
+mini-fridge used|20.0|56
+rented movie|5.0|56
+rented movie|5.0|57
+rented movie|5.0|57
+valet|10.0|57
+spa|50.0|57
+valet|10.0|57
+rented movie|5.0|58
+rented movie|5.0|58
+spa|50.0|58
+city tour|100.0|58
+spa|50.0|58
+rented movie|5.0|59
+spa|50.0|59
+valet|10.0|59
+rented movie|5.0|59
+room service|25.0|59
+spa|50.0|60
+valet|10.0|60
+room service|25.0|60
+rented movie|5.0|60
+mini-fridge used|20.0|60
+rented movie|5.0|61
+rented movie|5.0|61
+city tour|100.0|61
+mini-fridge used|20.0|61
+mini-fridge used|20.0|61
+city tour|100.0|62
+spa|50.0|62
+spa|50.0|62
+room service|25.0|62
+mini-fridge used|20.0|62
+spa|50.0|63
+room service|25.0|63
+valet|10.0|63
+spa|50.0|63
+city tour|100.0|63
+valet|10.0|64
+valet|10.0|64
+mini-fridge used|20.0|64
+valet|10.0|64
+spa|50.0|64
+city tour|100.0|65
+rented movie|5.0|65
+spa|50.0|65
+valet|10.0|65
+rented movie|5.0|65
+valet|10.0|66
+spa|50.0|66
+city tour|100.0|66
+spa|50.0|66
+city tour|100.0|66
+room service|25.0|67
+rented movie|5.0|67
+spa|50.0|67
+valet|10.0|67
+room service|25.0|67
+valet|10.0|68
+rented movie|5.0|68
+city tour|100.0|68
+city tour|100.0|68
+spa|50.0|68
+rented movie|5.0|69
+valet|10.0|69
+rented movie|5.0|69
+valet|10.0|69
+room service|25.0|69
+spa|50.0|70
+city tour|100.0|70
+valet|10.0|70
+city tour|100.0|70
+room service|25.0|70
+room service|25.0|71
+valet|10.0|71
+valet|10.0|71
+valet|10.0|71
+rented movie|5.0|71
+room service|25.0|72
+rented movie|5.0|72
+spa|50.0|72
+spa|50.0|72
+room service|25.0|72
+city tour|100.0|73
+valet|10.0|73
+spa|50.0|73
+valet|10.0|73
+room service|25.0|73
+spa|50.0|74
+city tour|100.0|74
+rented movie|5.0|74
+mini-fridge used|20.0|74
+mini-fridge used|20.0|74
+spa|50.0|75
+spa|50.0|75
+city tour|100.0|75
+rented movie|5.0|75
+room service|25.0|75
+spa|50.0|76
+spa|50.0|76
+spa|50.0|76
+city tour|100.0|76
+valet|10.0|76
+spa|50.0|77
+rented movie|5.0|77
+city tour|100.0|77
+spa|50.0|77
+spa|50.0|77
+rented movie|5.0|78
+mini-fridge used|20.0|78
+rented movie|5.0|78
+rented movie|5.0|78
+mini-fridge used|20.0|78
+room service|25.0|79
+mini-fridge used|20.0|79
+spa|50.0|79
+city tour|100.0|79
+valet|10.0|79
+valet|10.0|80
+city tour|100.0|80
+spa|50.0|80
+mini-fridge used|20.0|80
+city tour|100.0|80
+spa|50.0|81
+spa|50.0|81
+mini-fridge used|20.0|81
+rented movie|5.0|81
+spa|50.0|81
+city tour|100.0|82
+rented movie|5.0|82
+mini-fridge used|20.0|82
+mini-fridge used|20.0|82
+mini-fridge used|20.0|82
+spa|50.0|83
+room service|25.0|83
+room service|25.0|83
+spa|50.0|83
+spa|50.0|83
+spa|50.0|84
+spa|50.0|84
+rented movie|5.0|84
+valet|10.0|84
+room service|25.0|84
+rented movie|5.0|85
+city tour|100.0|85
+city tour|100.0|85
+spa|50.0|85
+room service|25.0|85
+spa|50.0|86
+room service|25.0|86
+room service|25.0|86
+spa|50.0|86
+rented movie|5.0|86
+room service|25.0|87
+spa|50.0|87
+valet|10.0|87
+rented movie|5.0|87
+room service|25.0|87
+spa|50.0|88
+rented movie|5.0|88
+spa|50.0|88
+city tour|100.0|88
+valet|10.0|88
+city tour|100.0|89
+spa|50.0|89
+valet|10.0|89
+rented movie|5.0|89
+city tour|100.0|89
+valet|10.0|90
+room service|25.0|90
+spa|50.0|90
+room service|25.0|90
+city tour|100.0|90
+mini-fridge used|20.0|91
+spa|50.0|91
+valet|10.0|91
+room service|25.0|91
+city tour|100.0|91
+room service|25.0|92
+valet|10.0|92
+mini-fridge used|20.0|92
+room service|25.0|92
+mini-fridge used|20.0|92
+mini-fridge used|20.0|93
+room service|25.0|93
+valet|10.0|93
+city tour|100.0|93
+valet|10.0|93
+spa|50.0|94
+room service|25.0|94
+city tour|100.0|94
+spa|50.0|94
+spa|50.0|94
+valet|10.0|95
+rented movie|5.0|95
+spa|50.0|95
+room service|25.0|95
+mini-fridge used|20.0|95
+valet|10.0|96
+mini-fridge used|20.0|96
+rented movie|5.0|96
+room service|25.0|96
+valet|10.0|96
+spa|50.0|97
+spa|50.0|97
+spa|50.0|97
+valet|10.0|97
+city tour|100.0|97
+spa|50.0|98
+city tour|100.0|98
+valet|10.0|98
+valet|10.0|98
+rented movie|5.0|98
+valet|10.0|99
+mini-fridge used|20.0|99
+spa|50.0|99
+city tour|100.0|99
+rented movie|5.0|99
+rented movie|5.0|100
+rented movie|5.0|100
+rented movie|5.0|100
+city tour|100.0|100
+mini-fridge used|20.0|100
+room service|25.0|101
+rented movie|5.0|101
+room service|25.0|101
+spa|50.0|101
+valet|10.0|101
+valet|10.0|102
+mini-fridge used|20.0|102
+rented movie|5.0|102
+room service|25.0|102
+room service|25.0|102
+valet|10.0|103
+city tour|100.0|103
+city tour|100.0|103
+valet|10.0|103
+rented movie|5.0|103
+room service|25.0|104
+spa|50.0|104
+rented movie|5.0|104
+room service|25.0|104
+mini-fridge used|20.0|104
+city tour|100.0|105
+mini-fridge used|20.0|105
+valet|10.0|105
+city tour|100.0|105
+rented movie|5.0|105
+rented movie|5.0|106
+rented movie|5.0|106
+spa|50.0|106
+rented movie|5.0|106
+spa|50.0|106
+city tour|100.0|107
+city tour|100.0|107
+spa|50.0|107
+valet|10.0|107
+spa|50.0|107
+spa|50.0|108
+rented movie|5.0|108
+room service|25.0|108
+rented movie|5.0|108
+city tour|100.0|108
+mini-fridge used|20.0|109
+rented movie|5.0|109
+spa|50.0|109
+room service|25.0|109
+rented movie|5.0|109
+rented movie|5.0|110
+rented movie|5.0|110
+mini-fridge used|20.0|110
+rented movie|5.0|110
+room service|25.0|110
+spa|50.0|111
+spa|50.0|111
+room service|25.0|111
+rented movie|5.0|111
+rented movie|5.0|111
+spa|50.0|112
+city tour|100.0|112
+mini-fridge used|20.0|112
+spa|50.0|112
+room service|25.0|112
+mini-fridge used|20.0|113
+spa|50.0|113
+room service|25.0|113
+room service|25.0|113
+room service|25.0|113
+spa|50.0|114
+city tour|100.0|114
+city tour|100.0|114
+spa|50.0|114
+mini-fridge used|20.0|114
+rented movie|5.0|115
+room service|25.0|115
+rented movie|5.0|115
+spa|50.0|115
+mini-fridge used|20.0|115
+mini-fridge used|20.0|116
+room service|25.0|116
+valet|10.0|116
+city tour|100.0|116
+mini-fridge used|20.0|116
+rented movie|5.0|117
+mini-fridge used|20.0|117
+spa|50.0|117
+valet|10.0|117
+valet|10.0|117
+valet|10.0|118
+room service|25.0|118
+spa|50.0|118
+valet|10.0|118
+spa|50.0|118
+room service|25.0|119
+city tour|100.0|119
+room service|25.0|119
+rented movie|5.0|119
+rented movie|5.0|119
+valet|10.0|120
+rented movie|5.0|120
+valet|10.0|120
+mini-fridge used|20.0|120
+valet|10.0|120
+spa|50.0|121
+valet|10.0|121
+rented movie|5.0|121
+room service|25.0|121
+valet|10.0|121
+rented movie|5.0|122
+city tour|100.0|122
+spa|50.0|122
+city tour|100.0|122
+spa|50.0|122
+spa|50.0|123
+room service|25.0|123
+spa|50.0|123
+rented movie|5.0|123
+valet|10.0|123
+mini-fridge used|20.0|124
+city tour|100.0|124
+rented movie|5.0|124
+city tour|100.0|124
+city tour|100.0|124
+mini-fridge used|20.0|125
+room service|25.0|125
+spa|50.0|125
+valet|10.0|125
+city tour|100.0|125
+spa|50.0|126
+rented movie|5.0|126
+city tour|100.0|126
+room service|25.0|126
+valet|10.0|126
+room service|25.0|127
+mini-fridge used|20.0|127
+mini-fridge used|20.0|127
+mini-fridge used|20.0|127
+rented movie|5.0|127
+spa|50.0|128
+city tour|100.0|128
+valet|10.0|128
+valet|10.0|128
+spa|50.0|128
+room service|25.0|129
+rented movie|5.0|129
+room service|25.0|129
+room service|25.0|129
+city tour|100.0|129
+valet|10.0|130
+room service|25.0|130
+city tour|100.0|130
+spa|50.0|130
+city tour|100.0|130
+mini-fridge used|20.0|131
+city tour|100.0|131
+room service|25.0|131
+valet|10.0|131
+city tour|100.0|131
+room service|25.0|132
+room service|25.0|132
+city tour|100.0|132
+spa|50.0|132
+valet|10.0|132
+rented movie|5.0|133
+mini-fridge used|20.0|133
+spa|50.0|133
+spa|50.0|133
+mini-fridge used|20.0|133
+rented movie|5.0|134
+spa|50.0|134
+room service|25.0|134
+city tour|100.0|134
+mini-fridge used|20.0|134
+room service|25.0|135
+room service|25.0|135
+room service|25.0|135
+room service|25.0|135
+city tour|100.0|135
+spa|50.0|136
+room service|25.0|136
+rented movie|5.0|136
+rented movie|5.0|136
+rented movie|5.0|136
+spa|50.0|137
+city tour|100.0|137
+rented movie|5.0|137
+rented movie|5.0|137
+rented movie|5.0|137
+room service|25.0|138
+valet|10.0|138
+mini-fridge used|20.0|138
+spa|50.0|138
+mini-fridge used|20.0|138
+mini-fridge used|20.0|139
+city tour|100.0|139
+rented movie|5.0|139
+spa|50.0|139
+spa|50.0|139
+mini-fridge used|20.0|140
+city tour|100.0|140
+city tour|100.0|140
+city tour|100.0|140
+city tour|100.0|140
+spa|50.0|141
+room service|25.0|141
+valet|10.0|141
+mini-fridge used|20.0|141
+spa|50.0|141
+mini-fridge used|20.0|142
+city tour|100.0|142
+spa|50.0|142
+valet|10.0|142
+city tour|100.0|142
+room service|25.0|143
+room service|25.0|143
+rented movie|5.0|143
+room service|25.0|143
+rented movie|5.0|143
+room service|25.0|144
+spa|50.0|144
+room service|25.0|144
+spa|50.0|144
+valet|10.0|144
+mini-fridge used|20.0|145
+mini-fridge used|20.0|145
+mini-fridge used|20.0|145
+mini-fridge used|20.0|145
+mini-fridge used|20.0|145
+spa|50.0|146
+rented movie|5.0|146
+rented movie|5.0|146
+rented movie|5.0|146
+spa|50.0|146
+room service|25.0|147
+room service|25.0|147
+valet|10.0|147
+room service|25.0|147
+valet|10.0|147
+city tour|100.0|148
+room service|25.0|148
+valet|10.0|148
+spa|50.0|148
+rented movie|5.0|148
+rented movie|5.0|149
+room service|25.0|149
+room service|25.0|149
+spa|50.0|149
+mini-fridge used|20.0|149
+city tour|100.0|150
+room service|25.0|150
+valet|10.0|150
+rented movie|5.0|150
+city tour|100.0|150
+spa|50.0|151
+room service|25.0|151
+room service|25.0|151
+room service|25.0|151
+spa|50.0|151
+mini-fridge used|20.0|152
+room service|25.0|152
+spa|50.0|152
+rented movie|5.0|152
+room service|25.0|152
+city tour|100.0|153
+city tour|100.0|153
+room service|25.0|153
+mini-fridge used|20.0|153
+city tour|100.0|153
+mini-fridge used|20.0|154
+room service|25.0|154
+city tour|100.0|154
+mini-fridge used|20.0|154
+mini-fridge used|20.0|154
+city tour|100.0|155
+city tour|100.0|155
+city tour|100.0|155
+rented movie|5.0|155
+rented movie|5.0|155
+mini-fridge used|20.0|156
+room service|25.0|156
+spa|50.0|156
+spa|50.0|156
+valet|10.0|156
+spa|50.0|157
+mini-fridge used|20.0|157
+valet|10.0|157
+valet|10.0|157
+rented movie|5.0|157
+mini-fridge used|20.0|158
+room service|25.0|158
+mini-fridge used|20.0|158
+spa|50.0|158
+rented movie|5.0|158
+mini-fridge used|20.0|159
+city tour|100.0|159
+rented movie|5.0|159
+rented movie|5.0|159
+mini-fridge used|20.0|159
+rented movie|5.0|160
+rented movie|5.0|160
+rented movie|5.0|160
+city tour|100.0|160
+mini-fridge used|20.0|160
+city tour|100.0|161
+city tour|100.0|161
+rented movie|5.0|161
+mini-fridge used|20.0|161
+valet|10.0|161
+city tour|100.0|162
+rented movie|5.0|162
+mini-fridge used|20.0|162
+city tour|100.0|162
+valet|10.0|162
+rented movie|5.0|163
+valet|10.0|163
+rented movie|5.0|163
+mini-fridge used|20.0|163
+mini-fridge used|20.0|163
+mini-fridge used|20.0|164
+room service|25.0|164
+valet|10.0|164
+city tour|100.0|164
+valet|10.0|164
+room service|25.0|165
+city tour|100.0|165
+valet|10.0|165
+valet|10.0|165
+valet|10.0|165
+rented movie|5.0|166
+spa|50.0|166
+valet|10.0|166
+rented movie|5.0|166
+spa|50.0|166
+spa|50.0|167
+room service|25.0|167
+city tour|100.0|167
+spa|50.0|167
+room service|25.0|167
+mini-fridge used|20.0|168
+city tour|100.0|168
+mini-fridge used|20.0|168
+mini-fridge used|20.0|168
+city tour|100.0|168
+rented movie|5.0|169
+room service|25.0|169
+room service|25.0|169
+valet|10.0|169
+room service|25.0|169
+valet|10.0|170
+city tour|100.0|170
+spa|50.0|170
+rented movie|5.0|170
+valet|10.0|170
+mini-fridge used|20.0|171
+city tour|100.0|171
+city tour|100.0|171
+spa|50.0|171
+valet|10.0|171
+mini-fridge used|20.0|172
+rented movie|5.0|172
+spa|50.0|172
+city tour|100.0|172
+rented movie|5.0|172
+rented movie|5.0|173
+mini-fridge used|20.0|173
+valet|10.0|173
+mini-fridge used|20.0|173
+spa|50.0|173
+spa|50.0|174
+city tour|100.0|174
+valet|10.0|174
+rented movie|5.0|174
+valet|10.0|174
+valet|10.0|175
+rented movie|5.0|175
+mini-fridge used|20.0|175
+city tour|100.0|175
+valet|10.0|175
+room service|25.0|176
+valet|10.0|176
+room service|25.0|176
+room service|25.0|176
+rented movie|5.0|176
+spa|50.0|177
+city tour|100.0|177
+room service|25.0|177
+room service|25.0|177
+room service|25.0|177
+mini-fridge used|20.0|178
+rented movie|5.0|178
+valet|10.0|178
+rented movie|5.0|178
+room service|25.0|178
+room service|25.0|179
+spa|50.0|179
+room service|25.0|179
+valet|10.0|179
+mini-fridge used|20.0|179
+rented movie|5.0|180
+spa|50.0|180
+city tour|100.0|180
+city tour|100.0|180
+spa|50.0|180
+city tour|100.0|181
+mini-fridge used|20.0|181
+city tour|100.0|181
+mini-fridge used|20.0|181
+valet|10.0|181
+rented movie|5.0|182
+valet|10.0|182
+mini-fridge used|20.0|182
+spa|50.0|182
+mini-fridge used|20.0|182
+room service|25.0|183
+rented movie|5.0|183
+valet|10.0|183
+mini-fridge used|20.0|183
+room service|25.0|183
+rented movie|5.0|184
+room service|25.0|184
+spa|50.0|184
+spa|50.0|184
+rented movie|5.0|184
+rented movie|5.0|185
+valet|10.0|185
+valet|10.0|185
+city tour|100.0|185
+valet|10.0|185
+mini-fridge used|20.0|186
+mini-fridge used|20.0|186
+room service|25.0|186
+mini-fridge used|20.0|186
+mini-fridge used|20.0|186
+city tour|100.0|187
+spa|50.0|187
+valet|10.0|187
+rented movie|5.0|187
+room service|25.0|187
+city tour|100.0|188
+mini-fridge used|20.0|188
+valet|10.0|188
+room service|25.0|188
+mini-fridge used|20.0|188
+valet|10.0|189
+rented movie|5.0|189
+room service|25.0|189
+spa|50.0|189
+valet|10.0|189
+city tour|100.0|190
+spa|50.0|190
+mini-fridge used|20.0|190
+spa|50.0|190
+room service|25.0|190
+valet|10.0|191
+spa|50.0|191
+rented movie|5.0|191
+mini-fridge used|20.0|191
+city tour|100.0|191
+room service|25.0|192
+city tour|100.0|192
+room service|25.0|192
+mini-fridge used|20.0|192
+valet|10.0|192
+mini-fridge used|20.0|193
+rented movie|5.0|193
+rented movie|5.0|193
+room service|25.0|193
+rented movie|5.0|193
+room service|25.0|194
+mini-fridge used|20.0|194
+valet|10.0|194
+rented movie|5.0|194
+valet|10.0|194
+valet|10.0|195
+mini-fridge used|20.0|195
+room service|25.0|195
+mini-fridge used|20.0|195
+spa|50.0|195
+rented movie|5.0|196
+rented movie|5.0|196
+valet|10.0|196
+room service|25.0|196
+city tour|100.0|196
+city tour|100.0|197
+room service|25.0|197
+room service|25.0|197
+mini-fridge used|20.0|197
+spa|50.0|197
+spa|50.0|198
+city tour|100.0|198
+spa|50.0|198
+valet|10.0|198
+room service|25.0|198
+city tour|100.0|199
+valet|10.0|199
+spa|50.0|199
+mini-fridge used|20.0|199
+spa|50.0|199
+rented movie|5.0|200
+spa|50.0|200
+rented movie|5.0|200
+mini-fridge used|20.0|200
+rented movie|5.0|200
+mini-fridge used|20.0|201
+city tour|100.0|201
+city tour|100.0|201
+room service|25.0|201
+city tour|100.0|201
+city tour|100.0|202
+spa|50.0|202
+valet|10.0|202
+room service|25.0|202
+rented movie|5.0|202
+spa|50.0|203
+room service|25.0|203
+rented movie|5.0|203
+rented movie|5.0|203
+city tour|100.0|203
+rented movie|5.0|204
+rented movie|5.0|204
+spa|50.0|204
+valet|10.0|204
+mini-fridge used|20.0|204
+spa|50.0|205
+valet|10.0|205
+valet|10.0|205
+room service|25.0|205
+rented movie|5.0|205
+valet|10.0|206
+room service|25.0|206
+room service|25.0|206
+spa|50.0|206
+room service|25.0|206
+room service|25.0|207
+city tour|100.0|207
+mini-fridge used|20.0|207
+mini-fridge used|20.0|207
+city tour|100.0|207
+rented movie|5.0|208
+room service|25.0|208
+valet|10.0|208
+mini-fridge used|20.0|208
+valet|10.0|208
+room service|25.0|209
+rented movie|5.0|209
+mini-fridge used|20.0|209
+valet|10.0|209
+room service|25.0|209
+rented movie|5.0|210
+spa|50.0|210
+rented movie|5.0|210
+room service|25.0|210
+room service|25.0|210
+room service|25.0|211
+mini-fridge used|20.0|211
+mini-fridge used|20.0|211
+city tour|100.0|211
+rented movie|5.0|211
+valet|10.0|212
+rented movie|5.0|212
+room service|25.0|212
+spa|50.0|212
+rented movie|5.0|212
+rented movie|5.0|213
+room service|25.0|213
+spa|50.0|213
+rented movie|5.0|213
+mini-fridge used|20.0|213
+mini-fridge used|20.0|214
+city tour|100.0|214
+room service|25.0|214
+city tour|100.0|214
+valet|10.0|214
+valet|10.0|215
+rented movie|5.0|215
+rented movie|5.0|215
+room service|25.0|215
+mini-fridge used|20.0|215
+mini-fridge used|20.0|216
+mini-fridge used|20.0|216
+city tour|100.0|216
+room service|25.0|216
+rented movie|5.0|216
+spa|50.0|217
+city tour|100.0|217
+spa|50.0|217
+mini-fridge used|20.0|217
+rented movie|5.0|217
+mini-fridge used|20.0|218
+spa|50.0|218
+city tour|100.0|218
+valet|10.0|218
+valet|10.0|218
+room service|25.0|219
+valet|10.0|219
+valet|10.0|219
+mini-fridge used|20.0|219
+mini-fridge used|20.0|219
+room service|25.0|220
+room service|25.0|220
+mini-fridge used|20.0|220
+spa|50.0|220
+valet|10.0|220
+spa|50.0|221
+mini-fridge used|20.0|221
+valet|10.0|221
+mini-fridge used|20.0|221
+room service|25.0|221
+valet|10.0|222
+room service|25.0|222
+rented movie|5.0|222
+spa|50.0|222
+room service|25.0|222
+spa|50.0|223
+mini-fridge used|20.0|223
+city tour|100.0|223
+mini-fridge used|20.0|223
+city tour|100.0|223
+rented movie|5.0|224
+room service|25.0|224
+rented movie|5.0|224
+rented movie|5.0|224
+rented movie|5.0|224
+rented movie|5.0|225
+city tour|100.0|225
+rented movie|5.0|225
+valet|10.0|225
+spa|50.0|225
+spa|50.0|226
+spa|50.0|226
+room service|25.0|226
+city tour|100.0|226
+spa|50.0|226
+room service|25.0|227
+spa|50.0|227
+valet|10.0|227
+room service|25.0|227
+rented movie|5.0|227
+city tour|100.0|228
+spa|50.0|228
+mini-fridge used|20.0|228
+valet|10.0|228
+valet|10.0|228
+valet|10.0|229
+valet|10.0|229
+mini-fridge used|20.0|229
+valet|10.0|229
+city tour|100.0|229
+rented movie|5.0|230
+valet|10.0|230
+room service|25.0|230
+valet|10.0|230
+mini-fridge used|20.0|230
+room service|25.0|231
+city tour|100.0|231
+mini-fridge used|20.0|231
+spa|50.0|231
+rented movie|5.0|231
+valet|10.0|232
+spa|50.0|232
+city tour|100.0|232
+rented movie|5.0|232
+room service|25.0|232
+room service|25.0|233
+valet|10.0|233
+valet|10.0|233
+spa|50.0|233
+city tour|100.0|233
+spa|50.0|234
+valet|10.0|234
+rented movie|5.0|234
+valet|10.0|234
+room service|25.0|234
+valet|10.0|235
+room service|25.0|235
+room service|25.0|235
+room service|25.0|235
+spa|50.0|235
+mini-fridge used|20.0|236
+city tour|100.0|236
+valet|10.0|236
+mini-fridge used|20.0|236
+mini-fridge used|20.0|236
+mini-fridge used|20.0|237
+city tour|100.0|237
+valet|10.0|237
+room service|25.0|237
+room service|25.0|237
+spa|50.0|238
+room service|25.0|238
+valet|10.0|238
+mini-fridge used|20.0|238
+city tour|100.0|238
+valet|10.0|239
+rented movie|5.0|239
+room service|25.0|239
+spa|50.0|239
+city tour|100.0|239
+spa|50.0|240
+mini-fridge used|20.0|240
+rented movie|5.0|240
+room service|25.0|240
+spa|50.0|240
+city tour|100.0|241
+room service|25.0|241
+room service|25.0|241
+rented movie|5.0|241
+mini-fridge used|20.0|241
+spa|50.0|242
+valet|10.0|242
+spa|50.0|242
+city tour|100.0|242
+valet|10.0|242
+mini-fridge used|20.0|243
+rented movie|5.0|243
+mini-fridge used|20.0|243
+spa|50.0|243
+rented movie|5.0|243
+valet|10.0|244
+city tour|100.0|244
+mini-fridge used|20.0|244
+city tour|100.0|244
+mini-fridge used|20.0|244
+valet|10.0|245
+spa|50.0|245
+rented movie|5.0|245
+valet|10.0|245
+mini-fridge used|20.0|245
+room service|25.0|246
+valet|10.0|246
+spa|50.0|246
+room service|25.0|246
+room service|25.0|246
+city tour|100.0|247
+rented movie|5.0|247
+mini-fridge used|20.0|247
+room service|25.0|247
+mini-fridge used|20.0|247
+spa|50.0|248
+city tour|100.0|248
+room service|25.0|248
+rented movie|5.0|248
+room service|25.0|248
+rented movie|5.0|249
+spa|50.0|249
+rented movie|5.0|249
+city tour|100.0|249
+valet|10.0|249
+mini-fridge used|20.0|250
+room service|25.0|250
+room service|25.0|250
+valet|10.0|250
+mini-fridge used|20.0|250
+spa|50.0|251
+rented movie|5.0|251
+room service|25.0|251
+room service|25.0|251
+mini-fridge used|20.0|251
+spa|50.0|252
+city tour|100.0|252
+rented movie|5.0|252
+valet|10.0|252
+rented movie|5.0|252
+valet|10.0|253
+valet|10.0|253
+mini-fridge used|20.0|253
+valet|10.0|253
+valet|10.0|253
+room service|25.0|254
+mini-fridge used|20.0|254
+city tour|100.0|254
+rented movie|5.0|254
+mini-fridge used|20.0|254
+valet|10.0|255
+room service|25.0|255
+room service|25.0|255
+mini-fridge used|20.0|255
+valet|10.0|255
+room service|25.0|256
+mini-fridge used|20.0|256
+room service|25.0|256
+city tour|100.0|256
+spa|50.0|256
+city tour|100.0|257
+mini-fridge used|20.0|257
+rented movie|5.0|257
+city tour|100.0|257
+rented movie|5.0|257
+mini-fridge used|20.0|258
+rented movie|5.0|258
+rented movie|5.0|258
+rented movie|5.0|258
+city tour|100.0|258
+valet|10.0|259
+rented movie|5.0|259
+city tour|100.0|259
+spa|50.0|259
+rented movie|5.0|259
+room service|25.0|260
+valet|10.0|260
+mini-fridge used|20.0|260
+city tour|100.0|260
+room service|25.0|260
+room service|25.0|261
+spa|50.0|261
+city tour|100.0|261
+mini-fridge used|20.0|261
+city tour|100.0|261
+spa|50.0|262
+room service|25.0|262
+rented movie|5.0|262
+city tour|100.0|262
+rented movie|5.0|262
+rented movie|5.0|263
+city tour|100.0|263
+spa|50.0|263
+rented movie|5.0|263
+spa|50.0|263
+valet|10.0|264
+valet|10.0|264
+city tour|100.0|264
+rented movie|5.0|264
+mini-fridge used|20.0|264
+valet|10.0|265
+city tour|100.0|265
+room service|25.0|265
+spa|50.0|265
+mini-fridge used|20.0|265
+city tour|100.0|266
+mini-fridge used|20.0|266
+mini-fridge used|20.0|266
+room service|25.0|266
+mini-fridge used|20.0|266
+spa|50.0|267
+spa|50.0|267
+valet|10.0|267
+valet|10.0|267
+city tour|100.0|267
+rented movie|5.0|268
+city tour|100.0|268
+spa|50.0|268
+room service|25.0|268
+room service|25.0|268
+city tour|100.0|269
+valet|10.0|269
+spa|50.0|269
+room service|25.0|269
+room service|25.0|269
+valet|10.0|270
+spa|50.0|270
+rented movie|5.0|270
+spa|50.0|270
+city tour|100.0|270
+room service|25.0|271
+rented movie|5.0|271
+spa|50.0|271
+mini-fridge used|20.0|271
+spa|50.0|271
+mini-fridge used|20.0|272
+city tour|100.0|272
+room service|25.0|272
+city tour|100.0|272
+rented movie|5.0|272
+city tour|100.0|273
+rented movie|5.0|273
+room service|25.0|273
+mini-fridge used|20.0|273
+mini-fridge used|20.0|273
+room service|25.0|274
+mini-fridge used|20.0|274
+rented movie|5.0|274
+mini-fridge used|20.0|274
+rented movie|5.0|274
+room service|25.0|275
+spa|50.0|275
+spa|50.0|275
+spa|50.0|275
+rented movie|5.0|275
+mini-fridge used|20.0|276
+valet|10.0|276
+valet|10.0|276
+spa|50.0|276
+room service|25.0|276
+spa|50.0|277
+city tour|100.0|277
+city tour|100.0|277
+spa|50.0|277
+mini-fridge used|20.0|277
+valet|10.0|278
+city tour|100.0|278
+mini-fridge used|20.0|278
+city tour|100.0|278
+spa|50.0|278
+valet|10.0|279
+spa|50.0|279
+city tour|100.0|279
+rented movie|5.0|279
+spa|50.0|279
+valet|10.0|280
+valet|10.0|280
+spa|50.0|280
+mini-fridge used|20.0|280
+city tour|100.0|280
+rented movie|5.0|281
+rented movie|5.0|281
+city tour|100.0|281
+spa|50.0|281
+spa|50.0|281
+spa|50.0|282
+spa|50.0|282
+valet|10.0|282
+city tour|100.0|282
+city tour|100.0|282
+rented movie|5.0|283
+mini-fridge used|20.0|283
+room service|25.0|283
+valet|10.0|283
+mini-fridge used|20.0|283
+rented movie|5.0|284
+mini-fridge used|20.0|284
+city tour|100.0|284
+mini-fridge used|20.0|284
+mini-fridge used|20.0|284
+spa|50.0|285
+valet|10.0|285
+mini-fridge used|20.0|285
+spa|50.0|285
+mini-fridge used|20.0|285
+city tour|100.0|286
+room service|25.0|286
+valet|10.0|286
+room service|25.0|286
+room service|25.0|286
+mini-fridge used|20.0|287
+spa|50.0|287
+mini-fridge used|20.0|287
+mini-fridge used|20.0|287
+rented movie|5.0|287
+room service|25.0|288
+room service|25.0|288
+room service|25.0|288
+city tour|100.0|288
+city tour|100.0|288
+rented movie|5.0|289
+valet|10.0|289
+valet|10.0|289
+mini-fridge used|20.0|289
+valet|10.0|289
+room service|25.0|290
+mini-fridge used|20.0|290
+spa|50.0|290
+spa|50.0|290
+valet|10.0|290
+spa|50.0|291
+room service|25.0|291
+valet|10.0|291
+city tour|100.0|291
+room service|25.0|291
+spa|50.0|292
+room service|25.0|292
+city tour|100.0|292
+valet|10.0|292
+city tour|100.0|292
+spa|50.0|293
+room service|25.0|293
+rented movie|5.0|293
+city tour|100.0|293
+room service|25.0|293
+valet|10.0|294
+room service|25.0|294
+spa|50.0|294
+spa|50.0|294
+rented movie|5.0|294
+room service|25.0|295
+mini-fridge used|20.0|295
+valet|10.0|295
+spa|50.0|295
+spa|50.0|295
+rented movie|5.0|296
+rented movie|5.0|296
+rented movie|5.0|296
+spa|50.0|296
+valet|10.0|296
+valet|10.0|297
+room service|25.0|297
+room service|25.0|297
+valet|10.0|297
+city tour|100.0|297
+mini-fridge used|20.0|298
+valet|10.0|298
+valet|10.0|298
+valet|10.0|298
+valet|10.0|298
+mini-fridge used|20.0|299
+rented movie|5.0|299
+spa|50.0|299
+city tour|100.0|299
+valet|10.0|299
+spa|50.0|300
+room service|25.0|300
+city tour|100.0|300
+spa|50.0|300
+mini-fridge used|20.0|300
+rented movie|5.0|301
+valet|10.0|301
+city tour|100.0|301
+city tour|100.0|301
+city tour|100.0|301
+room service|25.0|302
+rented movie|5.0|302
+valet|10.0|302
+room service|25.0|302
+room service|25.0|302
+spa|50.0|303
+spa|50.0|303
+mini-fridge used|20.0|303
+rented movie|5.0|303
+room service|25.0|303
+rented movie|5.0|304
+mini-fridge used|20.0|304
+valet|10.0|304
+room service|25.0|304
+mini-fridge used|20.0|304
+spa|50.0|305
+city tour|100.0|305
+valet|10.0|305
+room service|25.0|305
+spa|50.0|305
+rented movie|5.0|306
+valet|10.0|306
+valet|10.0|306
+spa|50.0|306
+valet|10.0|306
+mini-fridge used|20.0|307
+room service|25.0|307
+valet|10.0|307
+valet|10.0|307
+room service|25.0|307
+spa|50.0|308
+city tour|100.0|308
+room service|25.0|308
+room service|25.0|308
+spa|50.0|308
+spa|50.0|309
+valet|10.0|309
+valet|10.0|309
+valet|10.0|309
+rented movie|5.0|309
+spa|50.0|310
+spa|50.0|310
+rented movie|5.0|310
+valet|10.0|310
+spa|50.0|310
+room service|25.0|311
+rented movie|5.0|311
+rented movie|5.0|311
+spa|50.0|311
+spa|50.0|311
+rented movie|5.0|312
+city tour|100.0|312
+mini-fridge used|20.0|312
+valet|10.0|312
+spa|50.0|312
+city tour|100.0|313
+valet|10.0|313
+city tour|100.0|313
+spa|50.0|313
+mini-fridge used|20.0|313
+room service|25.0|314
+city tour|100.0|314
+spa|50.0|314
+mini-fridge used|20.0|314
+valet|10.0|314
+mini-fridge used|20.0|315
+mini-fridge used|20.0|315
+valet|10.0|315
+city tour|100.0|315
+spa|50.0|315
+room service|25.0|316
+city tour|100.0|316
+rented movie|5.0|316
+room service|25.0|316
+mini-fridge used|20.0|316
+room service|25.0|317
+valet|10.0|317
+mini-fridge used|20.0|317
+rented movie|5.0|317
+mini-fridge used|20.0|317
+mini-fridge used|20.0|318
+rented movie|5.0|318
+rented movie|5.0|318
+rented movie|5.0|318
+city tour|100.0|318
+city tour|100.0|319
+mini-fridge used|20.0|319
+rented movie|5.0|319
+rented movie|5.0|319
+mini-fridge used|20.0|319
+room service|25.0|320
+mini-fridge used|20.0|320
+rented movie|5.0|320
+rented movie|5.0|320
+valet|10.0|320
+valet|10.0|321
+room service|25.0|321
+rented movie|5.0|321
+valet|10.0|321
+room service|25.0|321
+rented movie|5.0|322
+rented movie|5.0|322
+valet|10.0|322
+city tour|100.0|322
+rented movie|5.0|322
+room service|25.0|323
+mini-fridge used|20.0|323
+city tour|100.0|323
+city tour|100.0|323
+valet|10.0|323
+spa|50.0|324
+valet|10.0|324
+city tour|100.0|324
+city tour|100.0|324
+spa|50.0|324
+city tour|100.0|325
+spa|50.0|325
+spa|50.0|325
+city tour|100.0|325
+room service|25.0|325
+rented movie|5.0|326
+city tour|100.0|326
+spa|50.0|326
+city tour|100.0|326
+city tour|100.0|326
+spa|50.0|327
+mini-fridge used|20.0|327
+rented movie|5.0|327
+city tour|100.0|327
+spa|50.0|327
+rented movie|5.0|328
+city tour|100.0|328
+mini-fridge used|20.0|328
+room service|25.0|328
+mini-fridge used|20.0|328
+spa|50.0|329
+room service|25.0|329
+city tour|100.0|329
+mini-fridge used|20.0|329
+room service|25.0|329
+valet|10.0|330
+valet|10.0|330
+spa|50.0|330
+rented movie|5.0|330
+valet|10.0|330
+mini-fridge used|20.0|331
+rented movie|5.0|331
+rented movie|5.0|331
+spa|50.0|331
+valet|10.0|331
+mini-fridge used|20.0|332
+rented movie|5.0|332
+valet|10.0|332
+spa|50.0|332
+spa|50.0|332
+valet|10.0|333
+room service|25.0|333
+city tour|100.0|333
+mini-fridge used|20.0|333
+spa|50.0|333
+room service|25.0|334
+spa|50.0|334
+mini-fridge used|20.0|334
+city tour|100.0|334
+spa|50.0|334
+room service|25.0|335
+valet|10.0|335
+rented movie|5.0|335
+valet|10.0|335
+spa|50.0|335
+rented movie|5.0|336
+mini-fridge used|20.0|336
+city tour|100.0|336
+spa|50.0|336
+rented movie|5.0|336
+room service|25.0|337
+valet|10.0|337
+rented movie|5.0|337
+rented movie|5.0|337
+room service|25.0|337
+spa|50.0|338
+rented movie|5.0|338
+valet|10.0|338
+room service|25.0|338
+spa|50.0|338
+mini-fridge used|20.0|339
+city tour|100.0|339
+spa|50.0|339
+valet|10.0|339
+rented movie|5.0|339
+city tour|100.0|340
+city tour|100.0|340
+mini-fridge used|20.0|340
+valet|10.0|340
+city tour|100.0|340
+room service|25.0|341
+rented movie|5.0|341
+valet|10.0|341
+mini-fridge used|20.0|341
+mini-fridge used|20.0|341
+spa|50.0|342
+room service|25.0|342
+room service|25.0|342
+room service|25.0|342
+room service|25.0|342
+city tour|100.0|343
+rented movie|5.0|343
+valet|10.0|343
+rented movie|5.0|343
+spa|50.0|343
+spa|50.0|344
+spa|50.0|344
+rented movie|5.0|344
+room service|25.0|344
+room service|25.0|344
+spa|50.0|345
+rented movie|5.0|345
+mini-fridge used|20.0|345
+room service|25.0|345
+rented movie|5.0|345
+valet|10.0|346
+room service|25.0|346
+mini-fridge used|20.0|346
+room service|25.0|346
+city tour|100.0|346
+city tour|100.0|347
+spa|50.0|347
+rented movie|5.0|347
+city tour|100.0|347
+valet|10.0|347
+valet|10.0|348
+city tour|100.0|348
+rented movie|5.0|348
+rented movie|5.0|348
+city tour|100.0|348
+rented movie|5.0|349
+mini-fridge used|20.0|349
+spa|50.0|349
+mini-fridge used|20.0|349
+room service|25.0|349
+spa|50.0|350
+room service|25.0|350
+city tour|100.0|350
+spa|50.0|350
+city tour|100.0|350
+city tour|100.0|351
+room service|25.0|351
+mini-fridge used|20.0|351
+spa|50.0|351
+mini-fridge used|20.0|351
+spa|50.0|352
+city tour|100.0|352
+rented movie|5.0|352
+room service|25.0|352
+valet|10.0|352
+mini-fridge used|20.0|353
+city tour|100.0|353
+room service|25.0|353
+city tour|100.0|353
+room service|25.0|353
+spa|50.0|354
+room service|25.0|354
+mini-fridge used|20.0|354
+spa|50.0|354
+city tour|100.0|354
+mini-fridge used|20.0|355
+city tour|100.0|355
+rented movie|5.0|355
+city tour|100.0|355
+valet|10.0|355
+mini-fridge used|20.0|356
+rented movie|5.0|356
+city tour|100.0|356
+valet|10.0|356
+city tour|100.0|356
+city tour|100.0|357
+valet|10.0|357
+spa|50.0|357
+spa|50.0|357
+rented movie|5.0|357
+rented movie|5.0|358
+room service|25.0|358
+valet|10.0|358
+spa|50.0|358
+spa|50.0|358
+spa|50.0|359
+room service|25.0|359
+city tour|100.0|359
+rented movie|5.0|359
+mini-fridge used|20.0|359
+spa|50.0|360
+room service|25.0|360
+mini-fridge used|20.0|360
+spa|50.0|360
+city tour|100.0|360
+room service|25.0|361
+room service|25.0|361
+valet|10.0|361
+rented movie|5.0|361
+rented movie|5.0|361
+room service|25.0|362
+rented movie|5.0|362
+rented movie|5.0|362
+rented movie|5.0|362
+spa|50.0|362
+mini-fridge used|20.0|363
+mini-fridge used|20.0|363
+mini-fridge used|20.0|363
+city tour|100.0|363
+city tour|100.0|363
+rented movie|5.0|364
+room service|25.0|364
+mini-fridge used|20.0|364
+mini-fridge used|20.0|364
+valet|10.0|364
+room service|25.0|365
+room service|25.0|365
+room service|25.0|365
+rented movie|5.0|365
+valet|10.0|365
+room service|25.0|366
+rented movie|5.0|366
+valet|10.0|366
+room service|25.0|366
+city tour|100.0|366
+room service|25.0|367
+city tour|100.0|367
+valet|10.0|367
+valet|10.0|367
+valet|10.0|367
+rented movie|5.0|368
+city tour|100.0|368
+valet|10.0|368
+room service|25.0|368
+room service|25.0|368
+mini-fridge used|20.0|369
+city tour|100.0|369
+mini-fridge used|20.0|369
+city tour|100.0|369
+mini-fridge used|20.0|369
+valet|10.0|370
+spa|50.0|370
+spa|50.0|370
+rented movie|5.0|370
+mini-fridge used|20.0|370
+valet|10.0|371
+mini-fridge used|20.0|371
+city tour|100.0|371
+city tour|100.0|371
+rented movie|5.0|371
+rented movie|5.0|372
+rented movie|5.0|372
+valet|10.0|372
+city tour|100.0|372
+spa|50.0|372
+room service|25.0|373
+city tour|100.0|373
+rented movie|5.0|373
+city tour|100.0|373
+valet|10.0|373
+mini-fridge used|20.0|374
+rented movie|5.0|374
+rented movie|5.0|374
+city tour|100.0|374
+mini-fridge used|20.0|374
+valet|10.0|375
+room service|25.0|375
+rented movie|5.0|375
+rented movie|5.0|375
+spa|50.0|375
+room service|25.0|376
+valet|10.0|376
+spa|50.0|376
+spa|50.0|376
+rented movie|5.0|376
+spa|50.0|377
+spa|50.0|377
+spa|50.0|377
+spa|50.0|377
+room service|25.0|377
+mini-fridge used|20.0|378
+rented movie|5.0|378
+city tour|100.0|378
+valet|10.0|378
+mini-fridge used|20.0|378
+city tour|100.0|379
+valet|10.0|379
+valet|10.0|379
+valet|10.0|379
+room service|25.0|379
+mini-fridge used|20.0|380
+valet|10.0|380
+room service|25.0|380
+rented movie|5.0|380
+city tour|100.0|380
+rented movie|5.0|381
+room service|25.0|381
+rented movie|5.0|381
+city tour|100.0|381
+mini-fridge used|20.0|381
+mini-fridge used|20.0|382
+spa|50.0|382
+city tour|100.0|382
+mini-fridge used|20.0|382
+rented movie|5.0|382
+city tour|100.0|383
+rented movie|5.0|383
+spa|50.0|383
+mini-fridge used|20.0|383
+valet|10.0|383
+room service|25.0|384
+room service|25.0|384
+room service|25.0|384
+room service|25.0|384
+rented movie|5.0|384
+rented movie|5.0|385
+spa|50.0|385
+rented movie|5.0|385
+spa|50.0|385
+room service|25.0|385
+rented movie|5.0|386
+valet|10.0|386
+rented movie|5.0|386
+rented movie|5.0|386
+valet|10.0|386
+spa|50.0|387
+rented movie|5.0|387
+spa|50.0|387
+mini-fridge used|20.0|387
+valet|10.0|387
+room service|25.0|388
+valet|10.0|388
+mini-fridge used|20.0|388
+room service|25.0|388
+room service|25.0|388
+spa|50.0|389
+room service|25.0|389
+rented movie|5.0|389
+mini-fridge used|20.0|389
+valet|10.0|389
+valet|10.0|390
+spa|50.0|390
+spa|50.0|390
+mini-fridge used|20.0|390
+valet|10.0|390
+spa|50.0|391
+room service|25.0|391
+valet|10.0|391
+spa|50.0|391
+city tour|100.0|391
+city tour|100.0|392
+valet|10.0|392
+room service|25.0|392
+valet|10.0|392
+valet|10.0|392
+rented movie|5.0|393
+room service|25.0|393
+city tour|100.0|393
+valet|10.0|393
+city tour|100.0|393
+city tour|100.0|394
+rented movie|5.0|394
+valet|10.0|394
+mini-fridge used|20.0|394
+room service|25.0|394
+rented movie|5.0|395
+spa|50.0|395
+city tour|100.0|395
+room service|25.0|395
+mini-fridge used|20.0|395
+spa|50.0|396
+city tour|100.0|396
+valet|10.0|396
+rented movie|5.0|396
+city tour|100.0|396
+rented movie|5.0|397
+valet|10.0|397
+room service|25.0|397
+room service|25.0|397
+room service|25.0|397
+mini-fridge used|20.0|398
+spa|50.0|398
+rented movie|5.0|398
+mini-fridge used|20.0|398
+valet|10.0|398
+mini-fridge used|20.0|399
+spa|50.0|399
+city tour|100.0|399
+spa|50.0|399
+spa|50.0|399
+room service|25.0|400
+room service|25.0|400
+valet|10.0|400
+room service|25.0|400
+mini-fridge used|20.0|400
+valet|10.0|401
+city tour|100.0|401
+rented movie|5.0|401
+valet|10.0|401
+spa|50.0|401
+mini-fridge used|20.0|402
+city tour|100.0|402
+valet|10.0|402
+valet|10.0|402
+mini-fridge used|20.0|402
+room service|25.0|403
+room service|25.0|403
+rented movie|5.0|403
+rented movie|5.0|403
+rented movie|5.0|403
+spa|50.0|404
+city tour|100.0|404
+rented movie|5.0|404
+city tour|100.0|404
+city tour|100.0|404
+city tour|100.0|405
+rented movie|5.0|405
+city tour|100.0|405
+city tour|100.0|405
+spa|50.0|405
+spa|50.0|406
+room service|25.0|406
+mini-fridge used|20.0|406
+rented movie|5.0|406
+spa|50.0|406
+room service|25.0|407
+city tour|100.0|407
+rented movie|5.0|407
+room service|25.0|407
+spa|50.0|407
+room service|25.0|408
+room service|25.0|408
+rented movie|5.0|408
+room service|25.0|408
+rented movie|5.0|408
+valet|10.0|409
+valet|10.0|409
+city tour|100.0|409
+mini-fridge used|20.0|409
+room service|25.0|409
+valet|10.0|410
+mini-fridge used|20.0|410
+city tour|100.0|410
+room service|25.0|410
+mini-fridge used|20.0|410
+room service|25.0|411
+room service|25.0|411
+room service|25.0|411
+valet|10.0|411
+rented movie|5.0|411
+room service|25.0|412
+mini-fridge used|20.0|412
+spa|50.0|412
+room service|25.0|412
+spa|50.0|412
+room service|25.0|413
+spa|50.0|413
+room service|25.0|413
+spa|50.0|413
+room service|25.0|413
+valet|10.0|414
+room service|25.0|414
+mini-fridge used|20.0|414
+spa|50.0|414
+valet|10.0|414
+rented movie|5.0|415
+room service|25.0|415
+valet|10.0|415
+spa|50.0|415
+room service|25.0|415
+city tour|100.0|416
+spa|50.0|416
+rented movie|5.0|416
+valet|10.0|416
+rented movie|5.0|416
+spa|50.0|417
+valet|10.0|417
+valet|10.0|417
+valet|10.0|417
+mini-fridge used|20.0|417
+mini-fridge used|20.0|418
+city tour|100.0|418
+rented movie|5.0|418
+mini-fridge used|20.0|418
+room service|25.0|418
+rented movie|5.0|419
+valet|10.0|419
+mini-fridge used|20.0|419
+rented movie|5.0|419
+room service|25.0|419
+rented movie|5.0|420
+room service|25.0|420
+spa|50.0|420
+room service|25.0|420
+room service|25.0|420
+room service|25.0|421
+mini-fridge used|20.0|421
+mini-fridge used|20.0|421
+spa|50.0|421
+room service|25.0|421
+rented movie|5.0|422
+mini-fridge used|20.0|422
+rented movie|5.0|422
+city tour|100.0|422
+city tour|100.0|422
+spa|50.0|423
+spa|50.0|423
+mini-fridge used|20.0|423
+rented movie|5.0|423
+rented movie|5.0|423
+city tour|100.0|424
+city tour|100.0|424
+rented movie|5.0|424
+rented movie|5.0|424
+spa|50.0|424
+spa|50.0|425
+spa|50.0|425
+room service|25.0|425
+room service|25.0|425
+room service|25.0|425
+city tour|100.0|426
+mini-fridge used|20.0|426
+spa|50.0|426
+valet|10.0|426
+valet|10.0|426
+rented movie|5.0|427
+city tour|100.0|427
+valet|10.0|427
+rented movie|5.0|427
+valet|10.0|427
+room service|25.0|428
+valet|10.0|428
+room service|25.0|428
+room service|25.0|428
+rented movie|5.0|428
+valet|10.0|429
+valet|10.0|429
+room service|25.0|429
+mini-fridge used|20.0|429
+spa|50.0|429
+mini-fridge used|20.0|430
+valet|10.0|430
+mini-fridge used|20.0|430
+city tour|100.0|430
+valet|10.0|430
+spa|50.0|431
+city tour|100.0|431
+valet|10.0|431
+rented movie|5.0|431
+room service|25.0|431
+mini-fridge used|20.0|432
+room service|25.0|432
+spa|50.0|432
+valet|10.0|432
+valet|10.0|432
+mini-fridge used|20.0|433
+mini-fridge used|20.0|433
+spa|50.0|433
+city tour|100.0|433
+city tour|100.0|433
+city tour|100.0|434
+rented movie|5.0|434
+room service|25.0|434
+spa|50.0|434
+spa|50.0|434
+room service|25.0|435
+spa|50.0|435
+city tour|100.0|435
+valet|10.0|435
+city tour|100.0|435
+rented movie|5.0|436
+spa|50.0|436
+rented movie|5.0|436
+rented movie|5.0|436
+city tour|100.0|436
+rented movie|5.0|437
+room service|25.0|437
+spa|50.0|437
+room service|25.0|437
+room service|25.0|437
+spa|50.0|438
+rented movie|5.0|438
+spa|50.0|438
+rented movie|5.0|438
+room service|25.0|438
+city tour|100.0|439
+valet|10.0|439
+city tour|100.0|439
+rented movie|5.0|439
+rented movie|5.0|439
+spa|50.0|440
+valet|10.0|440
+city tour|100.0|440
+valet|10.0|440
+city tour|100.0|440
+mini-fridge used|20.0|441
+room service|25.0|441
+mini-fridge used|20.0|441
+valet|10.0|441
+spa|50.0|441
+room service|25.0|442
+mini-fridge used|20.0|442
+city tour|100.0|442
+city tour|100.0|442
+rented movie|5.0|442
+rented movie|5.0|443
+room service|25.0|443
+city tour|100.0|443
+room service|25.0|443
+city tour|100.0|443
+spa|50.0|444
+spa|50.0|444
+mini-fridge used|20.0|444
+rented movie|5.0|444
+city tour|100.0|444
+city tour|100.0|445
+spa|50.0|445
+spa|50.0|445
+valet|10.0|445
+spa|50.0|445
+mini-fridge used|20.0|446
+spa|50.0|446
+mini-fridge used|20.0|446
+rented movie|5.0|446
+spa|50.0|446
+room service|25.0|447
+rented movie|5.0|447
+rented movie|5.0|447
+spa|50.0|447
+city tour|100.0|447
+city tour|100.0|448
+city tour|100.0|448
+spa|50.0|448
+room service|25.0|448
+spa|50.0|448
+valet|10.0|449
+valet|10.0|449
+valet|10.0|449
+room service|25.0|449
+mini-fridge used|20.0|449
+room service|25.0|450
+rented movie|5.0|450
+rented movie|5.0|450
+room service|25.0|450
+valet|10.0|450
+city tour|100.0|451
+valet|10.0|451
+rented movie|5.0|451
+rented movie|5.0|451
+rented movie|5.0|451
+mini-fridge used|20.0|452
+spa|50.0|452
+spa|50.0|452
+mini-fridge used|20.0|452
+room service|25.0|452
+valet|10.0|453
+spa|50.0|453
+room service|25.0|453
+valet|10.0|453
+room service|25.0|453
+rented movie|5.0|454
+mini-fridge used|20.0|454
+rented movie|5.0|454
+city tour|100.0|454
+valet|10.0|454
+mini-fridge used|20.0|455
+valet|10.0|455
+mini-fridge used|20.0|455
+spa|50.0|455
+valet|10.0|455
+valet|10.0|456
+city tour|100.0|456
+valet|10.0|456
+room service|25.0|456
+room service|25.0|456
+spa|50.0|457
+spa|50.0|457
+valet|10.0|457
+city tour|100.0|457
+rented movie|5.0|457
+room service|25.0|458
+room service|25.0|458
+mini-fridge used|20.0|458
+mini-fridge used|20.0|458
+city tour|100.0|458
+spa|50.0|459
+valet|10.0|459
+mini-fridge used|20.0|459
+valet|10.0|459
+valet|10.0|459
+city tour|100.0|460
+rented movie|5.0|460
+valet|10.0|460
+city tour|100.0|460
+spa|50.0|460
+valet|10.0|461
+city tour|100.0|461
+valet|10.0|461
+rented movie|5.0|461
+valet|10.0|461
+valet|10.0|462
+rented movie|5.0|462
+spa|50.0|462
+city tour|100.0|462
+city tour|100.0|462
+spa|50.0|463
+rented movie|5.0|463
+room service|25.0|463
+valet|10.0|463
+room service|25.0|463
+spa|50.0|464
+room service|25.0|464
+rented movie|5.0|464
+valet|10.0|464
+valet|10.0|464
+valet|10.0|465
+rented movie|5.0|465
+city tour|100.0|465
+city tour|100.0|465
+rented movie|5.0|465
+room service|25.0|466
+mini-fridge used|20.0|466
+valet|10.0|466
+city tour|100.0|466
+mini-fridge used|20.0|466
+valet|10.0|467
+city tour|100.0|467
+rented movie|5.0|467
+valet|10.0|467
+valet|10.0|467
+mini-fridge used|20.0|468
+room service|25.0|468
+rented movie|5.0|468
+city tour|100.0|468
+room service|25.0|468
+rented movie|5.0|469
+valet|10.0|469
+rented movie|5.0|469
+spa|50.0|469
+city tour|100.0|469
+city tour|100.0|470
+rented movie|5.0|470
+room service|25.0|470
+valet|10.0|470
+room service|25.0|470
+spa|50.0|471
+mini-fridge used|20.0|471
+rented movie|5.0|471
+rented movie|5.0|471
+room service|25.0|471
+mini-fridge used|20.0|472
+mini-fridge used|20.0|472
+spa|50.0|472
+spa|50.0|472
+room service|25.0|472
+valet|10.0|473
+mini-fridge used|20.0|473
+city tour|100.0|473
+spa|50.0|473
+rented movie|5.0|473
+valet|10.0|474
+rented movie|5.0|474
+valet|10.0|474
+city tour|100.0|474
+city tour|100.0|474
+room service|25.0|475
+city tour|100.0|475
+mini-fridge used|20.0|475
+valet|10.0|475
+room service|25.0|475
+room service|25.0|476
+spa|50.0|476
+mini-fridge used|20.0|476
+rented movie|5.0|476
+rented movie|5.0|476
+room service|25.0|477
+spa|50.0|477
+valet|10.0|477
+valet|10.0|477
+rented movie|5.0|477
+mini-fridge used|20.0|478
+room service|25.0|478
+city tour|100.0|478
+city tour|100.0|478
+valet|10.0|478
+city tour|100.0|479
+spa|50.0|479
+spa|50.0|479
+valet|10.0|479
+valet|10.0|479
+rented movie|5.0|480
+room service|25.0|480
+rented movie|5.0|480
+valet|10.0|480
+mini-fridge used|20.0|480
+rented movie|5.0|481
+spa|50.0|481
+mini-fridge used|20.0|481
+room service|25.0|481
+valet|10.0|481
+valet|10.0|482
+rented movie|5.0|482
+city tour|100.0|482
+valet|10.0|482
+room service|25.0|482
+room service|25.0|483
+mini-fridge used|20.0|483
+spa|50.0|483
+room service|25.0|483
+room service|25.0|483
+valet|10.0|484
+city tour|100.0|484
+spa|50.0|484
+room service|25.0|484
+rented movie|5.0|484
+room service|25.0|485
+rented movie|5.0|485
+city tour|100.0|485
+rented movie|5.0|485
+rented movie|5.0|485
+room service|25.0|486
+rented movie|5.0|486
+city tour|100.0|486
+mini-fridge used|20.0|486
+mini-fridge used|20.0|486
+valet|10.0|487
+rented movie|5.0|487
+room service|25.0|487
+city tour|100.0|487
+mini-fridge used|20.0|487
+rented movie|5.0|488
+mini-fridge used|20.0|488
+spa|50.0|488
+spa|50.0|488
+spa|50.0|488
+rented movie|5.0|489
+mini-fridge used|20.0|489
+room service|25.0|489
+city tour|100.0|489
+spa|50.0|489
+valet|10.0|490
+rented movie|5.0|490
+rented movie|5.0|490
+room service|25.0|490
+city tour|100.0|490
+rented movie|5.0|491
+room service|25.0|491
+spa|50.0|491
+spa|50.0|491
+city tour|100.0|491
+mini-fridge used|20.0|492
+room service|25.0|492
+mini-fridge used|20.0|492
+room service|25.0|492
+city tour|100.0|492
+room service|25.0|493
+mini-fridge used|20.0|493
+valet|10.0|493
+city tour|100.0|493
+mini-fridge used|20.0|493
+city tour|100.0|494
+room service|25.0|494
+spa|50.0|494
+room service|25.0|494
+city tour|100.0|494
+mini-fridge used|20.0|495
+valet|10.0|495
+rented movie|5.0|495
+valet|10.0|495
+mini-fridge used|20.0|495
+rented movie|5.0|496
+valet|10.0|496
+city tour|100.0|496
+room service|25.0|496
+valet|10.0|496
+spa|50.0|497
+room service|25.0|497
+spa|50.0|497
+room service|25.0|497
+valet|10.0|497
+room service|25.0|498
+city tour|100.0|498
+rented movie|5.0|498
+room service|25.0|498
+mini-fridge used|20.0|498
+room service|25.0|499
+spa|50.0|499
+valet|10.0|499
+spa|50.0|499
+spa|50.0|499
+room service|25.0|500
+room service|25.0|500
+rented movie|5.0|500
+spa|50.0|500
+city tour|100.0|500
+spa|50.0|501
+spa|50.0|501
+mini-fridge used|20.0|501
+spa|50.0|501
+spa|50.0|501
+city tour|100.0|502
+rented movie|5.0|502
+rented movie|5.0|502
+valet|10.0|502
+room service|25.0|502
+valet|10.0|503
+rented movie|5.0|503
+room service|25.0|503
+room service|25.0|503
+valet|10.0|503
+valet|10.0|504
+mini-fridge used|20.0|504
+mini-fridge used|20.0|504
+rented movie|5.0|504
+valet|10.0|504
+city tour|100.0|505
+valet|10.0|505
+mini-fridge used|20.0|505
+city tour|100.0|505
+city tour|100.0|505
+rented movie|5.0|506
+valet|10.0|506
+mini-fridge used|20.0|506
+spa|50.0|506
+room service|25.0|506
+room service|25.0|507
+spa|50.0|507
+room service|25.0|507
+rented movie|5.0|507
+mini-fridge used|20.0|507
+room service|25.0|508
+rented movie|5.0|508
+spa|50.0|508
+valet|10.0|508
+city tour|100.0|508
+city tour|100.0|509
+city tour|100.0|509
+room service|25.0|509
+rented movie|5.0|509
+mini-fridge used|20.0|509
+spa|50.0|510
+city tour|100.0|510
+rented movie|5.0|510
+valet|10.0|510
+spa|50.0|510
+mini-fridge used|20.0|511
+valet|10.0|511
+mini-fridge used|20.0|511
+mini-fridge used|20.0|511
+city tour|100.0|511
+mini-fridge used|20.0|512
+room service|25.0|512
+rented movie|5.0|512
+room service|25.0|512
+valet|10.0|512
+city tour|100.0|513
+spa|50.0|513
+spa|50.0|513
+rented movie|5.0|513
+spa|50.0|513
+rented movie|5.0|514
+room service|25.0|514
+spa|50.0|514
+mini-fridge used|20.0|514
+mini-fridge used|20.0|514
+rented movie|5.0|515
+spa|50.0|515
+rented movie|5.0|515
+valet|10.0|515
+rented movie|5.0|515
+rented movie|5.0|516
+room service|25.0|516
+spa|50.0|516
+rented movie|5.0|516
+spa|50.0|516
+city tour|100.0|517
+city tour|100.0|517
+room service|25.0|517
+valet|10.0|517
+spa|50.0|517
+room service|25.0|518
+rented movie|5.0|518
+city tour|100.0|518
+rented movie|5.0|518
+mini-fridge used|20.0|518
+room service|25.0|519
+rented movie|5.0|519
+valet|10.0|519
+valet|10.0|519
+city tour|100.0|519
+rented movie|5.0|520
+room service|25.0|520
+valet|10.0|520
+valet|10.0|520
+mini-fridge used|20.0|520
+rented movie|5.0|521
+spa|50.0|521
+mini-fridge used|20.0|521
+valet|10.0|521
+room service|25.0|521
+spa|50.0|522
+valet|10.0|522
+valet|10.0|522
+mini-fridge used|20.0|522
+city tour|100.0|522
+room service|25.0|523
+room service|25.0|523
+rented movie|5.0|523
+room service|25.0|523
+valet|10.0|523
+valet|10.0|524
+rented movie|5.0|524
+spa|50.0|524
+room service|25.0|524
+spa|50.0|524
+city tour|100.0|525
+mini-fridge used|20.0|525
+room service|25.0|525
+city tour|100.0|525
+valet|10.0|525
+rented movie|5.0|526
+valet|10.0|526
+mini-fridge used|20.0|526
+rented movie|5.0|526
+rented movie|5.0|526
+valet|10.0|527
+rented movie|5.0|527
+rented movie|5.0|527
+valet|10.0|527
+spa|50.0|527
+valet|10.0|528
+rented movie|5.0|528
+city tour|100.0|528
+valet|10.0|528
+mini-fridge used|20.0|528
+room service|25.0|529
+mini-fridge used|20.0|529
+valet|10.0|529
+room service|25.0|529
+mini-fridge used|20.0|529
+valet|10.0|530
+mini-fridge used|20.0|530
+valet|10.0|530
+valet|10.0|530
+spa|50.0|530
+room service|25.0|531
+room service|25.0|531
+rented movie|5.0|531
+city tour|100.0|531
+city tour|100.0|531
+rented movie|5.0|532
+room service|25.0|532
+mini-fridge used|20.0|532
+room service|25.0|532
+rented movie|5.0|532
+mini-fridge used|20.0|533
+spa|50.0|533
+rented movie|5.0|533
+city tour|100.0|533
+mini-fridge used|20.0|533
+room service|25.0|534
+spa|50.0|534
+city tour|100.0|534
+valet|10.0|534
+room service|25.0|534
+mini-fridge used|20.0|535
+room service|25.0|535
+spa|50.0|535
+mini-fridge used|20.0|535
+valet|10.0|535
+rented movie|5.0|536
+spa|50.0|536
+valet|10.0|536
+rented movie|5.0|536
+spa|50.0|536
+rented movie|5.0|537
+spa|50.0|537
+rented movie|5.0|537
+mini-fridge used|20.0|537
+room service|25.0|537
+rented movie|5.0|538
+rented movie|5.0|538
+mini-fridge used|20.0|538
+valet|10.0|538
+rented movie|5.0|538
+spa|50.0|539
+valet|10.0|539
+valet|10.0|539
+city tour|100.0|539
+rented movie|5.0|539
+room service|25.0|540
+valet|10.0|540
+mini-fridge used|20.0|540
+room service|25.0|540
+valet|10.0|540
+room service|25.0|541
+room service|25.0|541
+city tour|100.0|541
+rented movie|5.0|541
+spa|50.0|541
+room service|25.0|542
+mini-fridge used|20.0|542
+room service|25.0|542
+city tour|100.0|542
+valet|10.0|542
+mini-fridge used|20.0|543
+city tour|100.0|543
+room service|25.0|543
+room service|25.0|543
+rented movie|5.0|543
+room service|25.0|544
+room service|25.0|544
+spa|50.0|544
+room service|25.0|544
+room service|25.0|544
+mini-fridge used|20.0|545
+rented movie|5.0|545
+spa|50.0|545
+spa|50.0|545
+rented movie|5.0|545
+spa|50.0|546
+spa|50.0|546
+city tour|100.0|546
+room service|25.0|546
+mini-fridge used|20.0|546
+spa|50.0|547
+room service|25.0|547
+spa|50.0|547
+mini-fridge used|20.0|547
+city tour|100.0|547
+spa|50.0|548
+rented movie|5.0|548
+room service|25.0|548
+rented movie|5.0|548
+room service|25.0|548
+city tour|100.0|549
+room service|25.0|549
+room service|25.0|549
+valet|10.0|549
+room service|25.0|549
+valet|10.0|550
+room service|25.0|550
+mini-fridge used|20.0|550
+rented movie|5.0|550
+city tour|100.0|550
+mini-fridge used|20.0|551
+city tour|100.0|551
+city tour|100.0|551
+valet|10.0|551
+mini-fridge used|20.0|551
+room service|25.0|552
+city tour|100.0|552
+mini-fridge used|20.0|552
+mini-fridge used|20.0|552
+valet|10.0|552
+room service|25.0|553
+rented movie|5.0|553
+city tour|100.0|553
+spa|50.0|553
+spa|50.0|553
+mini-fridge used|20.0|554
+spa|50.0|554
+city tour|100.0|554
+room service|25.0|554
+room service|25.0|554
+rented movie|5.0|555
+city tour|100.0|555
+city tour|100.0|555
+spa|50.0|555
+valet|10.0|555
+room service|25.0|556
+valet|10.0|556
+spa|50.0|556
+valet|10.0|556
+rented movie|5.0|556
+valet|10.0|557
+mini-fridge used|20.0|557
+rented movie|5.0|557
+room service|25.0|557
+valet|10.0|557
+valet|10.0|558
+spa|50.0|558
+rented movie|5.0|558
+valet|10.0|558
+valet|10.0|558
+spa|50.0|559
+mini-fridge used|20.0|559
+rented movie|5.0|559
+mini-fridge used|20.0|559
+mini-fridge used|20.0|559
+room service|25.0|560
+rented movie|5.0|560
+mini-fridge used|20.0|560
+city tour|100.0|560
+rented movie|5.0|560
+spa|50.0|561
+room service|25.0|561
+spa|50.0|561
+spa|50.0|561
+valet|10.0|561
+room service|25.0|562
+rented movie|5.0|562
+room service|25.0|562
+spa|50.0|562
+rented movie|5.0|562
+valet|10.0|563
+spa|50.0|563
+spa|50.0|563
+mini-fridge used|20.0|563
+spa|50.0|563
+city tour|100.0|564
+mini-fridge used|20.0|564
+valet|10.0|564
+rented movie|5.0|564
+mini-fridge used|20.0|564
+valet|10.0|565
+mini-fridge used|20.0|565
+mini-fridge used|20.0|565
+valet|10.0|565
+spa|50.0|565
+valet|10.0|566
+mini-fridge used|20.0|566
+rented movie|5.0|566
+spa|50.0|566
+spa|50.0|566
+spa|50.0|567
+room service|25.0|567
+mini-fridge used|20.0|567
+rented movie|5.0|567
+mini-fridge used|20.0|567
+room service|25.0|568
+rented movie|5.0|568
+rented movie|5.0|568
+room service|25.0|568
+rented movie|5.0|568
+rented movie|5.0|569
+room service|25.0|569
+valet|10.0|569
+mini-fridge used|20.0|569
+room service|25.0|569
+mini-fridge used|20.0|570
+spa|50.0|570
+city tour|100.0|570
+room service|25.0|570
+mini-fridge used|20.0|570
+mini-fridge used|20.0|571
+spa|50.0|571
+rented movie|5.0|571
+mini-fridge used|20.0|571
+spa|50.0|571
+rented movie|5.0|572
+city tour|100.0|572
+valet|10.0|572
+valet|10.0|572
+mini-fridge used|20.0|572
+room service|25.0|573
+mini-fridge used|20.0|573
+mini-fridge used|20.0|573
+rented movie|5.0|573
+mini-fridge used|20.0|573
+spa|50.0|574
+spa|50.0|574
+rented movie|5.0|574
+valet|10.0|574
+mini-fridge used|20.0|574
+rented movie|5.0|575
+rented movie|5.0|575
+city tour|100.0|575
+spa|50.0|575
+rented movie|5.0|575
+room service|25.0|576
+spa|50.0|576
+rented movie|5.0|576
+spa|50.0|576
+rented movie|5.0|576
+city tour|100.0|577
+valet|10.0|577
+city tour|100.0|577
+valet|10.0|577
+city tour|100.0|577
+spa|50.0|578
+spa|50.0|578
+valet|10.0|578
+rented movie|5.0|578
+city tour|100.0|578
+rented movie|5.0|579
+valet|10.0|579
+mini-fridge used|20.0|579
+rented movie|5.0|579
+valet|10.0|579
+valet|10.0|580
+city tour|100.0|580
+rented movie|5.0|580
+room service|25.0|580
+city tour|100.0|580
+valet|10.0|581
+rented movie|5.0|581
+rented movie|5.0|581
+rented movie|5.0|581
+room service|25.0|581
+mini-fridge used|20.0|582
+rented movie|5.0|582
+room service|25.0|582
+spa|50.0|582
+city tour|100.0|582
+valet|10.0|583
+city tour|100.0|583
+room service|25.0|583
+rented movie|5.0|583
+spa|50.0|583
+mini-fridge used|20.0|584
+valet|10.0|584
+spa|50.0|584
+mini-fridge used|20.0|584
+room service|25.0|584
+mini-fridge used|20.0|585
+mini-fridge used|20.0|585
+rented movie|5.0|585
+spa|50.0|585
+spa|50.0|585
+room service|25.0|586
+room service|25.0|586
+valet|10.0|586
+spa|50.0|586
+room service|25.0|586
+city tour|100.0|587
+city tour|100.0|587
+mini-fridge used|20.0|587
+city tour|100.0|587
+rented movie|5.0|587
+city tour|100.0|588
+mini-fridge used|20.0|588
+spa|50.0|588
+city tour|100.0|588
+city tour|100.0|588
+rented movie|5.0|589
+mini-fridge used|20.0|589
+city tour|100.0|589
+rented movie|5.0|589
+valet|10.0|589
+rented movie|5.0|590
+mini-fridge used|20.0|590
+city tour|100.0|590
+rented movie|5.0|590
+mini-fridge used|20.0|590
+room service|25.0|591
+room service|25.0|591
+valet|10.0|591
+mini-fridge used|20.0|591
+mini-fridge used|20.0|591
+rented movie|5.0|592
+spa|50.0|592
+valet|10.0|592
+mini-fridge used|20.0|592
+city tour|100.0|592
+rented movie|5.0|593
+valet|10.0|593
+rented movie|5.0|593
+spa|50.0|593
+city tour|100.0|593
+mini-fridge used|20.0|594
+mini-fridge used|20.0|594
+mini-fridge used|20.0|594
+valet|10.0|594
+rented movie|5.0|594
+rented movie|5.0|595
+room service|25.0|595
+rented movie|5.0|595
+room service|25.0|595
+rented movie|5.0|595
+mini-fridge used|20.0|596
+rented movie|5.0|596
+room service|25.0|596
+room service|25.0|596
+rented movie|5.0|596
+mini-fridge used|20.0|597
+rented movie|5.0|597
+mini-fridge used|20.0|597
+spa|50.0|597
+room service|25.0|597
+spa|50.0|598
+rented movie|5.0|598
+rented movie|5.0|598
+city tour|100.0|598
+city tour|100.0|598
+room service|25.0|599
+valet|10.0|599
+rented movie|5.0|599
+spa|50.0|599
+valet|10.0|599
+city tour|100.0|600
+valet|10.0|600
+spa|50.0|600
+spa|50.0|600
+valet|10.0|600
+room service|25.0|601
+city tour|100.0|601
+room service|25.0|601
+city tour|100.0|601
+spa|50.0|601
+spa|50.0|602
+spa|50.0|602
+valet|10.0|602
+room service|25.0|602
+city tour|100.0|602
+rented movie|5.0|603
+room service|25.0|603
+mini-fridge used|20.0|603
+valet|10.0|603
+room service|25.0|603
+rented movie|5.0|604
+spa|50.0|604
+mini-fridge used|20.0|604
+valet|10.0|604
+room service|25.0|604
+room service|25.0|605
+room service|25.0|605
+mini-fridge used|20.0|605
+room service|25.0|605
+spa|50.0|605
+city tour|100.0|606
+valet|10.0|606
+valet|10.0|606
+rented movie|5.0|606
+valet|10.0|606
+spa|50.0|607
+city tour|100.0|607
+room service|25.0|607
+rented movie|5.0|607
+valet|10.0|607
+valet|10.0|608
+mini-fridge used|20.0|608
+spa|50.0|608
+room service|25.0|608
+rented movie|5.0|608
+rented movie|5.0|609
+city tour|100.0|609
+rented movie|5.0|609
+room service|25.0|609
+mini-fridge used|20.0|609
+city tour|100.0|610
+city tour|100.0|610
+room service|25.0|610
+city tour|100.0|610
+valet|10.0|610
+mini-fridge used|20.0|611
+valet|10.0|611
+mini-fridge used|20.0|611
+mini-fridge used|20.0|611
+city tour|100.0|611
+rented movie|5.0|612
+room service|25.0|612
+city tour|100.0|612
+spa|50.0|612
+city tour|100.0|612
+rented movie|5.0|613
+room service|25.0|613
+city tour|100.0|613
+room service|25.0|613
+mini-fridge used|20.0|613
+city tour|100.0|614
+city tour|100.0|614
+valet|10.0|614
+valet|10.0|614
+spa|50.0|614
+spa|50.0|615
+valet|10.0|615
+spa|50.0|615
+rented movie|5.0|615
+rented movie|5.0|615
+valet|10.0|616
+spa|50.0|616
+rented movie|5.0|616
+spa|50.0|616
+rented movie|5.0|616
+city tour|100.0|617
+valet|10.0|617
+rented movie|5.0|617
+mini-fridge used|20.0|617
+room service|25.0|617
+spa|50.0|618
+valet|10.0|618
+rented movie|5.0|618
+spa|50.0|618
+mini-fridge used|20.0|618
+spa|50.0|619
+spa|50.0|619
+spa|50.0|619
+rented movie|5.0|619
+mini-fridge used|20.0|619
+mini-fridge used|20.0|620
+room service|25.0|620
+rented movie|5.0|620
+mini-fridge used|20.0|620
+mini-fridge used|20.0|620
+room service|25.0|621
+room service|25.0|621
+city tour|100.0|621
+rented movie|5.0|621
+rented movie|5.0|621
+rented movie|5.0|622
+rented movie|5.0|622
+city tour|100.0|622
+room service|25.0|622
+spa|50.0|622
+room service|25.0|623
+rented movie|5.0|623
+city tour|100.0|623
+valet|10.0|623
+spa|50.0|623
+room service|25.0|624
+mini-fridge used|20.0|624
+room service|25.0|624
+mini-fridge used|20.0|624
+mini-fridge used|20.0|624
+spa|50.0|625
+valet|10.0|625
+spa|50.0|625
+room service|25.0|625
+valet|10.0|625
+rented movie|5.0|626
+valet|10.0|626
+spa|50.0|626
+room service|25.0|626
+rented movie|5.0|626
+room service|25.0|627
+city tour|100.0|627
+rented movie|5.0|627
+spa|50.0|627
+city tour|100.0|627
+city tour|100.0|628
+city tour|100.0|628
+room service|25.0|628
+city tour|100.0|628
+valet|10.0|628
+valet|10.0|629
+valet|10.0|629
+spa|50.0|629
+city tour|100.0|629
+mini-fridge used|20.0|629
+spa|50.0|630
+valet|10.0|630
+mini-fridge used|20.0|630
+mini-fridge used|20.0|630
+valet|10.0|630
+rented movie|5.0|631
+spa|50.0|631
+spa|50.0|631
+mini-fridge used|20.0|631
+rented movie|5.0|631
+rented movie|5.0|632
+room service|25.0|632
+rented movie|5.0|632
+rented movie|5.0|632
+rented movie|5.0|632
+room service|25.0|633
+mini-fridge used|20.0|633
+valet|10.0|633
+spa|50.0|633
+room service|25.0|633
+rented movie|5.0|634
+rented movie|5.0|634
+mini-fridge used|20.0|634
+valet|10.0|634
+valet|10.0|634
+room service|25.0|635
+spa|50.0|635
+spa|50.0|635
+valet|10.0|635
+mini-fridge used|20.0|635
+spa|50.0|636
+room service|25.0|636
+spa|50.0|636
+rented movie|5.0|636
+room service|25.0|636
+spa|50.0|637
+spa|50.0|637
+valet|10.0|637
+valet|10.0|637
+spa|50.0|637
+spa|50.0|638
+room service|25.0|638
+spa|50.0|638
+rented movie|5.0|638
+room service|25.0|638
+city tour|100.0|639
+spa|50.0|639
+mini-fridge used|20.0|639
+rented movie|5.0|639
+room service|25.0|639
+room service|25.0|640
+rented movie|5.0|640
+city tour|100.0|640
+valet|10.0|640
+valet|10.0|640
+spa|50.0|641
+city tour|100.0|641
+valet|10.0|641
+city tour|100.0|641
+valet|10.0|641
+spa|50.0|642
+city tour|100.0|642
+city tour|100.0|642
+rented movie|5.0|642
+room service|25.0|642
+rented movie|5.0|643
+valet|10.0|643
+rented movie|5.0|643
+valet|10.0|643
+rented movie|5.0|643
+valet|10.0|644
+valet|10.0|644
+valet|10.0|644
+city tour|100.0|644
+spa|50.0|644
+rented movie|5.0|645
+room service|25.0|645
+valet|10.0|645
+room service|25.0|645
+city tour|100.0|645
+city tour|100.0|646
+city tour|100.0|646
+rented movie|5.0|646
+city tour|100.0|646
+room service|25.0|646
+spa|50.0|647
+valet|10.0|647
+city tour|100.0|647
+mini-fridge used|20.0|647
+mini-fridge used|20.0|647
+rented movie|5.0|648
+city tour|100.0|648
+room service|25.0|648
+mini-fridge used|20.0|648
+city tour|100.0|648
+room service|25.0|649
+spa|50.0|649
+city tour|100.0|649
+valet|10.0|649
+rented movie|5.0|649
+room service|25.0|650
+spa|50.0|650
+rented movie|5.0|650
+room service|25.0|650
+rented movie|5.0|650
+city tour|100.0|651
+mini-fridge used|20.0|651
+valet|10.0|651
+mini-fridge used|20.0|651
+mini-fridge used|20.0|651
+valet|10.0|652
+city tour|100.0|652
+city tour|100.0|652
+city tour|100.0|652
+mini-fridge used|20.0|652
+rented movie|5.0|653
+valet|10.0|653
+rented movie|5.0|653
+mini-fridge used|20.0|653
+mini-fridge used|20.0|653
+city tour|100.0|654
+spa|50.0|654
+city tour|100.0|654
+room service|25.0|654
+rented movie|5.0|654
+room service|25.0|655
+valet|10.0|655
+room service|25.0|655
+rented movie|5.0|655
+room service|25.0|655
+spa|50.0|656
+room service|25.0|656
+room service|25.0|656
+mini-fridge used|20.0|656
+city tour|100.0|656
+room service|25.0|657
+valet|10.0|657
+room service|25.0|657
+room service|25.0|657
+mini-fridge used|20.0|657
+city tour|100.0|658
+mini-fridge used|20.0|658
+city tour|100.0|658
+spa|50.0|658
+rented movie|5.0|658
+rented movie|5.0|659
+spa|50.0|659
+rented movie|5.0|659
+valet|10.0|659
+valet|10.0|659
+valet|10.0|660
+valet|10.0|660
+room service|25.0|660
+city tour|100.0|660
+city tour|100.0|660
+room service|25.0|661
+city tour|100.0|661
+room service|25.0|661
+valet|10.0|661
+room service|25.0|661
+room service|25.0|662
+room service|25.0|662
+rented movie|5.0|662
+rented movie|5.0|662
+spa|50.0|662
+rented movie|5.0|663
+valet|10.0|663
+rented movie|5.0|663
+mini-fridge used|20.0|663
+room service|25.0|663
+valet|10.0|664
+mini-fridge used|20.0|664
+spa|50.0|664
+city tour|100.0|664
+valet|10.0|664
+rented movie|5.0|665
+mini-fridge used|20.0|665
+spa|50.0|665
+room service|25.0|665
+spa|50.0|665
+spa|50.0|666
+rented movie|5.0|666
+mini-fridge used|20.0|666
+valet|10.0|666
+rented movie|5.0|666
+spa|50.0|667
+mini-fridge used|20.0|667
+mini-fridge used|20.0|667
+mini-fridge used|20.0|667
+city tour|100.0|667
+valet|10.0|668
+room service|25.0|668
+valet|10.0|668
+valet|10.0|668
+valet|10.0|668
+rented movie|5.0|669
+valet|10.0|669
+room service|25.0|669
+valet|10.0|669
+rented movie|5.0|669
+room service|25.0|670
+city tour|100.0|670
+room service|25.0|670
+mini-fridge used|20.0|670
+mini-fridge used|20.0|670
+rented movie|5.0|671
+room service|25.0|671
+city tour|100.0|671
+rented movie|5.0|671
+rented movie|5.0|671
+city tour|100.0|672
+spa|50.0|672
+room service|25.0|672
+room service|25.0|672
+spa|50.0|672
+room service|25.0|673
+city tour|100.0|673
+spa|50.0|673
+valet|10.0|673
+room service|25.0|673
+city tour|100.0|674
+room service|25.0|674
+room service|25.0|674
+spa|50.0|674
+spa|50.0|674
+valet|10.0|675
+city tour|100.0|675
+rented movie|5.0|675
+city tour|100.0|675
+room service|25.0|675
+valet|10.0|676
+valet|10.0|676
+spa|50.0|676
+rented movie|5.0|676
+mini-fridge used|20.0|676
+city tour|100.0|677
+rented movie|5.0|677
+spa|50.0|677
+mini-fridge used|20.0|677
+city tour|100.0|677
+spa|50.0|678
+mini-fridge used|20.0|678
+mini-fridge used|20.0|678
+valet|10.0|678
+room service|25.0|678
+spa|50.0|679
+valet|10.0|679
+mini-fridge used|20.0|679
+spa|50.0|679
+rented movie|5.0|679
+room service|25.0|680
+valet|10.0|680
+spa|50.0|680
+room service|25.0|680
+room service|25.0|680
+room service|25.0|681
+mini-fridge used|20.0|681
+rented movie|5.0|681
+city tour|100.0|681
+rented movie|5.0|681
+valet|10.0|682
+room service|25.0|682
+room service|25.0|682
+room service|25.0|682
+rented movie|5.0|682
+room service|25.0|683
+city tour|100.0|683
+mini-fridge used|20.0|683
+valet|10.0|683
+rented movie|5.0|683
+spa|50.0|684
+room service|25.0|684
+valet|10.0|684
+city tour|100.0|684
+room service|25.0|684
+spa|50.0|685
+city tour|100.0|685
+city tour|100.0|685
+city tour|100.0|685
+room service|25.0|685
+rented movie|5.0|686
+room service|25.0|686
+spa|50.0|686
+rented movie|5.0|686
+room service|25.0|686
+spa|50.0|687
+room service|25.0|687
+city tour|100.0|687
+rented movie|5.0|687
+valet|10.0|687
+city tour|100.0|688
+rented movie|5.0|688
+valet|10.0|688
+rented movie|5.0|688
+mini-fridge used|20.0|688
+rented movie|5.0|689
+rented movie|5.0|689
+spa|50.0|689
+rented movie|5.0|689
+mini-fridge used|20.0|689
+spa|50.0|690
+mini-fridge used|20.0|690
+room service|25.0|690
+rented movie|5.0|690
+rented movie|5.0|690
+city tour|100.0|691
+valet|10.0|691
+room service|25.0|691
+rented movie|5.0|691
+room service|25.0|691
+mini-fridge used|20.0|692
+city tour|100.0|692
+rented movie|5.0|692
+room service|25.0|692
+room service|25.0|692
+city tour|100.0|693
+mini-fridge used|20.0|693
+mini-fridge used|20.0|693
+valet|10.0|693
+city tour|100.0|693
+valet|10.0|694
+valet|10.0|694
+spa|50.0|694
+valet|10.0|694
+spa|50.0|694
+city tour|100.0|695
+mini-fridge used|20.0|695
+mini-fridge used|20.0|695
+city tour|100.0|695
+city tour|100.0|695
+mini-fridge used|20.0|696
+mini-fridge used|20.0|696
+spa|50.0|696
+mini-fridge used|20.0|696
+mini-fridge used|20.0|696
+rented movie|5.0|697
+valet|10.0|697
+city tour|100.0|697
+mini-fridge used|20.0|697
+city tour|100.0|697
+room service|25.0|698
+room service|25.0|698
+rented movie|5.0|698
+spa|50.0|698
+rented movie|5.0|698
+valet|10.0|699
+mini-fridge used|20.0|699
+rented movie|5.0|699
+rented movie|5.0|699
+valet|10.0|699
+valet|10.0|700
+mini-fridge used|20.0|700
+room service|25.0|700
+room service|25.0|700
+valet|10.0|700
+spa|50.0|701
+mini-fridge used|20.0|701
+rented movie|5.0|701
+mini-fridge used|20.0|701
+room service|25.0|701
+spa|50.0|702
+valet|10.0|702
+spa|50.0|702
+rented movie|5.0|702
+city tour|100.0|702
+city tour|100.0|703
+valet|10.0|703
+city tour|100.0|703
+mini-fridge used|20.0|703
+city tour|100.0|703
+room service|25.0|704
+valet|10.0|704
+spa|50.0|704
+city tour|100.0|704
+mini-fridge used|20.0|704
+mini-fridge used|20.0|705
+room service|25.0|705
+mini-fridge used|20.0|705
+room service|25.0|705
+spa|50.0|705
+rented movie|5.0|706
+mini-fridge used|20.0|706
+mini-fridge used|20.0|706
+mini-fridge used|20.0|706
+spa|50.0|706
+valet|10.0|707
+rented movie|5.0|707
+room service|25.0|707
+valet|10.0|707
+valet|10.0|707
+valet|10.0|708
+city tour|100.0|708
+spa|50.0|708
+city tour|100.0|708
+spa|50.0|708
+spa|50.0|709
+valet|10.0|709
+room service|25.0|709
+valet|10.0|709
+room service|25.0|709
+spa|50.0|710
+valet|10.0|710
+rented movie|5.0|710
+rented movie|5.0|710
+mini-fridge used|20.0|710
+rented movie|5.0|711
+rented movie|5.0|711
+valet|10.0|711
+valet|10.0|711
+mini-fridge used|20.0|711
+city tour|100.0|712
+mini-fridge used|20.0|712
+mini-fridge used|20.0|712
+valet|10.0|712
+city tour|100.0|712
+room service|25.0|713
+mini-fridge used|20.0|713
+rented movie|5.0|713
+spa|50.0|713
+mini-fridge used|20.0|713
+rented movie|5.0|714
+spa|50.0|714
+room service|25.0|714
+mini-fridge used|20.0|714
+room service|25.0|714
+room service|25.0|715
+spa|50.0|715
+city tour|100.0|715
+mini-fridge used|20.0|715
+rented movie|5.0|715
+rented movie|5.0|716
+mini-fridge used|20.0|716
+city tour|100.0|716
+mini-fridge used|20.0|716
+spa|50.0|716
+city tour|100.0|717
+city tour|100.0|717
+valet|10.0|717
+mini-fridge used|20.0|717
+city tour|100.0|717
+room service|25.0|718
+city tour|100.0|718
+room service|25.0|718
+rented movie|5.0|718
+room service|25.0|718
+room service|25.0|719
+mini-fridge used|20.0|719
+rented movie|5.0|719
+mini-fridge used|20.0|719
+city tour|100.0|719
+valet|10.0|720
+spa|50.0|720
+spa|50.0|720
+city tour|100.0|720
+room service|25.0|720
+room service|25.0|721
+valet|10.0|721
+city tour|100.0|721
+valet|10.0|721
+rented movie|5.0|721
+city tour|100.0|722
+spa|50.0|722
+spa|50.0|722
+city tour|100.0|722
+city tour|100.0|722
+city tour|100.0|723
+rented movie|5.0|723
+rented movie|5.0|723
+room service|25.0|723
+valet|10.0|723
+mini-fridge used|20.0|724
+room service|25.0|724
+valet|10.0|724
+valet|10.0|724
+valet|10.0|724
+rented movie|5.0|725
+rented movie|5.0|725
+rented movie|5.0|725
+valet|10.0|725
+spa|50.0|725
+city tour|100.0|726
+valet|10.0|726
+rented movie|5.0|726
+valet|10.0|726
+valet|10.0|726
+spa|50.0|727
+mini-fridge used|20.0|727
+mini-fridge used|20.0|727
+valet|10.0|727
+city tour|100.0|727
+valet|10.0|728
+mini-fridge used|20.0|728
+room service|25.0|728
+spa|50.0|728
+valet|10.0|728
+rented movie|5.0|729
+rented movie|5.0|729
+spa|50.0|729
+valet|10.0|729
+room service|25.0|729
+rented movie|5.0|730
+mini-fridge used|20.0|730
+mini-fridge used|20.0|730
+spa|50.0|730
+rented movie|5.0|730
+mini-fridge used|20.0|731
+rented movie|5.0|731
+room service|25.0|731
+room service|25.0|731
+mini-fridge used|20.0|731
+valet|10.0|732
+mini-fridge used|20.0|732
+rented movie|5.0|732
+mini-fridge used|20.0|732
+room service|25.0|732
+mini-fridge used|20.0|733
+valet|10.0|733
+city tour|100.0|733
+room service|25.0|733
+city tour|100.0|733
+room service|25.0|734
+room service|25.0|734
+city tour|100.0|734
+rented movie|5.0|734
+mini-fridge used|20.0|734
+spa|50.0|735
+rented movie|5.0|735
+city tour|100.0|735
+mini-fridge used|20.0|735
+room service|25.0|735
+city tour|100.0|736
+rented movie|5.0|736
+valet|10.0|736
+mini-fridge used|20.0|736
+valet|10.0|736
+city tour|100.0|737
+valet|10.0|737
+rented movie|5.0|737
+city tour|100.0|737
+spa|50.0|737
+room service|25.0|738
+room service|25.0|738
+city tour|100.0|738
+mini-fridge used|20.0|738
+valet|10.0|738
+spa|50.0|739
+rented movie|5.0|739
+spa|50.0|739
+room service|25.0|739
+mini-fridge used|20.0|739
+valet|10.0|740
+room service|25.0|740
+room service|25.0|740
+valet|10.0|740
+mini-fridge used|20.0|740
+room service|25.0|741
+rented movie|5.0|741
+valet|10.0|741
+spa|50.0|741
+valet|10.0|741
+rented movie|5.0|742
+city tour|100.0|742
+city tour|100.0|742
+room service|25.0|742
+valet|10.0|742
+rented movie|5.0|743
+valet|10.0|743
+rented movie|5.0|743
+room service|25.0|743
+mini-fridge used|20.0|743
+valet|10.0|744
+valet|10.0|744
+valet|10.0|744
+rented movie|5.0|744
+valet|10.0|744
+spa|50.0|745
+spa|50.0|745
+rented movie|5.0|745
+valet|10.0|745
+valet|10.0|745
+city tour|100.0|746
+spa|50.0|746
+room service|25.0|746
+city tour|100.0|746
+valet|10.0|746
+rented movie|5.0|747
+valet|10.0|747
+spa|50.0|747
+valet|10.0|747
+city tour|100.0|747
+valet|10.0|748
+valet|10.0|748
+rented movie|5.0|748
+room service|25.0|748
+city tour|100.0|748
+city tour|100.0|749
+room service|25.0|749
+spa|50.0|749
+mini-fridge used|20.0|749
+rented movie|5.0|749
+valet|10.0|750
+room service|25.0|750
+rented movie|5.0|750
+rented movie|5.0|750
+mini-fridge used|20.0|750
+spa|50.0|751
+mini-fridge used|20.0|751
+spa|50.0|751
+spa|50.0|751
+spa|50.0|751
+room service|25.0|752
+rented movie|5.0|752
+rented movie|5.0|752
+rented movie|5.0|752
+room service|25.0|752
+spa|50.0|753
+spa|50.0|753
+spa|50.0|753
+city tour|100.0|753
+rented movie|5.0|753
+rented movie|5.0|754
+room service|25.0|754
+room service|25.0|754
+room service|25.0|754
+valet|10.0|754
+rented movie|5.0|755
+room service|25.0|755
+room service|25.0|755
+spa|50.0|755
+rented movie|5.0|755
+valet|10.0|756
+city tour|100.0|756
+rented movie|5.0|756
+spa|50.0|756
+room service|25.0|756
+valet|10.0|757
+city tour|100.0|757
+mini-fridge used|20.0|757
+rented movie|5.0|757
+valet|10.0|757
+spa|50.0|758
+room service|25.0|758
+mini-fridge used|20.0|758
+mini-fridge used|20.0|758
+spa|50.0|758
+rented movie|5.0|759
+rented movie|5.0|759
+room service|25.0|759
+valet|10.0|759
+spa|50.0|759
+mini-fridge used|20.0|760
+spa|50.0|760
+valet|10.0|760
+spa|50.0|760
+city tour|100.0|760
+room service|25.0|761
+mini-fridge used|20.0|761
+valet|10.0|761
+spa|50.0|761
+city tour|100.0|761
+city tour|100.0|762
+city tour|100.0|762
+mini-fridge used|20.0|762
+mini-fridge used|20.0|762
+mini-fridge used|20.0|762
+mini-fridge used|20.0|763
+spa|50.0|763
+room service|25.0|763
+spa|50.0|763
+rented movie|5.0|763
+room service|25.0|764
+city tour|100.0|764
+valet|10.0|764
+rented movie|5.0|764
+spa|50.0|764
+city tour|100.0|765
+rented movie|5.0|765
+valet|10.0|765
+room service|25.0|765
+valet|10.0|765
+rented movie|5.0|766
+rented movie|5.0|766
+spa|50.0|766
+valet|10.0|766
+valet|10.0|766
+room service|25.0|767
+spa|50.0|767
+spa|50.0|767
+mini-fridge used|20.0|767
+city tour|100.0|767
+valet|10.0|768
+rented movie|5.0|768
+room service|25.0|768
+mini-fridge used|20.0|768
+mini-fridge used|20.0|768
+city tour|100.0|769
+mini-fridge used|20.0|769
+city tour|100.0|769
+spa|50.0|769
+rented movie|5.0|769
+valet|10.0|770
+room service|25.0|770
+mini-fridge used|20.0|770
+valet|10.0|770
+spa|50.0|770
+valet|10.0|771
+rented movie|5.0|771
+room service|25.0|771
+rented movie|5.0|771
+spa|50.0|771
+spa|50.0|772
+spa|50.0|772
+valet|10.0|772
+spa|50.0|772
+spa|50.0|772
+spa|50.0|773
+mini-fridge used|20.0|773
+rented movie|5.0|773
+valet|10.0|773
+valet|10.0|773
+room service|25.0|774
+mini-fridge used|20.0|774
+mini-fridge used|20.0|774
+rented movie|5.0|774
+valet|10.0|774
+city tour|100.0|775
+rented movie|5.0|775
+valet|10.0|775
+rented movie|5.0|775
+mini-fridge used|20.0|775
+rented movie|5.0|776
+city tour|100.0|776
+mini-fridge used|20.0|776
+city tour|100.0|776
+spa|50.0|776
+spa|50.0|777
+room service|25.0|777
+rented movie|5.0|777
+mini-fridge used|20.0|777
+city tour|100.0|777
+room service|25.0|778
+city tour|100.0|778
+valet|10.0|778
+room service|25.0|778
+rented movie|5.0|778
+spa|50.0|779
+valet|10.0|779
+mini-fridge used|20.0|779
+spa|50.0|779
+city tour|100.0|779
+valet|10.0|780
+rented movie|5.0|780
+valet|10.0|780
+rented movie|5.0|780
+mini-fridge used|20.0|780
+rented movie|5.0|781
+room service|25.0|781
+spa|50.0|781
+spa|50.0|781
+room service|25.0|781
+spa|50.0|782
+city tour|100.0|782
+mini-fridge used|20.0|782
+spa|50.0|782
+mini-fridge used|20.0|782
+city tour|100.0|783
+spa|50.0|783
+spa|50.0|783
+mini-fridge used|20.0|783
+city tour|100.0|783
+valet|10.0|784
+rented movie|5.0|784
+room service|25.0|784
+room service|25.0|784
+spa|50.0|784
+city tour|100.0|785
+spa|50.0|785
+spa|50.0|785
+spa|50.0|785
+spa|50.0|785
+city tour|100.0|786
+room service|25.0|786
+valet|10.0|786
+spa|50.0|786
+rented movie|5.0|786
+room service|25.0|787
+mini-fridge used|20.0|787
+valet|10.0|787
+rented movie|5.0|787
+mini-fridge used|20.0|787
+valet|10.0|788
+spa|50.0|788
+valet|10.0|788
+city tour|100.0|788
+city tour|100.0|788
+rented movie|5.0|789
+mini-fridge used|20.0|789
+city tour|100.0|789
+mini-fridge used|20.0|789
+spa|50.0|789
+mini-fridge used|20.0|790
+valet|10.0|790
+spa|50.0|790
+valet|10.0|790
+spa|50.0|790
+rented movie|5.0|791
+spa|50.0|791
+room service|25.0|791
+city tour|100.0|791
+spa|50.0|791
+valet|10.0|792
+spa|50.0|792
+spa|50.0|792
+valet|10.0|792
+city tour|100.0|792
+spa|50.0|793
+room service|25.0|793
+room service|25.0|793
+rented movie|5.0|793
+rented movie|5.0|793
+valet|10.0|794
+valet|10.0|794
+room service|25.0|794
+rented movie|5.0|794
+spa|50.0|794
+valet|10.0|795
+city tour|100.0|795
+mini-fridge used|20.0|795
+spa|50.0|795
+city tour|100.0|795
+spa|50.0|796
+mini-fridge used|20.0|796
+room service|25.0|796
+city tour|100.0|796
+rented movie|5.0|796
+city tour|100.0|797
+mini-fridge used|20.0|797
+city tour|100.0|797
+valet|10.0|797
+mini-fridge used|20.0|797
+rented movie|5.0|798
+spa|50.0|798
+city tour|100.0|798
+spa|50.0|798
+valet|10.0|798
+room service|25.0|799
+rented movie|5.0|799
+rented movie|5.0|799
+rented movie|5.0|799
+city tour|100.0|799
+room service|25.0|800
+mini-fridge used|20.0|800
+mini-fridge used|20.0|800
+mini-fridge used|20.0|800
+mini-fridge used|20.0|800
+valet|10.0|801
+valet|10.0|801
+mini-fridge used|20.0|801
+spa|50.0|801
+valet|10.0|801
+spa|50.0|802
+mini-fridge used|20.0|802
+valet|10.0|802
+city tour|100.0|802
+mini-fridge used|20.0|802
+mini-fridge used|20.0|803
+city tour|100.0|803
+rented movie|5.0|803
+city tour|100.0|803
+spa|50.0|803
+room service|25.0|804
+room service|25.0|804
+room service|25.0|804
+spa|50.0|804
+room service|25.0|804
+room service|25.0|805
+spa|50.0|805
+city tour|100.0|805
+spa|50.0|805
+valet|10.0|805
+rented movie|5.0|806
+mini-fridge used|20.0|806
+spa|50.0|806
+room service|25.0|806
+rented movie|5.0|806
+valet|10.0|807
+city tour|100.0|807
+rented movie|5.0|807
+mini-fridge used|20.0|807
+mini-fridge used|20.0|807
+rented movie|5.0|808
+city tour|100.0|808
+spa|50.0|808
+room service|25.0|808
+rented movie|5.0|808
+spa|50.0|809
+city tour|100.0|809
+room service|25.0|809
+mini-fridge used|20.0|809
+rented movie|5.0|809
+rented movie|5.0|810
+rented movie|5.0|810
+city tour|100.0|810
+rented movie|5.0|810
+mini-fridge used|20.0|810
+rented movie|5.0|811
+rented movie|5.0|811
+mini-fridge used|20.0|811
+room service|25.0|811
+room service|25.0|811
+room service|25.0|812
+room service|25.0|812
+valet|10.0|812
+valet|10.0|812
+spa|50.0|812
+city tour|100.0|813
+valet|10.0|813
+spa|50.0|813
+city tour|100.0|813
+valet|10.0|813
+room service|25.0|814
+city tour|100.0|814
+city tour|100.0|814
+city tour|100.0|814
+room service|25.0|814
+room service|25.0|815
+spa|50.0|815
+city tour|100.0|815
+rented movie|5.0|815
+city tour|100.0|815
+city tour|100.0|816
+mini-fridge used|20.0|816
+room service|25.0|816
+city tour|100.0|816
+room service|25.0|816
+mini-fridge used|20.0|817
+valet|10.0|817
+rented movie|5.0|817
+room service|25.0|817
+room service|25.0|817
+spa|50.0|818
+mini-fridge used|20.0|818
+city tour|100.0|818
+room service|25.0|818
+valet|10.0|818
+rented movie|5.0|819
+room service|25.0|819
+mini-fridge used|20.0|819
+mini-fridge used|20.0|819
+spa|50.0|819
+mini-fridge used|20.0|820
+city tour|100.0|820
+rented movie|5.0|820
+spa|50.0|820
+valet|10.0|820
+valet|10.0|821
+rented movie|5.0|821
+mini-fridge used|20.0|821
+valet|10.0|821
+city tour|100.0|821
+valet|10.0|822
+city tour|100.0|822
+mini-fridge used|20.0|822
+rented movie|5.0|822
+rented movie|5.0|822
+city tour|100.0|823
+rented movie|5.0|823
+spa|50.0|823
+room service|25.0|823
+room service|25.0|823
+city tour|100.0|824
+mini-fridge used|20.0|824
+valet|10.0|824
+city tour|100.0|824
+city tour|100.0|824
+valet|10.0|825
+spa|50.0|825
+rented movie|5.0|825
+rented movie|5.0|825
+mini-fridge used|20.0|825
+room service|25.0|826
+rented movie|5.0|826
+city tour|100.0|826
+valet|10.0|826
+city tour|100.0|826
+rented movie|5.0|827
+rented movie|5.0|827
+rented movie|5.0|827
+spa|50.0|827
+valet|10.0|827
+rented movie|5.0|828
+mini-fridge used|20.0|828
+room service|25.0|828
+spa|50.0|828
+room service|25.0|828
+city tour|100.0|829
+valet|10.0|829
+valet|10.0|829
+rented movie|5.0|829
+spa|50.0|829
+city tour|100.0|830
+spa|50.0|830
+rented movie|5.0|830
+valet|10.0|830
+mini-fridge used|20.0|830
+mini-fridge used|20.0|831
+room service|25.0|831
+city tour|100.0|831
+valet|10.0|831
+spa|50.0|831
+spa|50.0|832
+city tour|100.0|832
+city tour|100.0|832
+city tour|100.0|832
+spa|50.0|832
+mini-fridge used|20.0|833
+valet|10.0|833
+mini-fridge used|20.0|833
+city tour|100.0|833
+spa|50.0|833
+spa|50.0|834
+spa|50.0|834
+room service|25.0|834
+rented movie|5.0|834
+valet|10.0|834
+rented movie|5.0|835
+city tour|100.0|835
+rented movie|5.0|835
+rented movie|5.0|835
+valet|10.0|835
+valet|10.0|836
+room service|25.0|836
+rented movie|5.0|836
+city tour|100.0|836
+valet|10.0|836
+valet|10.0|837
+rented movie|5.0|837
+city tour|100.0|837
+valet|10.0|837
+room service|25.0|837
+mini-fridge used|20.0|838
+valet|10.0|838
+mini-fridge used|20.0|838
+city tour|100.0|838
+rented movie|5.0|838
+rented movie|5.0|839
+valet|10.0|839
+rented movie|5.0|839
+room service|25.0|839
+valet|10.0|839
+mini-fridge used|20.0|840
+mini-fridge used|20.0|840
+city tour|100.0|840
+valet|10.0|840
+city tour|100.0|840
+room service|25.0|841
+rented movie|5.0|841
+valet|10.0|841
+city tour|100.0|841
+room service|25.0|841
+room service|25.0|842
+mini-fridge used|20.0|842
+city tour|100.0|842
+city tour|100.0|842
+rented movie|5.0|842
+city tour|100.0|843
+spa|50.0|843
+room service|25.0|843
+city tour|100.0|843
+valet|10.0|843
+room service|25.0|844
+room service|25.0|844
+valet|10.0|844
+room service|25.0|844
+valet|10.0|844
+valet|10.0|845
+mini-fridge used|20.0|845
+valet|10.0|845
+room service|25.0|845
+city tour|100.0|845
+valet|10.0|846
+spa|50.0|846
+rented movie|5.0|846
+spa|50.0|846
+room service|25.0|846
+rented movie|5.0|847
+room service|25.0|847
+room service|25.0|847
+valet|10.0|847
+mini-fridge used|20.0|847
+valet|10.0|848
+spa|50.0|848
+valet|10.0|848
+spa|50.0|848
+mini-fridge used|20.0|848
+city tour|100.0|849
+city tour|100.0|849
+rented movie|5.0|849
+room service|25.0|849
+city tour|100.0|849
+room service|25.0|850
+spa|50.0|850
+city tour|100.0|850
+mini-fridge used|20.0|850
+valet|10.0|850
+spa|50.0|851
+spa|50.0|851
+room service|25.0|851
+spa|50.0|851
+city tour|100.0|851
+spa|50.0|852
+city tour|100.0|852
+valet|10.0|852
+room service|25.0|852
+room service|25.0|852
+mini-fridge used|20.0|853
+spa|50.0|853
+mini-fridge used|20.0|853
+city tour|100.0|853
+spa|50.0|853
+rented movie|5.0|854
+rented movie|5.0|854
+room service|25.0|854
+room service|25.0|854
+mini-fridge used|20.0|854
+rented movie|5.0|855
+city tour|100.0|855
+valet|10.0|855
+spa|50.0|855
+rented movie|5.0|855
+city tour|100.0|856
+mini-fridge used|20.0|856
+room service|25.0|856
+spa|50.0|856
+mini-fridge used|20.0|856
+room service|25.0|857
+room service|25.0|857
+mini-fridge used|20.0|857
+spa|50.0|857
+mini-fridge used|20.0|857
+room service|25.0|858
+valet|10.0|858
+spa|50.0|858
+city tour|100.0|858
+valet|10.0|858
+rented movie|5.0|859
+room service|25.0|859
+mini-fridge used|20.0|859
+spa|50.0|859
+mini-fridge used|20.0|859
+room service|25.0|860
+spa|50.0|860
+valet|10.0|860
+room service|25.0|860
+mini-fridge used|20.0|860
+city tour|100.0|861
+mini-fridge used|20.0|861
+room service|25.0|861
+city tour|100.0|861
+rented movie|5.0|861
+city tour|100.0|862
+mini-fridge used|20.0|862
+rented movie|5.0|862
+mini-fridge used|20.0|862
+valet|10.0|862
+city tour|100.0|863
+rented movie|5.0|863
+room service|25.0|863
+rented movie|5.0|863
+spa|50.0|863
+room service|25.0|864
+mini-fridge used|20.0|864
+valet|10.0|864
+mini-fridge used|20.0|864
+rented movie|5.0|864
+rented movie|5.0|865
+rented movie|5.0|865
+mini-fridge used|20.0|865
+city tour|100.0|865
+spa|50.0|865
+city tour|100.0|866
+city tour|100.0|866
+mini-fridge used|20.0|866
+room service|25.0|866
+mini-fridge used|20.0|866
+spa|50.0|867
+rented movie|5.0|867
+room service|25.0|867
+valet|10.0|867
+city tour|100.0|867
+rented movie|5.0|868
+spa|50.0|868
+room service|25.0|868
+mini-fridge used|20.0|868
+spa|50.0|868
+room service|25.0|869
+rented movie|5.0|869
+mini-fridge used|20.0|869
+mini-fridge used|20.0|869
+mini-fridge used|20.0|869
+spa|50.0|870
+room service|25.0|870
+mini-fridge used|20.0|870
+room service|25.0|870
+valet|10.0|870
+spa|50.0|871
+room service|25.0|871
+spa|50.0|871
+room service|25.0|871
+spa|50.0|871
+rented movie|5.0|872
+mini-fridge used|20.0|872
+rented movie|5.0|872
+rented movie|5.0|872
+room service|25.0|872
+rented movie|5.0|873
+mini-fridge used|20.0|873
+rented movie|5.0|873
+mini-fridge used|20.0|873
+mini-fridge used|20.0|873
+room service|25.0|874
+valet|10.0|874
+valet|10.0|874
+mini-fridge used|20.0|874
+mini-fridge used|20.0|874
+rented movie|5.0|875
+valet|10.0|875
+spa|50.0|875
+mini-fridge used|20.0|875
+rented movie|5.0|875
+rented movie|5.0|876
+mini-fridge used|20.0|876
+room service|25.0|876
+spa|50.0|876
+rented movie|5.0|876
+room service|25.0|877
+valet|10.0|877
+room service|25.0|877
+valet|10.0|877
+city tour|100.0|877
+valet|10.0|878
+spa|50.0|878
+room service|25.0|878
+mini-fridge used|20.0|878
+room service|25.0|878
+room service|25.0|879
+rented movie|5.0|879
+room service|25.0|879
+spa|50.0|879
+mini-fridge used|20.0|879
+room service|25.0|880
+room service|25.0|880
+valet|10.0|880
+city tour|100.0|880
+room service|25.0|880
+mini-fridge used|20.0|881
+rented movie|5.0|881
+valet|10.0|881
+rented movie|5.0|881
+mini-fridge used|20.0|881
+valet|10.0|882
+room service|25.0|882
+rented movie|5.0|882
+valet|10.0|882
+mini-fridge used|20.0|882
+room service|25.0|883
+valet|10.0|883
+valet|10.0|883
+city tour|100.0|883
+city tour|100.0|883
+mini-fridge used|20.0|884
+city tour|100.0|884
+valet|10.0|884
+spa|50.0|884
+valet|10.0|884
+city tour|100.0|885
+city tour|100.0|885
+valet|10.0|885
+mini-fridge used|20.0|885
+spa|50.0|885
+rented movie|5.0|886
+city tour|100.0|886
+valet|10.0|886
+rented movie|5.0|886
+room service|25.0|886
+mini-fridge used|20.0|887
+spa|50.0|887
+mini-fridge used|20.0|887
+valet|10.0|887
+valet|10.0|887
+mini-fridge used|20.0|888
+spa|50.0|888
+valet|10.0|888
+city tour|100.0|888
+spa|50.0|888
+mini-fridge used|20.0|889
+spa|50.0|889
+valet|10.0|889
+room service|25.0|889
+room service|25.0|889
+rented movie|5.0|890
+mini-fridge used|20.0|890
+rented movie|5.0|890
+city tour|100.0|890
+room service|25.0|890
+city tour|100.0|891
+city tour|100.0|891
+mini-fridge used|20.0|891
+spa|50.0|891
+spa|50.0|891
+rented movie|5.0|892
+rented movie|5.0|892
+mini-fridge used|20.0|892
+room service|25.0|892
+mini-fridge used|20.0|892
+rented movie|5.0|893
+city tour|100.0|893
+valet|10.0|893
+spa|50.0|893
+spa|50.0|893
+spa|50.0|894
+room service|25.0|894
+room service|25.0|894
+mini-fridge used|20.0|894
+spa|50.0|894
+city tour|100.0|895
+city tour|100.0|895
+mini-fridge used|20.0|895
+room service|25.0|895
+mini-fridge used|20.0|895
+mini-fridge used|20.0|896
+valet|10.0|896
+spa|50.0|896
+mini-fridge used|20.0|896
+spa|50.0|896
+spa|50.0|897
+spa|50.0|897
+mini-fridge used|20.0|897
+mini-fridge used|20.0|897
+valet|10.0|897
+spa|50.0|898
+spa|50.0|898
+valet|10.0|898
+room service|25.0|898
+rented movie|5.0|898
+mini-fridge used|20.0|899
+city tour|100.0|899
+mini-fridge used|20.0|899
+valet|10.0|899
+mini-fridge used|20.0|899
+spa|50.0|900
+rented movie|5.0|900
+city tour|100.0|900
+city tour|100.0|900
+spa|50.0|900
+room service|25.0|901
+room service|25.0|901
+mini-fridge used|20.0|901
+city tour|100.0|901
+room service|25.0|901
+city tour|100.0|902
+spa|50.0|902
+mini-fridge used|20.0|902
+spa|50.0|902
+rented movie|5.0|902
+room service|25.0|903
+room service|25.0|903
+spa|50.0|903
+spa|50.0|903
+valet|10.0|903
+room service|25.0|904
+spa|50.0|904
+valet|10.0|904
+valet|10.0|904
+spa|50.0|904
+rented movie|5.0|905
+room service|25.0|905
+spa|50.0|905
+mini-fridge used|20.0|905
+rented movie|5.0|905
+spa|50.0|906
+valet|10.0|906
+valet|10.0|906
+spa|50.0|906
+valet|10.0|906
+mini-fridge used|20.0|907
+mini-fridge used|20.0|907
+mini-fridge used|20.0|907
+rented movie|5.0|907
+city tour|100.0|907
+room service|25.0|908
+spa|50.0|908
+room service|25.0|908
+rented movie|5.0|908
+mini-fridge used|20.0|908
+room service|25.0|909
+city tour|100.0|909
+valet|10.0|909
+spa|50.0|909
+mini-fridge used|20.0|909
+city tour|100.0|910
+valet|10.0|910
+valet|10.0|910
+room service|25.0|910
+room service|25.0|910
+city tour|100.0|911
+spa|50.0|911
+mini-fridge used|20.0|911
+rented movie|5.0|911
+room service|25.0|911
+room service|25.0|912
+valet|10.0|912
+room service|25.0|912
+room service|25.0|912
+mini-fridge used|20.0|912
+mini-fridge used|20.0|913
+valet|10.0|913
+mini-fridge used|20.0|913
+valet|10.0|913
+spa|50.0|913
+spa|50.0|914
+valet|10.0|914
+mini-fridge used|20.0|914
+valet|10.0|914
+spa|50.0|914
+city tour|100.0|915
+rented movie|5.0|915
+rented movie|5.0|915
+spa|50.0|915
+valet|10.0|915
+mini-fridge used|20.0|916
+city tour|100.0|916
+mini-fridge used|20.0|916
+spa|50.0|916
+spa|50.0|916
+city tour|100.0|917
+mini-fridge used|20.0|917
+city tour|100.0|917
+city tour|100.0|917
+rented movie|5.0|917
+rented movie|5.0|918
+spa|50.0|918
+city tour|100.0|918
+room service|25.0|918
+mini-fridge used|20.0|918
+room service|25.0|919
+spa|50.0|919
+room service|25.0|919
+mini-fridge used|20.0|919
+room service|25.0|919
+room service|25.0|920
+spa|50.0|920
+spa|50.0|920
+valet|10.0|920
+valet|10.0|920
+spa|50.0|921
+rented movie|5.0|921
+mini-fridge used|20.0|921
+spa|50.0|921
+spa|50.0|921
+room service|25.0|922
+room service|25.0|922
+spa|50.0|922
+room service|25.0|922
+room service|25.0|922
+room service|25.0|923
+valet|10.0|923
+mini-fridge used|20.0|923
+spa|50.0|923
+valet|10.0|923
+valet|10.0|924
+room service|25.0|924
+rented movie|5.0|924
+rented movie|5.0|924
+spa|50.0|924
+valet|10.0|925
+spa|50.0|925
+room service|25.0|925
+rented movie|5.0|925
+city tour|100.0|925
+mini-fridge used|20.0|926
+mini-fridge used|20.0|926
+mini-fridge used|20.0|926
+city tour|100.0|926
+room service|25.0|926
+valet|10.0|927
+mini-fridge used|20.0|927
+city tour|100.0|927
+city tour|100.0|927
+mini-fridge used|20.0|927
+city tour|100.0|928
+room service|25.0|928
+mini-fridge used|20.0|928
+valet|10.0|928
+spa|50.0|928
+room service|25.0|929
+mini-fridge used|20.0|929
+rented movie|5.0|929
+spa|50.0|929
+valet|10.0|929
+mini-fridge used|20.0|930
+rented movie|5.0|930
+room service|25.0|930
+rented movie|5.0|930
+rented movie|5.0|930
+rented movie|5.0|931
+rented movie|5.0|931
+valet|10.0|931
+spa|50.0|931
+city tour|100.0|931
+city tour|100.0|932
+rented movie|5.0|932
+valet|10.0|932
+city tour|100.0|932
+room service|25.0|932
+valet|10.0|933
+valet|10.0|933
+mini-fridge used|20.0|933
+spa|50.0|933
+valet|10.0|933
+valet|10.0|934
+city tour|100.0|934
+spa|50.0|934
+city tour|100.0|934
+spa|50.0|934
+mini-fridge used|20.0|935
+room service|25.0|935
+city tour|100.0|935
+city tour|100.0|935
+valet|10.0|935
+city tour|100.0|936
+room service|25.0|936
+city tour|100.0|936
+city tour|100.0|936
+mini-fridge used|20.0|936
+room service|25.0|937
+city tour|100.0|937
+room service|25.0|937
+room service|25.0|937
+rented movie|5.0|937
+mini-fridge used|20.0|938
+city tour|100.0|938
+spa|50.0|938
+mini-fridge used|20.0|938
+mini-fridge used|20.0|938
+room service|25.0|939
+mini-fridge used|20.0|939
+city tour|100.0|939
+mini-fridge used|20.0|939
+valet|10.0|939
+spa|50.0|940
+spa|50.0|940
+city tour|100.0|940
+room service|25.0|940
+city tour|100.0|940
+rented movie|5.0|941
+mini-fridge used|20.0|941
+city tour|100.0|941
+city tour|100.0|941
+city tour|100.0|941
+valet|10.0|942
+city tour|100.0|942
+room service|25.0|942
+city tour|100.0|942
+valet|10.0|942
+valet|10.0|943
+spa|50.0|943
+mini-fridge used|20.0|943
+spa|50.0|943
+mini-fridge used|20.0|943
+spa|50.0|944
+room service|25.0|944
+valet|10.0|944
+rented movie|5.0|944
+rented movie|5.0|944
+rented movie|5.0|945
+mini-fridge used|20.0|945
+city tour|100.0|945
+room service|25.0|945
+room service|25.0|945
+rented movie|5.0|946
+valet|10.0|946
+mini-fridge used|20.0|946
+mini-fridge used|20.0|946
+city tour|100.0|946
+mini-fridge used|20.0|947
+rented movie|5.0|947
+city tour|100.0|947
+city tour|100.0|947
+room service|25.0|947
+spa|50.0|948
+spa|50.0|948
+room service|25.0|948
+spa|50.0|948
+rented movie|5.0|948
+valet|10.0|949
+spa|50.0|949
+rented movie|5.0|949
+valet|10.0|949
+spa|50.0|949
+mini-fridge used|20.0|950
+spa|50.0|950
+city tour|100.0|950
+room service|25.0|950
+room service|25.0|950
+city tour|100.0|951
+mini-fridge used|20.0|951
+room service|25.0|951
+room service|25.0|951
+city tour|100.0|951
+room service|25.0|952
+city tour|100.0|952
+rented movie|5.0|952
+valet|10.0|952
+valet|10.0|952
+rented movie|5.0|953
+valet|10.0|953
+rented movie|5.0|953
+mini-fridge used|20.0|953
+rented movie|5.0|953
+spa|50.0|954
+room service|25.0|954
+rented movie|5.0|954
+valet|10.0|954
+rented movie|5.0|954
+mini-fridge used|20.0|955
+rented movie|5.0|955
+mini-fridge used|20.0|955
+city tour|100.0|955
+room service|25.0|955
+spa|50.0|956
+city tour|100.0|956
+city tour|100.0|956
+room service|25.0|956
+mini-fridge used|20.0|956
+spa|50.0|957
+city tour|100.0|957
+valet|10.0|957
+city tour|100.0|957
+mini-fridge used|20.0|957
+rented movie|5.0|958
+room service|25.0|958
+city tour|100.0|958
+valet|10.0|958
+rented movie|5.0|958
+spa|50.0|959
+rented movie|5.0|959
+spa|50.0|959
+spa|50.0|959
+valet|10.0|959
+rented movie|5.0|960
+room service|25.0|960
+room service|25.0|960
+rented movie|5.0|960
+valet|10.0|960
+spa|50.0|961
+spa|50.0|961
+rented movie|5.0|961
+city tour|100.0|961
+valet|10.0|961
+room service|25.0|962
+valet|10.0|962
+city tour|100.0|962
+mini-fridge used|20.0|962
+city tour|100.0|962
+room service|25.0|963
+rented movie|5.0|963
+room service|25.0|963
+spa|50.0|963
+city tour|100.0|963
+spa|50.0|964
+valet|10.0|964
+room service|25.0|964
+valet|10.0|964
+mini-fridge used|20.0|964
+room service|25.0|965
+rented movie|5.0|965
+city tour|100.0|965
+room service|25.0|965
+mini-fridge used|20.0|965
+spa|50.0|966
+mini-fridge used|20.0|966
+room service|25.0|966
+valet|10.0|966
+mini-fridge used|20.0|966
+valet|10.0|967
+room service|25.0|967
+spa|50.0|967
+valet|10.0|967
+valet|10.0|967
+mini-fridge used|20.0|968
+mini-fridge used|20.0|968
+spa|50.0|968
+rented movie|5.0|968
+valet|10.0|968
+spa|50.0|969
+spa|50.0|969
+valet|10.0|969
+spa|50.0|969
+city tour|100.0|969
+spa|50.0|970
+valet|10.0|970
+city tour|100.0|970
+rented movie|5.0|970
+valet|10.0|970
+room service|25.0|971
+city tour|100.0|971
+city tour|100.0|971
+room service|25.0|971
+valet|10.0|971
+room service|25.0|972
+city tour|100.0|972
+city tour|100.0|972
+rented movie|5.0|972
+valet|10.0|972
+city tour|100.0|973
+rented movie|5.0|973
+rented movie|5.0|973
+spa|50.0|973
+spa|50.0|973
+rented movie|5.0|974
+room service|25.0|974
+mini-fridge used|20.0|974
+rented movie|5.0|974
+valet|10.0|974
+mini-fridge used|20.0|975
+room service|25.0|975
+city tour|100.0|975
+valet|10.0|975
+rented movie|5.0|975
+city tour|100.0|976
+mini-fridge used|20.0|976
+rented movie|5.0|976
+mini-fridge used|20.0|976
+mini-fridge used|20.0|976
+spa|50.0|977
+mini-fridge used|20.0|977
+mini-fridge used|20.0|977
+rented movie|5.0|977
+mini-fridge used|20.0|977
+city tour|100.0|978
+mini-fridge used|20.0|978
+spa|50.0|978
+room service|25.0|978
+city tour|100.0|978
+rented movie|5.0|979
+city tour|100.0|979
+spa|50.0|979
+mini-fridge used|20.0|979
+valet|10.0|979
+city tour|100.0|980
+rented movie|5.0|980
+spa|50.0|980
+spa|50.0|980
+city tour|100.0|980
+city tour|100.0|981
+spa|50.0|981
+city tour|100.0|981
+room service|25.0|981
+spa|50.0|981
+valet|10.0|982
+rented movie|5.0|982
+spa|50.0|982
+city tour|100.0|982
+room service|25.0|982
+valet|10.0|983
+city tour|100.0|983
+rented movie|5.0|983
+rented movie|5.0|983
+valet|10.0|983
+rented movie|5.0|984
+mini-fridge used|20.0|984
+room service|25.0|984
+valet|10.0|984
+spa|50.0|984
+rented movie|5.0|985
+valet|10.0|985
+room service|25.0|985
+spa|50.0|985
+spa|50.0|985
+spa|50.0|986
+valet|10.0|986
+city tour|100.0|986
+rented movie|5.0|986
+rented movie|5.0|986
+room service|25.0|987
+rented movie|5.0|987
+spa|50.0|987
+valet|10.0|987
+mini-fridge used|20.0|987
+city tour|100.0|988
+spa|50.0|988
+spa|50.0|988
+room service|25.0|988
+city tour|100.0|988
+room service|25.0|989
+room service|25.0|989
+valet|10.0|989
+rented movie|5.0|989
+spa|50.0|989
+city tour|100.0|990
+room service|25.0|990
+mini-fridge used|20.0|990
+valet|10.0|990
+city tour|100.0|990
+room service|25.0|991
+rented movie|5.0|991
+mini-fridge used|20.0|991
+rented movie|5.0|991
+spa|50.0|991
+valet|10.0|992
+city tour|100.0|992
+spa|50.0|992
+room service|25.0|992
+city tour|100.0|992
+mini-fridge used|20.0|993
+valet|10.0|993
+mini-fridge used|20.0|993
+room service|25.0|993
+rented movie|5.0|993
+room service|25.0|994
+mini-fridge used|20.0|994
+spa|50.0|994
+room service|25.0|994
+city tour|100.0|994
+city tour|100.0|995
+valet|10.0|995
+valet|10.0|995
+spa|50.0|995
+spa|50.0|995
+mini-fridge used|20.0|996
+valet|10.0|996
+mini-fridge used|20.0|996
+room service|25.0|996
+valet|10.0|996
+valet|10.0|997
+city tour|100.0|997
+valet|10.0|997
+mini-fridge used|20.0|997
+mini-fridge used|20.0|997
+room service|25.0|998
+city tour|100.0|998
+valet|10.0|998
+room service|25.0|998
+valet|10.0|998
+valet|10.0|999
+spa|50.0|999
+city tour|100.0|999
+spa|50.0|999
+spa|50.0|999
+city tour|100.0|1000
+mini-fridge used|20.0|1000
+valet|10.0|1000
+room service|25.0|1000
+valet|10.0|1000
+mini-fridge used|20.0|1001
+valet|10.0|1001
+valet|10.0|1001
+city tour|100.0|1001
+room service|25.0|1001
+rented movie|5.0|1002
+valet|10.0|1002
+city tour|100.0|1002
+rented movie|5.0|1002
+city tour|100.0|1002
+valet|10.0|1003
+room service|25.0|1003
+spa|50.0|1003
+spa|50.0|1003
+valet|10.0|1003
+valet|10.0|1004
+mini-fridge used|20.0|1004
+room service|25.0|1004
+spa|50.0|1004
+room service|25.0|1004
+valet|10.0|1005
+mini-fridge used|20.0|1005
+spa|50.0|1005
+mini-fridge used|20.0|1005
+rented movie|5.0|1005
+city tour|100.0|1006
+spa|50.0|1006
+rented movie|5.0|1006
+rented movie|5.0|1006
+rented movie|5.0|1006
+room service|25.0|1007
+spa|50.0|1007
+room service|25.0|1007
+city tour|100.0|1007
+spa|50.0|1007
+room service|25.0|1008
+valet|10.0|1008
+spa|50.0|1008
+valet|10.0|1008
+city tour|100.0|1008
+room service|25.0|1009
+valet|10.0|1009
+valet|10.0|1009
+mini-fridge used|20.0|1009
+room service|25.0|1009
+city tour|100.0|1010
+city tour|100.0|1010
+spa|50.0|1010
+mini-fridge used|20.0|1010
+city tour|100.0|1010
+valet|10.0|1011
+valet|10.0|1011
+valet|10.0|1011
+room service|25.0|1011
+room service|25.0|1011
+valet|10.0|1012
+spa|50.0|1012
+city tour|100.0|1012
+valet|10.0|1012
+city tour|100.0|1012
+mini-fridge used|20.0|1013
+valet|10.0|1013
+room service|25.0|1013
+room service|25.0|1013
+city tour|100.0|1013
+room service|25.0|1014
+mini-fridge used|20.0|1014
+room service|25.0|1014
+spa|50.0|1014
+room service|25.0|1014
+rented movie|5.0|1015
+room service|25.0|1015
+mini-fridge used|20.0|1015
+city tour|100.0|1015
+spa|50.0|1015
+mini-fridge used|20.0|1016
+spa|50.0|1016
+rented movie|5.0|1016
+rented movie|5.0|1016
+valet|10.0|1016
+room service|25.0|1017
+spa|50.0|1017
+rented movie|5.0|1017
+rented movie|5.0|1017
+spa|50.0|1017
+city tour|100.0|1018
+city tour|100.0|1018
+valet|10.0|1018
+rented movie|5.0|1018
+room service|25.0|1018
+mini-fridge used|20.0|1019
+city tour|100.0|1019
+rented movie|5.0|1019
+city tour|100.0|1019
+mini-fridge used|20.0|1019
+rented movie|5.0|1020
+valet|10.0|1020
+spa|50.0|1020
+valet|10.0|1020
+valet|10.0|1020
+spa|50.0|1021
+spa|50.0|1021
+city tour|100.0|1021
+mini-fridge used|20.0|1021
+valet|10.0|1021
+spa|50.0|1022
+room service|25.0|1022
+room service|25.0|1022
+room service|25.0|1022
+city tour|100.0|1022
+room service|25.0|1023
+room service|25.0|1023
+room service|25.0|1023
+mini-fridge used|20.0|1023
+city tour|100.0|1023
+rented movie|5.0|1024
+rented movie|5.0|1024
+spa|50.0|1024
+rented movie|5.0|1024
+spa|50.0|1024
+mini-fridge used|20.0|1025
+rented movie|5.0|1025
+room service|25.0|1025
+city tour|100.0|1025
+mini-fridge used|20.0|1025
+spa|50.0|1026
+spa|50.0|1026
+spa|50.0|1026
+valet|10.0|1026
+mini-fridge used|20.0|1026
+spa|50.0|1027
+city tour|100.0|1027
+room service|25.0|1027
+rented movie|5.0|1027
+city tour|100.0|1027
+rented movie|5.0|1028
+mini-fridge used|20.0|1028
+city tour|100.0|1028
+spa|50.0|1028
+city tour|100.0|1028
+valet|10.0|1029
+mini-fridge used|20.0|1029
+room service|25.0|1029
+rented movie|5.0|1029
+room service|25.0|1029
+valet|10.0|1030
+valet|10.0|1030
+room service|25.0|1030
+rented movie|5.0|1030
+spa|50.0|1030
+rented movie|5.0|1031
+room service|25.0|1031
+spa|50.0|1031
+mini-fridge used|20.0|1031
+city tour|100.0|1031
+room service|25.0|1032
+mini-fridge used|20.0|1032
+rented movie|5.0|1032
+spa|50.0|1032
+mini-fridge used|20.0|1032
+rented movie|5.0|1033
+rented movie|5.0|1033
+rented movie|5.0|1033
+rented movie|5.0|1033
+spa|50.0|1033
+rented movie|5.0|1034
+spa|50.0|1034
+spa|50.0|1034
+mini-fridge used|20.0|1034
+mini-fridge used|20.0|1034
+spa|50.0|1035
+valet|10.0|1035
+mini-fridge used|20.0|1035
+mini-fridge used|20.0|1035
+room service|25.0|1035
+city tour|100.0|1036
+city tour|100.0|1036
+room service|25.0|1036
+city tour|100.0|1036
+city tour|100.0|1036
+city tour|100.0|1037
+valet|10.0|1037
+rented movie|5.0|1037
+rented movie|5.0|1037
+rented movie|5.0|1037
+spa|50.0|1038
+city tour|100.0|1038
+rented movie|5.0|1038
+mini-fridge used|20.0|1038
+spa|50.0|1038
+rented movie|5.0|1039
+city tour|100.0|1039
+rented movie|5.0|1039
+spa|50.0|1039
+valet|10.0|1039
+room service|25.0|1040
+room service|25.0|1040
+rented movie|5.0|1040
+rented movie|5.0|1040
+rented movie|5.0|1040
+valet|10.0|1041
+mini-fridge used|20.0|1041
+city tour|100.0|1041
+spa|50.0|1041
+room service|25.0|1041
+mini-fridge used|20.0|1042
+city tour|100.0|1042
+mini-fridge used|20.0|1042
+city tour|100.0|1042
+rented movie|5.0|1042
+rented movie|5.0|1043
+mini-fridge used|20.0|1043
+rented movie|5.0|1043
+city tour|100.0|1043
+rented movie|5.0|1043
+city tour|100.0|1044
+mini-fridge used|20.0|1044
+valet|10.0|1044
+room service|25.0|1044
+city tour|100.0|1044
+valet|10.0|1045
+spa|50.0|1045
+city tour|100.0|1045
+rented movie|5.0|1045
+rented movie|5.0|1045
+city tour|100.0|1046
+spa|50.0|1046
+mini-fridge used|20.0|1046
+city tour|100.0|1046
+spa|50.0|1046
+rented movie|5.0|1047
+mini-fridge used|20.0|1047
+rented movie|5.0|1047
+rented movie|5.0|1047
+mini-fridge used|20.0|1047
+rented movie|5.0|1048
+city tour|100.0|1048
+rented movie|5.0|1048
+mini-fridge used|20.0|1048
+valet|10.0|1048
+valet|10.0|1049
+rented movie|5.0|1049
+spa|50.0|1049
+valet|10.0|1049
+room service|25.0|1049
+spa|50.0|1050
+rented movie|5.0|1050
+room service|25.0|1050
+room service|25.0|1050
+room service|25.0|1050
+valet|10.0|1051
+valet|10.0|1051
+rented movie|5.0|1051
+spa|50.0|1051
+room service|25.0|1051
+valet|10.0|1052
+valet|10.0|1052
+valet|10.0|1052
+valet|10.0|1052
+mini-fridge used|20.0|1052
+city tour|100.0|1053
+room service|25.0|1053
+valet|10.0|1053
+mini-fridge used|20.0|1053
+valet|10.0|1053
+spa|50.0|1054
+rented movie|5.0|1054
+spa|50.0|1054
+city tour|100.0|1054
+rented movie|5.0|1054
+valet|10.0|1055
+valet|10.0|1055
+spa|50.0|1055
+room service|25.0|1055
+rented movie|5.0|1055
+mini-fridge used|20.0|1056
+room service|25.0|1056
+city tour|100.0|1056
+mini-fridge used|20.0|1056
+mini-fridge used|20.0|1056
+rented movie|5.0|1057
+mini-fridge used|20.0|1057
+city tour|100.0|1057
+spa|50.0|1057
+spa|50.0|1057
+rented movie|5.0|1058
+rented movie|5.0|1058
+mini-fridge used|20.0|1058
+mini-fridge used|20.0|1058
+mini-fridge used|20.0|1058
+city tour|100.0|1059
+spa|50.0|1059
+valet|10.0|1059
+room service|25.0|1059
+city tour|100.0|1059
+rented movie|5.0|1060
+spa|50.0|1060
+valet|10.0|1060
+rented movie|5.0|1060
+mini-fridge used|20.0|1060
+spa|50.0|1061
+valet|10.0|1061
+valet|10.0|1061
+room service|25.0|1061
+spa|50.0|1061
+city tour|100.0|1062
+rented movie|5.0|1062
+rented movie|5.0|1062
+mini-fridge used|20.0|1062
+city tour|100.0|1062
+room service|25.0|1063
+mini-fridge used|20.0|1063
+room service|25.0|1063
+mini-fridge used|20.0|1063
+valet|10.0|1063
+mini-fridge used|20.0|1064
+rented movie|5.0|1064
+valet|10.0|1064
+room service|25.0|1064
+city tour|100.0|1064
+city tour|100.0|1065
+city tour|100.0|1065
+valet|10.0|1065
+mini-fridge used|20.0|1065
+valet|10.0|1065
+city tour|100.0|1066
+rented movie|5.0|1066
+city tour|100.0|1066
+rented movie|5.0|1066
+room service|25.0|1066
+spa|50.0|1067
+mini-fridge used|20.0|1067
+room service|25.0|1067
+room service|25.0|1067
+mini-fridge used|20.0|1067
+valet|10.0|1068
+rented movie|5.0|1068
+spa|50.0|1068
+mini-fridge used|20.0|1068
+room service|25.0|1068
+valet|10.0|1069
+rented movie|5.0|1069
+valet|10.0|1069
+valet|10.0|1069
+valet|10.0|1069
+room service|25.0|1070
+spa|50.0|1070
+spa|50.0|1070
+valet|10.0|1070
+room service|25.0|1070
+city tour|100.0|1071
+rented movie|5.0|1071
+room service|25.0|1071
+valet|10.0|1071
+spa|50.0|1071
+room service|25.0|1072
+city tour|100.0|1072
+rented movie|5.0|1072
+room service|25.0|1072
+city tour|100.0|1072
+city tour|100.0|1073
+city tour|100.0|1073
+mini-fridge used|20.0|1073
+valet|10.0|1073
+valet|10.0|1073
+spa|50.0|1074
+mini-fridge used|20.0|1074
+room service|25.0|1074
+rented movie|5.0|1074
+rented movie|5.0|1074
+spa|50.0|1075
+city tour|100.0|1075
+valet|10.0|1075
+rented movie|5.0|1075
+city tour|100.0|1075
+room service|25.0|1076
+valet|10.0|1076
+rented movie|5.0|1076
+spa|50.0|1076
+rented movie|5.0|1076
+spa|50.0|1077
+city tour|100.0|1077
+rented movie|5.0|1077
+spa|50.0|1077
+spa|50.0|1077
+valet|10.0|1078
+room service|25.0|1078
+mini-fridge used|20.0|1078
+rented movie|5.0|1078
+city tour|100.0|1078
+mini-fridge used|20.0|1079
+spa|50.0|1079
+mini-fridge used|20.0|1079
+spa|50.0|1079
+room service|25.0|1079
+room service|25.0|1080
+mini-fridge used|20.0|1080
+mini-fridge used|20.0|1080
+room service|25.0|1080
+rented movie|5.0|1080
+spa|50.0|1081
+mini-fridge used|20.0|1081
+spa|50.0|1081
+room service|25.0|1081
+valet|10.0|1081
+city tour|100.0|1082
+valet|10.0|1082
+city tour|100.0|1082
+city tour|100.0|1082
+mini-fridge used|20.0|1082
+valet|10.0|1083
+city tour|100.0|1083
+spa|50.0|1083
+rented movie|5.0|1083
+valet|10.0|1083
+city tour|100.0|1084
+mini-fridge used|20.0|1084
+valet|10.0|1084
+spa|50.0|1084
+rented movie|5.0|1084
+valet|10.0|1085
+spa|50.0|1085
+mini-fridge used|20.0|1085
+city tour|100.0|1085
+spa|50.0|1085
+valet|10.0|1086
+valet|10.0|1086
+rented movie|5.0|1086
+mini-fridge used|20.0|1086
+room service|25.0|1086
+valet|10.0|1087
+city tour|100.0|1087
+city tour|100.0|1087
+mini-fridge used|20.0|1087
+spa|50.0|1087
+valet|10.0|1088
+rented movie|5.0|1088
+city tour|100.0|1088
+room service|25.0|1088
+city tour|100.0|1088
+room service|25.0|1089
+spa|50.0|1089
+room service|25.0|1089
+rented movie|5.0|1089
+room service|25.0|1089
+valet|10.0|1090
+city tour|100.0|1090
+spa|50.0|1090
+mini-fridge used|20.0|1090
+mini-fridge used|20.0|1090
+city tour|100.0|1091
+city tour|100.0|1091
+mini-fridge used|20.0|1091
+spa|50.0|1091
+mini-fridge used|20.0|1091
+valet|10.0|1092
+rented movie|5.0|1092
+valet|10.0|1092
+mini-fridge used|20.0|1092
+spa|50.0|1092
+spa|50.0|1093
+rented movie|5.0|1093
+rented movie|5.0|1093
+valet|10.0|1093
+city tour|100.0|1093
+spa|50.0|1094
+valet|10.0|1094
+valet|10.0|1094
+rented movie|5.0|1094
+spa|50.0|1094
+city tour|100.0|1095
+spa|50.0|1095
+rented movie|5.0|1095
+spa|50.0|1095
+city tour|100.0|1095
+valet|10.0|1096
+valet|10.0|1096
+city tour|100.0|1096
+city tour|100.0|1096
+room service|25.0|1096
+mini-fridge used|20.0|1097
+spa|50.0|1097
+rented movie|5.0|1097
+city tour|100.0|1097
+valet|10.0|1097
+room service|25.0|1098
+valet|10.0|1098
+room service|25.0|1098
+rented movie|5.0|1098
+valet|10.0|1098
+room service|25.0|1099
+mini-fridge used|20.0|1099
+rented movie|5.0|1099
+rented movie|5.0|1099
+valet|10.0|1099
+city tour|100.0|1100
+rented movie|5.0|1100
+mini-fridge used|20.0|1100
+city tour|100.0|1100
+city tour|100.0|1100
+rented movie|5.0|1101
+mini-fridge used|20.0|1101
+room service|25.0|1101
+room service|25.0|1101
+spa|50.0|1101
+spa|50.0|1102
+valet|10.0|1102
+mini-fridge used|20.0|1102
+city tour|100.0|1102
+spa|50.0|1102
+mini-fridge used|20.0|1103
+mini-fridge used|20.0|1103
+room service|25.0|1103
+mini-fridge used|20.0|1103
+room service|25.0|1103
+rented movie|5.0|1104
+mini-fridge used|20.0|1104
+spa|50.0|1104
+spa|50.0|1104
+mini-fridge used|20.0|1104
+city tour|100.0|1105
+rented movie|5.0|1105
+rented movie|5.0|1105
+valet|10.0|1105
+spa|50.0|1105
+city tour|100.0|1106
+rented movie|5.0|1106
+city tour|100.0|1106
+room service|25.0|1106
+mini-fridge used|20.0|1106
+city tour|100.0|1107
+city tour|100.0|1107
+mini-fridge used|20.0|1107
+rented movie|5.0|1107
+room service|25.0|1107
+spa|50.0|1108
+room service|25.0|1108
+room service|25.0|1108
+city tour|100.0|1108
+valet|10.0|1108
+spa|50.0|1109
+spa|50.0|1109
+rented movie|5.0|1109
+room service|25.0|1109
+valet|10.0|1109
+room service|25.0|1110
+valet|10.0|1110
+rented movie|5.0|1110
+mini-fridge used|20.0|1110
+valet|10.0|1110
+mini-fridge used|20.0|1111
+room service|25.0|1111
+mini-fridge used|20.0|1111
+mini-fridge used|20.0|1111
+city tour|100.0|1111
+valet|10.0|1112
+spa|50.0|1112
+spa|50.0|1112
+room service|25.0|1112
+rented movie|5.0|1112
+city tour|100.0|1113
+city tour|100.0|1113
+mini-fridge used|20.0|1113
+city tour|100.0|1113
+spa|50.0|1113
+rented movie|5.0|1114
+mini-fridge used|20.0|1114
+rented movie|5.0|1114
+city tour|100.0|1114
+spa|50.0|1114
+room service|25.0|1115
+room service|25.0|1115
+room service|25.0|1115
+city tour|100.0|1115
+spa|50.0|1115
+rented movie|5.0|1116
+valet|10.0|1116
+mini-fridge used|20.0|1116
+city tour|100.0|1116
+valet|10.0|1116
+valet|10.0|1117
+valet|10.0|1117
+valet|10.0|1117
+rented movie|5.0|1117
+room service|25.0|1117
+spa|50.0|1118
+spa|50.0|1118
+spa|50.0|1118
+rented movie|5.0|1118
+room service|25.0|1118
+rented movie|5.0|1119
+spa|50.0|1119
+room service|25.0|1119
+city tour|100.0|1119
+city tour|100.0|1119
+valet|10.0|1120
+spa|50.0|1120
+rented movie|5.0|1120
+valet|10.0|1120
+city tour|100.0|1120
+city tour|100.0|1121
+spa|50.0|1121
+city tour|100.0|1121
+spa|50.0|1121
+spa|50.0|1121
+spa|50.0|1122
+valet|10.0|1122
+room service|25.0|1122
+rented movie|5.0|1122
+city tour|100.0|1122
+mini-fridge used|20.0|1123
+mini-fridge used|20.0|1123
+rented movie|5.0|1123
+city tour|100.0|1123
+rented movie|5.0|1123
+mini-fridge used|20.0|1124
+spa|50.0|1124
+room service|25.0|1124
+valet|10.0|1124
+city tour|100.0|1124
+valet|10.0|1125
+rented movie|5.0|1125
+room service|25.0|1125
+valet|10.0|1125
+valet|10.0|1125
+city tour|100.0|1126
+spa|50.0|1126
+valet|10.0|1126
+mini-fridge used|20.0|1126
+mini-fridge used|20.0|1126
+spa|50.0|1127
+spa|50.0|1127
+valet|10.0|1127
+spa|50.0|1127
+mini-fridge used|20.0|1127
+spa|50.0|1128
+valet|10.0|1128
+spa|50.0|1128
+rented movie|5.0|1128
+spa|50.0|1128
+room service|25.0|1129
+room service|25.0|1129
+city tour|100.0|1129
+spa|50.0|1129
+room service|25.0|1129
+spa|50.0|1130
+valet|10.0|1130
+valet|10.0|1130
+mini-fridge used|20.0|1130
+room service|25.0|1130
+rented movie|5.0|1131
+valet|10.0|1131
+rented movie|5.0|1131
+rented movie|5.0|1131
+valet|10.0|1131
+spa|50.0|1132
+spa|50.0|1132
+room service|25.0|1132
+rented movie|5.0|1132
+valet|10.0|1132
+room service|25.0|1133
+spa|50.0|1133
+spa|50.0|1133
+valet|10.0|1133
+city tour|100.0|1133
+rented movie|5.0|1134
+mini-fridge used|20.0|1134
+rented movie|5.0|1134
+city tour|100.0|1134
+room service|25.0|1134
+spa|50.0|1135
+room service|25.0|1135
+mini-fridge used|20.0|1135
+room service|25.0|1135
+city tour|100.0|1135
+city tour|100.0|1136
+mini-fridge used|20.0|1136
+room service|25.0|1136
+rented movie|5.0|1136
+room service|25.0|1136
+city tour|100.0|1137
+rented movie|5.0|1137
+city tour|100.0|1137
+city tour|100.0|1137
+valet|10.0|1137
+valet|10.0|1138
+room service|25.0|1138
+rented movie|5.0|1138
+spa|50.0|1138
+rented movie|5.0|1138
+rented movie|5.0|1139
+room service|25.0|1139
+valet|10.0|1139
+rented movie|5.0|1139
+rented movie|5.0|1139
+valet|10.0|1140
+valet|10.0|1140
+mini-fridge used|20.0|1140
+city tour|100.0|1140
+valet|10.0|1140
+rented movie|5.0|1141
+city tour|100.0|1141
+valet|10.0|1141
+room service|25.0|1141
+city tour|100.0|1141
+city tour|100.0|1142
+rented movie|5.0|1142
+rented movie|5.0|1142
+mini-fridge used|20.0|1142
+room service|25.0|1142
+spa|50.0|1143
+rented movie|5.0|1143
+city tour|100.0|1143
+city tour|100.0|1143
+mini-fridge used|20.0|1143
+room service|25.0|1144
+room service|25.0|1144
+room service|25.0|1144
+mini-fridge used|20.0|1144
+room service|25.0|1144
+room service|25.0|1145
+rented movie|5.0|1145
+rented movie|5.0|1145
+rented movie|5.0|1145
+mini-fridge used|20.0|1145
+mini-fridge used|20.0|1146
+spa|50.0|1146
+valet|10.0|1146
+city tour|100.0|1146
+city tour|100.0|1146
+valet|10.0|1147
+rented movie|5.0|1147
+spa|50.0|1147
+room service|25.0|1147
+valet|10.0|1147
+room service|25.0|1148
+rented movie|5.0|1148
+mini-fridge used|20.0|1148
+spa|50.0|1148
+city tour|100.0|1148
+spa|50.0|1149
+city tour|100.0|1149
+mini-fridge used|20.0|1149
+rented movie|5.0|1149
+mini-fridge used|20.0|1149
+city tour|100.0|1150
+mini-fridge used|20.0|1150
+rented movie|5.0|1150
+rented movie|5.0|1150
+mini-fridge used|20.0|1150
+city tour|100.0|1151
+rented movie|5.0|1151
+room service|25.0|1151
+rented movie|5.0|1151
+city tour|100.0|1151
+rented movie|5.0|1152
+room service|25.0|1152
+rented movie|5.0|1152
+rented movie|5.0|1152
+mini-fridge used|20.0|1152
+city tour|100.0|1153
+mini-fridge used|20.0|1153
+valet|10.0|1153
+mini-fridge used|20.0|1153
+valet|10.0|1153
+mini-fridge used|20.0|1154
+valet|10.0|1154
+rented movie|5.0|1154
+valet|10.0|1154
+spa|50.0|1154
+room service|25.0|1155
+spa|50.0|1155
+spa|50.0|1155
+city tour|100.0|1155
+valet|10.0|1155
+room service|25.0|1156
+city tour|100.0|1156
+spa|50.0|1156
+city tour|100.0|1156
+spa|50.0|1156
+mini-fridge used|20.0|1157
+city tour|100.0|1157
+room service|25.0|1157
+rented movie|5.0|1157
+room service|25.0|1157
+spa|50.0|1158
+room service|25.0|1158
+spa|50.0|1158
+city tour|100.0|1158
+spa|50.0|1158
+room service|25.0|1159
+mini-fridge used|20.0|1159
+rented movie|5.0|1159
+room service|25.0|1159
+spa|50.0|1159
+room service|25.0|1160
+spa|50.0|1160
+city tour|100.0|1160
+room service|25.0|1160
+mini-fridge used|20.0|1160
+spa|50.0|1161
+mini-fridge used|20.0|1161
+city tour|100.0|1161
+city tour|100.0|1161
+mini-fridge used|20.0|1161
+city tour|100.0|1162
+room service|25.0|1162
+city tour|100.0|1162
+valet|10.0|1162
+rented movie|5.0|1162
+rented movie|5.0|1163
+city tour|100.0|1163
+spa|50.0|1163
+room service|25.0|1163
+rented movie|5.0|1163
+mini-fridge used|20.0|1164
+city tour|100.0|1164
+spa|50.0|1164
+valet|10.0|1164
+room service|25.0|1164
+mini-fridge used|20.0|1165
+city tour|100.0|1165
+rented movie|5.0|1165
+spa|50.0|1165
+rented movie|5.0|1165
+room service|25.0|1166
+valet|10.0|1166
+city tour|100.0|1166
+mini-fridge used|20.0|1166
+city tour|100.0|1166
+valet|10.0|1167
+rented movie|5.0|1167
+room service|25.0|1167
+city tour|100.0|1167
+mini-fridge used|20.0|1167
+room service|25.0|1168
+city tour|100.0|1168
+room service|25.0|1168
+rented movie|5.0|1168
+rented movie|5.0|1168
+valet|10.0|1169
+rented movie|5.0|1169
+room service|25.0|1169
+rented movie|5.0|1169
+spa|50.0|1169
+mini-fridge used|20.0|1170
+city tour|100.0|1170
+spa|50.0|1170
+valet|10.0|1170
+mini-fridge used|20.0|1170
+spa|50.0|1171
+city tour|100.0|1171
+room service|25.0|1171
+valet|10.0|1171
+mini-fridge used|20.0|1171
+mini-fridge used|20.0|1172
+mini-fridge used|20.0|1172
+spa|50.0|1172
+city tour|100.0|1172
+room service|25.0|1172
+mini-fridge used|20.0|1173
+spa|50.0|1173
+mini-fridge used|20.0|1173
+room service|25.0|1173
+mini-fridge used|20.0|1173
+city tour|100.0|1174
+rented movie|5.0|1174
+valet|10.0|1174
+rented movie|5.0|1174
+room service|25.0|1174
+spa|50.0|1175
+rented movie|5.0|1175
+room service|25.0|1175
+room service|25.0|1175
+room service|25.0|1175
+room service|25.0|1176
+mini-fridge used|20.0|1176
+city tour|100.0|1176
+rented movie|5.0|1176
+rented movie|5.0|1176
+rented movie|5.0|1177
+room service|25.0|1177
+rented movie|5.0|1177
+room service|25.0|1177
+room service|25.0|1177
+mini-fridge used|20.0|1178
+city tour|100.0|1178
+rented movie|5.0|1178
+city tour|100.0|1178
+room service|25.0|1178
+valet|10.0|1179
+mini-fridge used|20.0|1179
+spa|50.0|1179
+mini-fridge used|20.0|1179
+rented movie|5.0|1179
+city tour|100.0|1180
+rented movie|5.0|1180
+mini-fridge used|20.0|1180
+room service|25.0|1180
+city tour|100.0|1180
+city tour|100.0|1181
+rented movie|5.0|1181
+valet|10.0|1181
+valet|10.0|1181
+room service|25.0|1181
+valet|10.0|1182
+valet|10.0|1182
+spa|50.0|1182
+valet|10.0|1182
+city tour|100.0|1182
+rented movie|5.0|1183
+mini-fridge used|20.0|1183
+mini-fridge used|20.0|1183
+valet|10.0|1183
+city tour|100.0|1183
+rented movie|5.0|1184
+mini-fridge used|20.0|1184
+mini-fridge used|20.0|1184
+mini-fridge used|20.0|1184
+room service|25.0|1184
+mini-fridge used|20.0|1185
+mini-fridge used|20.0|1185
+mini-fridge used|20.0|1185
+mini-fridge used|20.0|1185
+mini-fridge used|20.0|1185
+rented movie|5.0|1186
+spa|50.0|1186
+valet|10.0|1186
+city tour|100.0|1186
+city tour|100.0|1186
+city tour|100.0|1187
+room service|25.0|1187
+valet|10.0|1187
+valet|10.0|1187
+spa|50.0|1187
+city tour|100.0|1188
+mini-fridge used|20.0|1188
+city tour|100.0|1188
+valet|10.0|1188
+city tour|100.0|1188
+spa|50.0|1189
+city tour|100.0|1189
+city tour|100.0|1189
+mini-fridge used|20.0|1189
+rented movie|5.0|1189
+valet|10.0|1190
+mini-fridge used|20.0|1190
+mini-fridge used|20.0|1190
+room service|25.0|1190
+room service|25.0|1190
+room service|25.0|1191
+room service|25.0|1191
+rented movie|5.0|1191
+rented movie|5.0|1191
+mini-fridge used|20.0|1191
+mini-fridge used|20.0|1192
+rented movie|5.0|1192
+rented movie|5.0|1192
+room service|25.0|1192
+spa|50.0|1192
+city tour|100.0|1193
+spa|50.0|1193
+valet|10.0|1193
+city tour|100.0|1193
+mini-fridge used|20.0|1193
+city tour|100.0|1194
+mini-fridge used|20.0|1194
+mini-fridge used|20.0|1194
+valet|10.0|1194
+rented movie|5.0|1194
+rented movie|5.0|1195
+mini-fridge used|20.0|1195
+valet|10.0|1195
+city tour|100.0|1195
+spa|50.0|1195
+room service|25.0|1196
+mini-fridge used|20.0|1196
+spa|50.0|1196
+valet|10.0|1196
+valet|10.0|1196
+mini-fridge used|20.0|1197
+room service|25.0|1197
+room service|25.0|1197
+mini-fridge used|20.0|1197
+city tour|100.0|1197
+spa|50.0|1198
+mini-fridge used|20.0|1198
+mini-fridge used|20.0|1198
+rented movie|5.0|1198
+room service|25.0|1198
+mini-fridge used|20.0|1199
+mini-fridge used|20.0|1199
+rented movie|5.0|1199
+rented movie|5.0|1199
+valet|10.0|1199
+valet|10.0|1200
+spa|50.0|1200
+rented movie|5.0|1200
+room service|25.0|1200
+valet|10.0|1200
+city tour|100.0|1201
+rented movie|5.0|1201
+valet|10.0|1201
+mini-fridge used|20.0|1201
+city tour|100.0|1201
+rented movie|5.0|1202
+city tour|100.0|1202
+spa|50.0|1202
+room service|25.0|1202
+valet|10.0|1202
+city tour|100.0|1203
+valet|10.0|1203
+mini-fridge used|20.0|1203
+mini-fridge used|20.0|1203
+valet|10.0|1203
+mini-fridge used|20.0|1204
+city tour|100.0|1204
+valet|10.0|1204
+valet|10.0|1204
+room service|25.0|1204
+mini-fridge used|20.0|1205
+mini-fridge used|20.0|1205
+rented movie|5.0|1205
+city tour|100.0|1205
+mini-fridge used|20.0|1205
+spa|50.0|1206
+city tour|100.0|1206
+room service|25.0|1206
+city tour|100.0|1206
+city tour|100.0|1206
+valet|10.0|1207
+rented movie|5.0|1207
+room service|25.0|1207
+rented movie|5.0|1207
+mini-fridge used|20.0|1207
+spa|50.0|1208
+spa|50.0|1208
+spa|50.0|1208
+mini-fridge used|20.0|1208
+city tour|100.0|1208
+spa|50.0|1209
+city tour|100.0|1209
+city tour|100.0|1209
+city tour|100.0|1209
+city tour|100.0|1209
+mini-fridge used|20.0|1210
+city tour|100.0|1210
+rented movie|5.0|1210
+city tour|100.0|1210
+room service|25.0|1210
+spa|50.0|1211
+room service|25.0|1211
+rented movie|5.0|1211
+valet|10.0|1211
+valet|10.0|1211
+rented movie|5.0|1212
+city tour|100.0|1212
+city tour|100.0|1212
+rented movie|5.0|1212
+room service|25.0|1212
+rented movie|5.0|1213
+valet|10.0|1213
+rented movie|5.0|1213
+room service|25.0|1213
+mini-fridge used|20.0|1213
+rented movie|5.0|1214
+spa|50.0|1214
+room service|25.0|1214
+room service|25.0|1214
+spa|50.0|1214
+valet|10.0|1215
+valet|10.0|1215
+rented movie|5.0|1215
+spa|50.0|1215
+rented movie|5.0|1215
+mini-fridge used|20.0|1216
+rented movie|5.0|1216
+mini-fridge used|20.0|1216
+rented movie|5.0|1216
+rented movie|5.0|1216
+room service|25.0|1217
+mini-fridge used|20.0|1217
+spa|50.0|1217
+room service|25.0|1217
+spa|50.0|1217
+spa|50.0|1218
+room service|25.0|1218
+room service|25.0|1218
+mini-fridge used|20.0|1218
+valet|10.0|1218
+room service|25.0|1219
+valet|10.0|1219
+mini-fridge used|20.0|1219
+room service|25.0|1219
+spa|50.0|1219
+room service|25.0|1220
+rented movie|5.0|1220
+rented movie|5.0|1220
+room service|25.0|1220
+mini-fridge used|20.0|1220
+rented movie|5.0|1221
+city tour|100.0|1221
+mini-fridge used|20.0|1221
+spa|50.0|1221
+mini-fridge used|20.0|1221
+city tour|100.0|1222
+spa|50.0|1222
+rented movie|5.0|1222
+rented movie|5.0|1222
+mini-fridge used|20.0|1222
+rented movie|5.0|1223
+city tour|100.0|1223
+valet|10.0|1223
+mini-fridge used|20.0|1223
+spa|50.0|1223
+spa|50.0|1224
+city tour|100.0|1224
+valet|10.0|1224
+spa|50.0|1224
+room service|25.0|1224
+room service|25.0|1225
+room service|25.0|1225
+rented movie|5.0|1225
+city tour|100.0|1225
+spa|50.0|1225
+spa|50.0|1226
+rented movie|5.0|1226
+mini-fridge used|20.0|1226
+room service|25.0|1226
+room service|25.0|1226
+valet|10.0|1227
+spa|50.0|1227
+spa|50.0|1227
+spa|50.0|1227
+spa|50.0|1227
+valet|10.0|1228
+room service|25.0|1228
+spa|50.0|1228
+spa|50.0|1228
+rented movie|5.0|1228
+rented movie|5.0|1229
+mini-fridge used|20.0|1229
+city tour|100.0|1229
+city tour|100.0|1229
+room service|25.0|1229
+rented movie|5.0|1230
+mini-fridge used|20.0|1230
+room service|25.0|1230
+spa|50.0|1230
+valet|10.0|1230
+room service|25.0|1231
+valet|10.0|1231
+rented movie|5.0|1231
+city tour|100.0|1231
+spa|50.0|1231
+city tour|100.0|1232
+room service|25.0|1232
+valet|10.0|1232
+rented movie|5.0|1232
+rented movie|5.0|1232
+city tour|100.0|1233
+city tour|100.0|1233
+room service|25.0|1233
+rented movie|5.0|1233
+spa|50.0|1233
+mini-fridge used|20.0|1234
+rented movie|5.0|1234
+valet|10.0|1234
+city tour|100.0|1234
+room service|25.0|1234
+room service|25.0|1235
+mini-fridge used|20.0|1235
+city tour|100.0|1235
+room service|25.0|1235
+spa|50.0|1235
+room service|25.0|1236
+city tour|100.0|1236
+spa|50.0|1236
+valet|10.0|1236
+city tour|100.0|1236
+mini-fridge used|20.0|1237
+valet|10.0|1237
+mini-fridge used|20.0|1237
+spa|50.0|1237
+mini-fridge used|20.0|1237
+valet|10.0|1238
+room service|25.0|1238
+spa|50.0|1238
+mini-fridge used|20.0|1238
+valet|10.0|1238
+city tour|100.0|1239
+city tour|100.0|1239
+spa|50.0|1239
+spa|50.0|1239
+room service|25.0|1239
+spa|50.0|1240
+room service|25.0|1240
+room service|25.0|1240
+room service|25.0|1240
+mini-fridge used|20.0|1240
+city tour|100.0|1241
+room service|25.0|1241
+mini-fridge used|20.0|1241
+rented movie|5.0|1241
+spa|50.0|1241
+mini-fridge used|20.0|1242
+valet|10.0|1242
+room service|25.0|1242
+spa|50.0|1242
+room service|25.0|1242
+rented movie|5.0|1243
+spa|50.0|1243
+rented movie|5.0|1243
+mini-fridge used|20.0|1243
+valet|10.0|1243
+mini-fridge used|20.0|1244
+city tour|100.0|1244
+room service|25.0|1244
+mini-fridge used|20.0|1244
+room service|25.0|1244
+rented movie|5.0|1245
+city tour|100.0|1245
+spa|50.0|1245
+mini-fridge used|20.0|1245
+city tour|100.0|1245
+city tour|100.0|1246
+mini-fridge used|20.0|1246
+rented movie|5.0|1246
+mini-fridge used|20.0|1246
+room service|25.0|1246
+rented movie|5.0|1247
+rented movie|5.0|1247
+valet|10.0|1247
+valet|10.0|1247
+rented movie|5.0|1247
+rented movie|5.0|1248
+valet|10.0|1248
+room service|25.0|1248
+valet|10.0|1248
+valet|10.0|1248
+valet|10.0|1249
+mini-fridge used|20.0|1249
+rented movie|5.0|1249
+room service|25.0|1249
+city tour|100.0|1249
+mini-fridge used|20.0|1250
+spa|50.0|1250
+mini-fridge used|20.0|1250
+rented movie|5.0|1250
+spa|50.0|1250
+spa|50.0|1251
+valet|10.0|1251
+room service|25.0|1251
+city tour|100.0|1251
+city tour|100.0|1251
+spa|50.0|1252
+city tour|100.0|1252
+rented movie|5.0|1252
+city tour|100.0|1252
+rented movie|5.0|1252
+mini-fridge used|20.0|1253
+mini-fridge used|20.0|1253
+room service|25.0|1253
+rented movie|5.0|1253
+city tour|100.0|1253
+valet|10.0|1254
+valet|10.0|1254
+room service|25.0|1254
+valet|10.0|1254
+city tour|100.0|1254
+mini-fridge used|20.0|1255
+city tour|100.0|1255
+rented movie|5.0|1255
+mini-fridge used|20.0|1255
+valet|10.0|1255
+rented movie|5.0|1256
+city tour|100.0|1256
+spa|50.0|1256
+mini-fridge used|20.0|1256
+valet|10.0|1256
+rented movie|5.0|1257
+spa|50.0|1257
+city tour|100.0|1257
+valet|10.0|1257
+valet|10.0|1257
+rented movie|5.0|1258
+rented movie|5.0|1258
+rented movie|5.0|1258
+rented movie|5.0|1258
+room service|25.0|1258
+spa|50.0|1259
+room service|25.0|1259
+valet|10.0|1259
+rented movie|5.0|1259
+valet|10.0|1259
+mini-fridge used|20.0|1260
+valet|10.0|1260
+city tour|100.0|1260
+rented movie|5.0|1260
+valet|10.0|1260
+mini-fridge used|20.0|1261
+valet|10.0|1261
+city tour|100.0|1261
+spa|50.0|1261
+mini-fridge used|20.0|1261
+valet|10.0|1262
+room service|25.0|1262
+mini-fridge used|20.0|1262
+mini-fridge used|20.0|1262
+mini-fridge used|20.0|1262
+mini-fridge used|20.0|1263
+city tour|100.0|1263
+mini-fridge used|20.0|1263
+city tour|100.0|1263
+mini-fridge used|20.0|1263
+mini-fridge used|20.0|1264
+rented movie|5.0|1264
+city tour|100.0|1264
+room service|25.0|1264
+room service|25.0|1264
+city tour|100.0|1265
+rented movie|5.0|1265
+rented movie|5.0|1265
+valet|10.0|1265
+spa|50.0|1265
+city tour|100.0|1266
+rented movie|5.0|1266
+valet|10.0|1266
+city tour|100.0|1266
+valet|10.0|1266
+city tour|100.0|1267
+city tour|100.0|1267
+room service|25.0|1267
+room service|25.0|1267
+room service|25.0|1267
+rented movie|5.0|1268
+city tour|100.0|1268
+mini-fridge used|20.0|1268
+valet|10.0|1268
+rented movie|5.0|1268
+spa|50.0|1269
+mini-fridge used|20.0|1269
+city tour|100.0|1269
+room service|25.0|1269
+spa|50.0|1269
+rented movie|5.0|1270
+valet|10.0|1270
+mini-fridge used|20.0|1270
+city tour|100.0|1270
+room service|25.0|1270
+city tour|100.0|1271
+rented movie|5.0|1271
+rented movie|5.0|1271
+rented movie|5.0|1271
+room service|25.0|1271
+valet|10.0|1272
+rented movie|5.0|1272
+rented movie|5.0|1272
+rented movie|5.0|1272
+city tour|100.0|1272
+valet|10.0|1273
+city tour|100.0|1273
+mini-fridge used|20.0|1273
+mini-fridge used|20.0|1273
+valet|10.0|1273
+city tour|100.0|1274
+valet|10.0|1274
+rented movie|5.0|1274
+valet|10.0|1274
+valet|10.0|1274
+rented movie|5.0|1275
+rented movie|5.0|1275
+mini-fridge used|20.0|1275
+valet|10.0|1275
+rented movie|5.0|1275
+rented movie|5.0|1276
+room service|25.0|1276
+spa|50.0|1276
+valet|10.0|1276
+room service|25.0|1276
+valet|10.0|1277
+valet|10.0|1277
+room service|25.0|1277
+spa|50.0|1277
+valet|10.0|1277
+room service|25.0|1278
+city tour|100.0|1278
+spa|50.0|1278
+city tour|100.0|1278
+mini-fridge used|20.0|1278
+valet|10.0|1279
+city tour|100.0|1279
+room service|25.0|1279
+room service|25.0|1279
+rented movie|5.0|1279
+room service|25.0|1280
+valet|10.0|1280
+city tour|100.0|1280
+room service|25.0|1280
+room service|25.0|1280
+rented movie|5.0|1281
+spa|50.0|1281
+rented movie|5.0|1281
+city tour|100.0|1281
+spa|50.0|1281
+city tour|100.0|1282
+mini-fridge used|20.0|1282
+valet|10.0|1282
+city tour|100.0|1282
+spa|50.0|1282
+city tour|100.0|1283
+mini-fridge used|20.0|1283
+rented movie|5.0|1283
+spa|50.0|1283
+spa|50.0|1283
+mini-fridge used|20.0|1284
+valet|10.0|1284
+room service|25.0|1284
+spa|50.0|1284
+city tour|100.0|1284
+mini-fridge used|20.0|1285
+city tour|100.0|1285
+room service|25.0|1285
+city tour|100.0|1285
+rented movie|5.0|1285
+spa|50.0|1286
+rented movie|5.0|1286
+city tour|100.0|1286
+rented movie|5.0|1286
+rented movie|5.0|1286
+mini-fridge used|20.0|1287
+city tour|100.0|1287
+mini-fridge used|20.0|1287
+valet|10.0|1287
+rented movie|5.0|1287
+rented movie|5.0|1288
+valet|10.0|1288
+rented movie|5.0|1288
+rented movie|5.0|1288
+valet|10.0|1288
+city tour|100.0|1289
+mini-fridge used|20.0|1289
+city tour|100.0|1289
+spa|50.0|1289
+city tour|100.0|1289
+rented movie|5.0|1290
+city tour|100.0|1290
+spa|50.0|1290
+mini-fridge used|20.0|1290
+room service|25.0|1290
+valet|10.0|1291
+room service|25.0|1291
+mini-fridge used|20.0|1291
+mini-fridge used|20.0|1291
+mini-fridge used|20.0|1291
+spa|50.0|1292
+mini-fridge used|20.0|1292
+rented movie|5.0|1292
+city tour|100.0|1292
+spa|50.0|1292
+valet|10.0|1293
+city tour|100.0|1293
+spa|50.0|1293
+city tour|100.0|1293
+spa|50.0|1293
+city tour|100.0|1294
+city tour|100.0|1294
+room service|25.0|1294
+rented movie|5.0|1294
+rented movie|5.0|1294
+spa|50.0|1295
+rented movie|5.0|1295
+city tour|100.0|1295
+city tour|100.0|1295
+rented movie|5.0|1295
+mini-fridge used|20.0|1296
+room service|25.0|1296
+mini-fridge used|20.0|1296
+valet|10.0|1296
+rented movie|5.0|1296
+room service|25.0|1297
+rented movie|5.0|1297
+city tour|100.0|1297
+mini-fridge used|20.0|1297
+spa|50.0|1297
+room service|25.0|1298
+spa|50.0|1298
+room service|25.0|1298
+rented movie|5.0|1298
+room service|25.0|1298
+mini-fridge used|20.0|1299
+room service|25.0|1299
+spa|50.0|1299
+city tour|100.0|1299
+valet|10.0|1299
+rented movie|5.0|1300
+mini-fridge used|20.0|1300
+city tour|100.0|1300
+city tour|100.0|1300
+rented movie|5.0|1300
+rented movie|5.0|1301
+valet|10.0|1301
+valet|10.0|1301
+city tour|100.0|1301
+rented movie|5.0|1301
+valet|10.0|1302
+valet|10.0|1302
+valet|10.0|1302
+valet|10.0|1302
+room service|25.0|1302
+spa|50.0|1303
+spa|50.0|1303
+city tour|100.0|1303
+spa|50.0|1303
+room service|25.0|1303
+room service|25.0|1304
+room service|25.0|1304
+valet|10.0|1304
+spa|50.0|1304
+mini-fridge used|20.0|1304
+city tour|100.0|1305
+city tour|100.0|1305
+mini-fridge used|20.0|1305
+city tour|100.0|1305
+city tour|100.0|1305
+valet|10.0|1306
+room service|25.0|1306
+valet|10.0|1306
+room service|25.0|1306
+room service|25.0|1306
+spa|50.0|1307
+spa|50.0|1307
+rented movie|5.0|1307
+rented movie|5.0|1307
+valet|10.0|1307
+spa|50.0|1308
+valet|10.0|1308
+spa|50.0|1308
+spa|50.0|1308
+mini-fridge used|20.0|1308
+rented movie|5.0|1309
+spa|50.0|1309
+room service|25.0|1309
+mini-fridge used|20.0|1309
+city tour|100.0|1309
+valet|10.0|1310
+rented movie|5.0|1310
+city tour|100.0|1310
+spa|50.0|1310
+rented movie|5.0|1310
+spa|50.0|1311
+mini-fridge used|20.0|1311
+valet|10.0|1311
+room service|25.0|1311
+spa|50.0|1311
+city tour|100.0|1312
+valet|10.0|1312
+rented movie|5.0|1312
+city tour|100.0|1312
+city tour|100.0|1312
+rented movie|5.0|1313
+valet|10.0|1313
+city tour|100.0|1313
+city tour|100.0|1313
+room service|25.0|1313
+room service|25.0|1314
+mini-fridge used|20.0|1314
+rented movie|5.0|1314
+valet|10.0|1314
+rented movie|5.0|1314
+mini-fridge used|20.0|1315
+mini-fridge used|20.0|1315
+spa|50.0|1315
+mini-fridge used|20.0|1315
+spa|50.0|1315
+room service|25.0|1316
+rented movie|5.0|1316
+spa|50.0|1316
+city tour|100.0|1316
+room service|25.0|1316
+city tour|100.0|1317
+valet|10.0|1317
+mini-fridge used|20.0|1317
+valet|10.0|1317
+valet|10.0|1317
+rented movie|5.0|1318
+rented movie|5.0|1318
+room service|25.0|1318
+city tour|100.0|1318
+valet|10.0|1318
+valet|10.0|1319
+rented movie|5.0|1319
+rented movie|5.0|1319
+mini-fridge used|20.0|1319
+valet|10.0|1319
+room service|25.0|1320
+rented movie|5.0|1320
+city tour|100.0|1320
+city tour|100.0|1320
+city tour|100.0|1320
+mini-fridge used|20.0|1321
+rented movie|5.0|1321
+city tour|100.0|1321
+room service|25.0|1321
+mini-fridge used|20.0|1321
+city tour|100.0|1322
+valet|10.0|1322
+city tour|100.0|1322
+valet|10.0|1322
+mini-fridge used|20.0|1322
+mini-fridge used|20.0|1323
+room service|25.0|1323
+mini-fridge used|20.0|1323
+city tour|100.0|1323
+spa|50.0|1323
+city tour|100.0|1324
+spa|50.0|1324
+spa|50.0|1324
+city tour|100.0|1324
+mini-fridge used|20.0|1324
+spa|50.0|1325
+mini-fridge used|20.0|1325
+room service|25.0|1325
+city tour|100.0|1325
+spa|50.0|1325
+spa|50.0|1326
+valet|10.0|1326
+room service|25.0|1326
+mini-fridge used|20.0|1326
+rented movie|5.0|1326
+city tour|100.0|1327
+valet|10.0|1327
+spa|50.0|1327
+city tour|100.0|1327
+city tour|100.0|1327
+city tour|100.0|1328
+mini-fridge used|20.0|1328
+city tour|100.0|1328
+room service|25.0|1328
+valet|10.0|1328
+room service|25.0|1329
+valet|10.0|1329
+city tour|100.0|1329
+rented movie|5.0|1329
+room service|25.0|1329
+spa|50.0|1330
+mini-fridge used|20.0|1330
+spa|50.0|1330
+spa|50.0|1330
+spa|50.0|1330
+mini-fridge used|20.0|1331
+spa|50.0|1331
+room service|25.0|1331
+spa|50.0|1331
+room service|25.0|1331
+mini-fridge used|20.0|1332
+rented movie|5.0|1332
+spa|50.0|1332
+valet|10.0|1332
+spa|50.0|1332
+rented movie|5.0|1333
+city tour|100.0|1333
+spa|50.0|1333
+city tour|100.0|1333
+city tour|100.0|1333
+valet|10.0|1334
+spa|50.0|1334
+mini-fridge used|20.0|1334
+mini-fridge used|20.0|1334
+spa|50.0|1334
+valet|10.0|1335
+mini-fridge used|20.0|1335
+valet|10.0|1335
+rented movie|5.0|1335
+room service|25.0|1335
+valet|10.0|1336
+valet|10.0|1336
+city tour|100.0|1336
+mini-fridge used|20.0|1336
+rented movie|5.0|1336
+valet|10.0|1337
+spa|50.0|1337
+mini-fridge used|20.0|1337
+room service|25.0|1337
+rented movie|5.0|1337
+valet|10.0|1338
+city tour|100.0|1338
+spa|50.0|1338
+city tour|100.0|1338
+room service|25.0|1338
+spa|50.0|1339
+room service|25.0|1339
+mini-fridge used|20.0|1339
+valet|10.0|1339
+room service|25.0|1339
+mini-fridge used|20.0|1340
+spa|50.0|1340
+rented movie|5.0|1340
+valet|10.0|1340
+mini-fridge used|20.0|1340
+rented movie|5.0|1341
+spa|50.0|1341
+spa|50.0|1341
+city tour|100.0|1341
+rented movie|5.0|1341
+mini-fridge used|20.0|1342
+room service|25.0|1342
+rented movie|5.0|1342
+spa|50.0|1342
+spa|50.0|1342
+spa|50.0|1343
+mini-fridge used|20.0|1343
+room service|25.0|1343
+rented movie|5.0|1343
+spa|50.0|1343
+mini-fridge used|20.0|1344
+spa|50.0|1344
+city tour|100.0|1344
+rented movie|5.0|1344
+spa|50.0|1344
+valet|10.0|1345
+spa|50.0|1345
+spa|50.0|1345
+city tour|100.0|1345
+rented movie|5.0|1345
+room service|25.0|1346
+spa|50.0|1346
+city tour|100.0|1346
+room service|25.0|1346
+room service|25.0|1346
+spa|50.0|1347
+room service|25.0|1347
+valet|10.0|1347
+city tour|100.0|1347
+spa|50.0|1347
+rented movie|5.0|1348
+mini-fridge used|20.0|1348
+mini-fridge used|20.0|1348
+valet|10.0|1348
+mini-fridge used|20.0|1348
+spa|50.0|1349
+room service|25.0|1349
+room service|25.0|1349
+valet|10.0|1349
+valet|10.0|1349
+mini-fridge used|20.0|1350
+mini-fridge used|20.0|1350
+room service|25.0|1350
+rented movie|5.0|1350
+valet|10.0|1350
+spa|50.0|1351
+rented movie|5.0|1351
+mini-fridge used|20.0|1351
+rented movie|5.0|1351
+room service|25.0|1351
+mini-fridge used|20.0|1352
+room service|25.0|1352
+room service|25.0|1352
+spa|50.0|1352
+valet|10.0|1352
+mini-fridge used|20.0|1353
+city tour|100.0|1353
+mini-fridge used|20.0|1353
+mini-fridge used|20.0|1353
+room service|25.0|1353
+valet|10.0|1354
+room service|25.0|1354
+valet|10.0|1354
+mini-fridge used|20.0|1354
+room service|25.0|1354
+city tour|100.0|1355
+spa|50.0|1355
+valet|10.0|1355
+mini-fridge used|20.0|1355
+mini-fridge used|20.0|1355
+rented movie|5.0|1356
+spa|50.0|1356
+valet|10.0|1356
+mini-fridge used|20.0|1356
+room service|25.0|1356
+city tour|100.0|1357
+room service|25.0|1357
+city tour|100.0|1357
+mini-fridge used|20.0|1357
+mini-fridge used|20.0|1357
+valet|10.0|1358
+mini-fridge used|20.0|1358
+room service|25.0|1358
+mini-fridge used|20.0|1358
+room service|25.0|1358
+room service|25.0|1359
+mini-fridge used|20.0|1359
+rented movie|5.0|1359
+rented movie|5.0|1359
+room service|25.0|1359
+city tour|100.0|1360
+city tour|100.0|1360
+spa|50.0|1360
+mini-fridge used|20.0|1360
+rented movie|5.0|1360
+valet|10.0|1361
+room service|25.0|1361
+mini-fridge used|20.0|1361
+valet|10.0|1361
+valet|10.0|1361
+room service|25.0|1362
+room service|25.0|1362
+rented movie|5.0|1362
+room service|25.0|1362
+spa|50.0|1362
+spa|50.0|1363
+city tour|100.0|1363
+mini-fridge used|20.0|1363
+valet|10.0|1363
+spa|50.0|1363
+valet|10.0|1364
+spa|50.0|1364
+spa|50.0|1364
+valet|10.0|1364
+rented movie|5.0|1364
+city tour|100.0|1365
+spa|50.0|1365
+spa|50.0|1365
+city tour|100.0|1365
+valet|10.0|1365
+mini-fridge used|20.0|1366
+valet|10.0|1366
+spa|50.0|1366
+spa|50.0|1366
+room service|25.0|1366
+mini-fridge used|20.0|1367
+rented movie|5.0|1367
+valet|10.0|1367
+valet|10.0|1367
+city tour|100.0|1367
+mini-fridge used|20.0|1368
+city tour|100.0|1368
+room service|25.0|1368
+city tour|100.0|1368
+mini-fridge used|20.0|1368
+city tour|100.0|1369
+city tour|100.0|1369
+room service|25.0|1369
+rented movie|5.0|1369
+room service|25.0|1369
+rented movie|5.0|1370
+valet|10.0|1370
+room service|25.0|1370
+spa|50.0|1370
+mini-fridge used|20.0|1370
+room service|25.0|1371
+valet|10.0|1371
+valet|10.0|1371
+room service|25.0|1371
+valet|10.0|1371
+spa|50.0|1372
+room service|25.0|1372
+mini-fridge used|20.0|1372
+room service|25.0|1372
+valet|10.0|1372
+room service|25.0|1373
+valet|10.0|1373
+spa|50.0|1373
+mini-fridge used|20.0|1373
+mini-fridge used|20.0|1373
+rented movie|5.0|1374
+valet|10.0|1374
+city tour|100.0|1374
+rented movie|5.0|1374
+mini-fridge used|20.0|1374
+rented movie|5.0|1375
+valet|10.0|1375
+rented movie|5.0|1375
+room service|25.0|1375
+city tour|100.0|1375
+city tour|100.0|1376
+mini-fridge used|20.0|1376
+rented movie|5.0|1376
+city tour|100.0|1376
+mini-fridge used|20.0|1376
+city tour|100.0|1377
+mini-fridge used|20.0|1377
+rented movie|5.0|1377
+rented movie|5.0|1377
+rented movie|5.0|1377
+room service|25.0|1378
+spa|50.0|1378
+valet|10.0|1378
+rented movie|5.0|1378
+room service|25.0|1378
+mini-fridge used|20.0|1379
+mini-fridge used|20.0|1379
+spa|50.0|1379
+city tour|100.0|1379
+city tour|100.0|1379
+city tour|100.0|1380
+city tour|100.0|1380
+room service|25.0|1380
+rented movie|5.0|1380
+room service|25.0|1380
+city tour|100.0|1381
+valet|10.0|1381
+city tour|100.0|1381
+room service|25.0|1381
+valet|10.0|1381
+mini-fridge used|20.0|1382
+mini-fridge used|20.0|1382
+valet|10.0|1382
+room service|25.0|1382
+rented movie|5.0|1382
+spa|50.0|1383
+spa|50.0|1383
+mini-fridge used|20.0|1383
+valet|10.0|1383
+city tour|100.0|1383
+room service|25.0|1384
+valet|10.0|1384
+city tour|100.0|1384
+rented movie|5.0|1384
+mini-fridge used|20.0|1384
+mini-fridge used|20.0|1385
+rented movie|5.0|1385
+mini-fridge used|20.0|1385
+valet|10.0|1385
+mini-fridge used|20.0|1385
+rented movie|5.0|1386
+spa|50.0|1386
+mini-fridge used|20.0|1386
+mini-fridge used|20.0|1386
+valet|10.0|1386
+mini-fridge used|20.0|1387
+spa|50.0|1387
+valet|10.0|1387
+rented movie|5.0|1387
+mini-fridge used|20.0|1387
+spa|50.0|1388
+rented movie|5.0|1388
+valet|10.0|1388
+spa|50.0|1388
+room service|25.0|1388
+spa|50.0|1389
+mini-fridge used|20.0|1389
+room service|25.0|1389
+spa|50.0|1389
+mini-fridge used|20.0|1389
+mini-fridge used|20.0|1390
+room service|25.0|1390
+mini-fridge used|20.0|1390
+rented movie|5.0|1390
+spa|50.0|1390
+spa|50.0|1391
+mini-fridge used|20.0|1391
+city tour|100.0|1391
+rented movie|5.0|1391
+spa|50.0|1391
+rented movie|5.0|1392
+spa|50.0|1392
+rented movie|5.0|1392
+valet|10.0|1392
+spa|50.0|1392
+city tour|100.0|1393
+room service|25.0|1393
+room service|25.0|1393
+spa|50.0|1393
+mini-fridge used|20.0|1393
+mini-fridge used|20.0|1394
+spa|50.0|1394
+rented movie|5.0|1394
+city tour|100.0|1394
+mini-fridge used|20.0|1394
+mini-fridge used|20.0|1395
+city tour|100.0|1395
+mini-fridge used|20.0|1395
+room service|25.0|1395
+rented movie|5.0|1395
+spa|50.0|1396
+valet|10.0|1396
+city tour|100.0|1396
+city tour|100.0|1396
+city tour|100.0|1396
+valet|10.0|1397
+rented movie|5.0|1397
+spa|50.0|1397
+room service|25.0|1397
+rented movie|5.0|1397
+rented movie|5.0|1398
+valet|10.0|1398
+mini-fridge used|20.0|1398
+valet|10.0|1398
+rented movie|5.0|1398
+mini-fridge used|20.0|1399
+mini-fridge used|20.0|1399
+mini-fridge used|20.0|1399
+city tour|100.0|1399
+mini-fridge used|20.0|1399
+city tour|100.0|1400
+valet|10.0|1400
+room service|25.0|1400
+room service|25.0|1400
+room service|25.0|1400
+valet|10.0|1401
+valet|10.0|1401
+room service|25.0|1401
+mini-fridge used|20.0|1401
+room service|25.0|1401
+room service|25.0|1402
+city tour|100.0|1402
+mini-fridge used|20.0|1402
+spa|50.0|1402
+spa|50.0|1402
+rented movie|5.0|1403
+mini-fridge used|20.0|1403
+city tour|100.0|1403
+rented movie|5.0|1403
+mini-fridge used|20.0|1403
+rented movie|5.0|1404
+valet|10.0|1404
+rented movie|5.0|1404
+mini-fridge used|20.0|1404
+spa|50.0|1404
+mini-fridge used|20.0|1405
+spa|50.0|1405
+spa|50.0|1405
+city tour|100.0|1405
+valet|10.0|1405
+valet|10.0|1406
+valet|10.0|1406
+rented movie|5.0|1406
+city tour|100.0|1406
+room service|25.0|1406
+valet|10.0|1407
+valet|10.0|1407
+room service|25.0|1407
+valet|10.0|1407
+rented movie|5.0|1407
+valet|10.0|1408
+mini-fridge used|20.0|1408
+rented movie|5.0|1408
+mini-fridge used|20.0|1408
+mini-fridge used|20.0|1408
+spa|50.0|1409
+city tour|100.0|1409
+rented movie|5.0|1409
+room service|25.0|1409
+city tour|100.0|1409
+room service|25.0|1410
+room service|25.0|1410
+rented movie|5.0|1410
+valet|10.0|1410
+rented movie|5.0|1410
+room service|25.0|1411
+room service|25.0|1411
+valet|10.0|1411
+room service|25.0|1411
+spa|50.0|1411
+valet|10.0|1412
+city tour|100.0|1412
+valet|10.0|1412
+city tour|100.0|1412
+city tour|100.0|1412
+city tour|100.0|1413
+spa|50.0|1413
+city tour|100.0|1413
+room service|25.0|1413
+room service|25.0|1413
+mini-fridge used|20.0|1414
+mini-fridge used|20.0|1414
+city tour|100.0|1414
+spa|50.0|1414
+room service|25.0|1414
+mini-fridge used|20.0|1415
+city tour|100.0|1415
+mini-fridge used|20.0|1415
+city tour|100.0|1415
+room service|25.0|1415
+valet|10.0|1416
+spa|50.0|1416
+room service|25.0|1416
+rented movie|5.0|1416
+valet|10.0|1416
+rented movie|5.0|1417
+valet|10.0|1417
+valet|10.0|1417
+city tour|100.0|1417
+mini-fridge used|20.0|1417
+spa|50.0|1418
+rented movie|5.0|1418
+valet|10.0|1418
+city tour|100.0|1418
+mini-fridge used|20.0|1418
+rented movie|5.0|1419
+city tour|100.0|1419
+rented movie|5.0|1419
+city tour|100.0|1419
+city tour|100.0|1419
+rented movie|5.0|1420
+mini-fridge used|20.0|1420
+room service|25.0|1420
+room service|25.0|1420
+spa|50.0|1420
+room service|25.0|1421
+rented movie|5.0|1421
+valet|10.0|1421
+spa|50.0|1421
+city tour|100.0|1421
+spa|50.0|1422
+valet|10.0|1422
+city tour|100.0|1422
+spa|50.0|1422
+city tour|100.0|1422
+city tour|100.0|1423
+mini-fridge used|20.0|1423
+mini-fridge used|20.0|1423
+room service|25.0|1423
+rented movie|5.0|1423
+spa|50.0|1424
+room service|25.0|1424
+room service|25.0|1424
+spa|50.0|1424
+spa|50.0|1424
+mini-fridge used|20.0|1425
+mini-fridge used|20.0|1425
+city tour|100.0|1425
+rented movie|5.0|1425
+mini-fridge used|20.0|1425
+valet|10.0|1426
+city tour|100.0|1426
+valet|10.0|1426
+city tour|100.0|1426
+valet|10.0|1426
+room service|25.0|1427
+room service|25.0|1427
+room service|25.0|1427
+room service|25.0|1427
+room service|25.0|1427
+spa|50.0|1428
+spa|50.0|1428
+valet|10.0|1428
+room service|25.0|1428
+city tour|100.0|1428
+room service|25.0|1429
+mini-fridge used|20.0|1429
+spa|50.0|1429
+valet|10.0|1429
+rented movie|5.0|1429
+city tour|100.0|1430
+rented movie|5.0|1430
+mini-fridge used|20.0|1430
+city tour|100.0|1430
+room service|25.0|1430
+room service|25.0|1431
+rented movie|5.0|1431
+city tour|100.0|1431
+city tour|100.0|1431
+valet|10.0|1431
+valet|10.0|1432
+city tour|100.0|1432
+city tour|100.0|1432
+valet|10.0|1432
+room service|25.0|1432
+rented movie|5.0|1433
+city tour|100.0|1433
+mini-fridge used|20.0|1433
+valet|10.0|1433
+spa|50.0|1433
+spa|50.0|1434
+mini-fridge used|20.0|1434
+valet|10.0|1434
+city tour|100.0|1434
+spa|50.0|1434
+mini-fridge used|20.0|1435
+room service|25.0|1435
+rented movie|5.0|1435
+valet|10.0|1435
+valet|10.0|1435
+valet|10.0|1436
+valet|10.0|1436
+mini-fridge used|20.0|1436
+valet|10.0|1436
+valet|10.0|1436
+mini-fridge used|20.0|1437
+mini-fridge used|20.0|1437
+room service|25.0|1437
+city tour|100.0|1437
+mini-fridge used|20.0|1437
+room service|25.0|1438
+mini-fridge used|20.0|1438
+rented movie|5.0|1438
+city tour|100.0|1438
+spa|50.0|1438
+rented movie|5.0|1439
+mini-fridge used|20.0|1439
+rented movie|5.0|1439
+room service|25.0|1439
+room service|25.0|1439
+mini-fridge used|20.0|1440
+rented movie|5.0|1440
+city tour|100.0|1440
+mini-fridge used|20.0|1440
+city tour|100.0|1440
+room service|25.0|1441
+room service|25.0|1441
+mini-fridge used|20.0|1441
+spa|50.0|1441
+mini-fridge used|20.0|1441
+room service|25.0|1442
+city tour|100.0|1442
+city tour|100.0|1442
+spa|50.0|1442
+rented movie|5.0|1442
+city tour|100.0|1443
+mini-fridge used|20.0|1443
+city tour|100.0|1443
+rented movie|5.0|1443
+city tour|100.0|1443
+city tour|100.0|1444
+rented movie|5.0|1444
+mini-fridge used|20.0|1444
+room service|25.0|1444
+mini-fridge used|20.0|1444
+city tour|100.0|1445
+city tour|100.0|1445
+city tour|100.0|1445
+valet|10.0|1445
+spa|50.0|1445
+valet|10.0|1446
+rented movie|5.0|1446
+mini-fridge used|20.0|1446
+valet|10.0|1446
+room service|25.0|1446
+mini-fridge used|20.0|1447
+spa|50.0|1447
+spa|50.0|1447
+room service|25.0|1447
+spa|50.0|1447
+city tour|100.0|1448
+city tour|100.0|1448
+spa|50.0|1448
+mini-fridge used|20.0|1448
+city tour|100.0|1448
+spa|50.0|1449
+city tour|100.0|1449
+mini-fridge used|20.0|1449
+valet|10.0|1449
+rented movie|5.0|1449
+spa|50.0|1450
+room service|25.0|1450
+spa|50.0|1450
+room service|25.0|1450
+rented movie|5.0|1450
+spa|50.0|1451
+valet|10.0|1451
+city tour|100.0|1451
+spa|50.0|1451
+valet|10.0|1451
+valet|10.0|1452
+mini-fridge used|20.0|1452
+rented movie|5.0|1452
+city tour|100.0|1452
+city tour|100.0|1452
+city tour|100.0|1453
+room service|25.0|1453
+spa|50.0|1453
+city tour|100.0|1453
+room service|25.0|1453
+city tour|100.0|1454
+spa|50.0|1454
+mini-fridge used|20.0|1454
+mini-fridge used|20.0|1454
+room service|25.0|1454
+valet|10.0|1455
+spa|50.0|1455
+mini-fridge used|20.0|1455
+mini-fridge used|20.0|1455
+room service|25.0|1455
+spa|50.0|1456
+room service|25.0|1456
+mini-fridge used|20.0|1456
+spa|50.0|1456
+spa|50.0|1456
+valet|10.0|1457
+room service|25.0|1457
+city tour|100.0|1457
+spa|50.0|1457
+city tour|100.0|1457
+city tour|100.0|1458
+spa|50.0|1458
+rented movie|5.0|1458
+mini-fridge used|20.0|1458
+rented movie|5.0|1458
+rented movie|5.0|1459
+room service|25.0|1459
+city tour|100.0|1459
+spa|50.0|1459
+spa|50.0|1459
+mini-fridge used|20.0|1460
+spa|50.0|1460
+city tour|100.0|1460
+spa|50.0|1460
+city tour|100.0|1460
+mini-fridge used|20.0|1461
+room service|25.0|1461
+rented movie|5.0|1461
+valet|10.0|1461
+city tour|100.0|1461
+city tour|100.0|1462
+rented movie|5.0|1462
+city tour|100.0|1462
+mini-fridge used|20.0|1462
+valet|10.0|1462
+spa|50.0|1463
+spa|50.0|1463
+room service|25.0|1463
+rented movie|5.0|1463
+valet|10.0|1463
+city tour|100.0|1464
+rented movie|5.0|1464
+spa|50.0|1464
+rented movie|5.0|1464
+mini-fridge used|20.0|1464
+city tour|100.0|1465
+room service|25.0|1465
+mini-fridge used|20.0|1465
+mini-fridge used|20.0|1465
+valet|10.0|1465
+city tour|100.0|1466
+room service|25.0|1466
+rented movie|5.0|1466
+spa|50.0|1466
+spa|50.0|1466
+spa|50.0|1467
+city tour|100.0|1467
+mini-fridge used|20.0|1467
+city tour|100.0|1467
+mini-fridge used|20.0|1467
+mini-fridge used|20.0|1468
+room service|25.0|1468
+city tour|100.0|1468
+mini-fridge used|20.0|1468
+city tour|100.0|1468
+rented movie|5.0|1469
+spa|50.0|1469
+valet|10.0|1469
+mini-fridge used|20.0|1469
+city tour|100.0|1469
+spa|50.0|1470
+mini-fridge used|20.0|1470
+city tour|100.0|1470
+rented movie|5.0|1470
+room service|25.0|1470
+room service|25.0|1471
+spa|50.0|1471
+mini-fridge used|20.0|1471
+mini-fridge used|20.0|1471
+rented movie|5.0|1471
+room service|25.0|1472
+rented movie|5.0|1472
+city tour|100.0|1472
+rented movie|5.0|1472
+spa|50.0|1472
+valet|10.0|1473
+spa|50.0|1473
+room service|25.0|1473
+city tour|100.0|1473
+room service|25.0|1473
+city tour|100.0|1474
+city tour|100.0|1474
+city tour|100.0|1474
+room service|25.0|1474
+valet|10.0|1474
+rented movie|5.0|1475
+valet|10.0|1475
+city tour|100.0|1475
+valet|10.0|1475
+valet|10.0|1475
+city tour|100.0|1476
+room service|25.0|1476
+spa|50.0|1476
+rented movie|5.0|1476
+city tour|100.0|1476
+rented movie|5.0|1477
+city tour|100.0|1477
+room service|25.0|1477
+spa|50.0|1477
+spa|50.0|1477
+valet|10.0|1478
+valet|10.0|1478
+room service|25.0|1478
+spa|50.0|1478
+mini-fridge used|20.0|1478
+rented movie|5.0|1479
+city tour|100.0|1479
+city tour|100.0|1479
+room service|25.0|1479
+mini-fridge used|20.0|1479
+valet|10.0|1480
+valet|10.0|1480
+spa|50.0|1480
+valet|10.0|1480
+spa|50.0|1480
+spa|50.0|1481
+valet|10.0|1481
+city tour|100.0|1481
+valet|10.0|1481
+city tour|100.0|1481
+city tour|100.0|1482
+room service|25.0|1482
+mini-fridge used|20.0|1482
+valet|10.0|1482
+rented movie|5.0|1482
+city tour|100.0|1483
+valet|10.0|1483
+city tour|100.0|1483
+city tour|100.0|1483
+mini-fridge used|20.0|1483
+spa|50.0|1484
+spa|50.0|1484
+room service|25.0|1484
+valet|10.0|1484
+valet|10.0|1484
+room service|25.0|1485
+mini-fridge used|20.0|1485
+rented movie|5.0|1485
+rented movie|5.0|1485
+city tour|100.0|1485
+mini-fridge used|20.0|1486
+rented movie|5.0|1486
+rented movie|5.0|1486
+city tour|100.0|1486
+spa|50.0|1486
+city tour|100.0|1487
+valet|10.0|1487
+mini-fridge used|20.0|1487
+spa|50.0|1487
+spa|50.0|1487
+mini-fridge used|20.0|1488
+spa|50.0|1488
+mini-fridge used|20.0|1488
+spa|50.0|1488
+rented movie|5.0|1488
+city tour|100.0|1489
+spa|50.0|1489
+mini-fridge used|20.0|1489
+rented movie|5.0|1489
+spa|50.0|1489
+valet|10.0|1490
+spa|50.0|1490
+spa|50.0|1490
+rented movie|5.0|1490
+city tour|100.0|1490
+room service|25.0|1491
+valet|10.0|1491
+mini-fridge used|20.0|1491
+rented movie|5.0|1491
+room service|25.0|1491
+spa|50.0|1492
+room service|25.0|1492
+rented movie|5.0|1492
+rented movie|5.0|1492
+room service|25.0|1492
+rented movie|5.0|1493
+mini-fridge used|20.0|1493
+valet|10.0|1493
+rented movie|5.0|1493
+valet|10.0|1493
+valet|10.0|1494
+room service|25.0|1494
+spa|50.0|1494
+rented movie|5.0|1494
+rented movie|5.0|1494
+mini-fridge used|20.0|1495
+room service|25.0|1495
+rented movie|5.0|1495
+rented movie|5.0|1495
+spa|50.0|1495
+spa|50.0|1496
+city tour|100.0|1496
+city tour|100.0|1496
+mini-fridge used|20.0|1496
+spa|50.0|1496
+spa|50.0|1497
+room service|25.0|1497
+rented movie|5.0|1497
+mini-fridge used|20.0|1497
+city tour|100.0|1497
+rented movie|5.0|1498
+mini-fridge used|20.0|1498
+room service|25.0|1498
+valet|10.0|1498
+city tour|100.0|1498
+city tour|100.0|1499
+valet|10.0|1499
+rented movie|5.0|1499
+spa|50.0|1499
+room service|25.0|1499
+rented movie|5.0|1500
+mini-fridge used|20.0|1500
+room service|25.0|1500
+spa|50.0|1500
+spa|50.0|1500

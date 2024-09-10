@@ -1,0 +1,20 @@
+1|647 Brooks Field Apt. 090 Somalia, Jessicaton|ForestGreen1 Hotel
+2|4839 Price Cliff Suite 691 Bouvet Island (Bouvetoya), Saraton|PapayaWhip2 Hotel
+3|3323 Roberts Road Bahamas, South Jennifer|LightSalmon3 Hotel
+4|187 Sean Street Italy, West Chad|LimeGreen4 Hotel
+5|437 Payne Turnpike Apt. 458 Kenya, Brandonmouth|PaleGreen5 Hotel
+6|5049 Tyler Lodge Brazil, Steeleville|Pink6 Hotel
+7|2476 Kimberly Groves Bahamas, East Kevinshire|Purple7 Hotel
+8|40435 Erickson Drive Northern Mariana Islands, North Kathy|DarkSlateGray8 Hotel
+9|21571 Andrew Greens Suite 058 Vietnam, Lake Jasonville|MediumSpringGreen9 Hotel
+10|7104 Johnson Plains Malaysia, South Kyle|Coral10 Hotel
+11|4190 Edwards Glen Paraguay, East Melinda|Linen11 Hotel
+12|7674 Mary Lake Somalia, North Christian|MediumBlue12 Hotel
+13|53518 Brittany Walks Apt. 048 Sierra Leone, Anthonyhaven|DarkViolet13 Hotel
+14|65383 Nicole Crescent Swaziland, South Russell|DarkBlue14 Hotel
+15|50859 Kemp Plain Bahamas, Rangelland|SlateGray15 Hotel
+16|374 Maria Oval Apt. 529 United States of America, Bettyton|SkyBlue16 Hotel
+17|314 Nancy Lights Nigeria, Jonesstad|DarkSlateGray17 Hotel
+18|468 Kelsey Walks Haiti, West Deborahhaven|LightPink18 Hotel
+19|306 James Forges Suite 274 Slovakia (Slovak Republic), Johnsonside|Purple19 Hotel
+20|031 Donald Ways Grenada, South Reginaland|PapayaWhip20 Hotel
