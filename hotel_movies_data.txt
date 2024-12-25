@@ -1,0 +1,100 @@
+1|Titanic|2.3|100|94.67
+1|The Matrix|4.4|161|69.39
+1|The Lord of the Rings: Fellowship of the Ring|3.6|91|63.12
+1|The Shawshank Redemption|1.2|108|66.91
+1|The Dark Knight|4.4|174|71.82
+2|The Social Network|3.2|164|31.24
+2|Titanic|5|130|30.69
+2|The Lord of the Rings: Fellowship of the Ring|4.9|128|81.80
+2|The Shawshank Redemption|2.0|114|46.95
+2|The Avengers|5|85|76.81
+3|The Revenant|2.4|140|18.96
+3|The Shawshank Redemption|2.3|166|48.40
+3|Pulp Fiction|5|141|24.89
+3|Inception|3.1|170|90.00
+3|The Dark Knight|5|170|40.25
+4|Braveheart|1.2|155|25.49
+4|The Lord of the Rings: Fellowship of the Ring|1.9|175|45.71
+4|The Revenant|5|120|74.81
+4|The Matrix|1.7|74|65.89
+4|Pulp Fiction|3.2|121|86.98
+5|The Shawshank Redemption|3.6|166|18.16
+5|The Matrix|4.5|77|25.73
+5|The Lion King|1.5|146|99.35
+5|Braveheart|5|124|32.01
+5|The Social Network|2.5|73|23.10
+6|Gladiator|3.8|170|94.39
+6|Titanic|1.2|179|43.01
+6|The Lion King|3.5|62|48.43
+6|The Revenant|1.8|70|58.08
+6|Pulp Fiction|5|68|48.13
+7|The Avengers|2.7|89|59.75
+7|The Social Network|5|141|79.17
+7|Braveheart|4.6|154|49.98
+7|Gladiator|1.0|69|77.00
+7|Forrest Gump|4.6|176|16.14
+8|The Avengers|3.4|129|97.37
+8|The Dark Knight|3.2|130|95.41
+8|The Social Network|5|94|67.96
+8|The Shawshank Redemption|2.0|74|16.72
+8|Fight Club|5|69|99.62
+9|The Lord of the Rings: Fellowship of the Ring|3.0|103|37.42
+9|Inception|2.8|158|39.48
+9|The Lion King|4.8|137|82.08
+9|The Matrix|3.5|114|34.20
+9|Fight Club|3.9|91|35.73
+10|The Avengers|4.6|151|29.22
+10|The Lion King|3.8|61|95.86
+10|The Dark Knight|4.0|104|24.02
+10|The Matrix|5|85|65.79
+10|The Revenant|5|86|97.72
+11|The Revenant|1.1|102|85.03
+11|The Shawshank Redemption|5|68|66.49
+11|Forrest Gump|4.3|148|49.02
+11|The Lion King|4.7|89|68.85
+11|Inception|2.1|61|56.75
+12|The Matrix|1.3|160|62.59
+12|Braveheart|2.7|159|17.22
+12|The Social Network|4.8|142|12.18
+12|The Lord of the Rings: Fellowship of the Ring|1.6|72|77.51
+12|Fight Club|1.2|175|94.78
+13|Braveheart|3.7|89|26.21
+13|Forrest Gump|5|114|83.29
+13|The Social Network|1.8|155|27.65
+13|The Shawshank Redemption|3.9|92|94.04
+13|The Revenant|2.3|166|25.85
+14|Titanic|4.0|153|40.25
+14|The Dark Knight|2.0|60|75.04
+14|The Matrix|4.5|180|67.68
+14|The Lord of the Rings: Fellowship of the Ring|5|158|33.42
+14|The Shawshank Redemption|4.5|128|96.19
+15|Pulp Fiction|2.1|159|53.40
+15|The Avengers|5|128|34.34
+15|The Lord of the Rings: Fellowship of the Ring|2.2|177|17.02
+15|Gladiator|2.5|125|32.51
+15|Forrest Gump|3.4|76|39.69
+16|The Lion King|1.5|87|63.56
+16|The Lord of the Rings: Fellowship of the Ring|3.9|134|90.90
+16|Inception|4.6|74|86.27
+16|Fight Club|1.1|124|91.52
+16|Pulp Fiction|4.0|136|71.03
+17|Pulp Fiction|1.1|77|26.28
+17|Forrest Gump|2.7|83|79.82
+17|The Lord of the Rings: Fellowship of the Ring|5|125|95.76
+17|The Dark Knight|4.3|68|67.07
+17|The Matrix|1.6|100|47.85
+18|Titanic|1.7|85|49.18
+18|The Matrix|1.2|162|72.79
+18|The Revenant|3.6|148|59.10
+18|The Lion King|2.9|168|49.09
+18|The Social Network|1.8|118|33.69
+19|Inception|5|180|65.20
+19|Pulp Fiction|4.6|120|44.11
+19|The Shawshank Redemption|5|142|22.79
+19|Braveheart|4.0|78|10.51
+19|Gladiator|5|92|84.28
+20|Fight Club|1.9|106|41.28
+20|Titanic|5|108|23.23
+20|Pulp Fiction|4.3|152|38.77
+20|Braveheart|5|175|17.06
+20|Gladiator|3.3|76|36.11

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Reservation Finalization & Confirmation</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body>
+            <h1>Congratulations!</h1>
+            <p><em>Your reservation has successfully been booked for <b> guest {{ guest_id }}</b> with the following information:</em></p>
+            <ul>
+                <li style="text-decoration: none;"> with the reservation ID: <b>{{ reservation_id }}</b></li>
+                <li style="text-decoration: none;">for room type: <b>{{ room_type }}</b></li>
+                <li style="text-decoration: none;">from    <b> {{ check_in_date }} </b>    to     <b>{{ check_out_date }}</b></li>
+                <li style="text-decoration: none;">for <b>{{ num_occupants }}</b> people/persons</li>
+                <li>at a rate of <b>{{ base_price }}</b> per night</li>
+            </ul>
+    </body>
+</html>

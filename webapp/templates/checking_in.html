@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    <form action="/checking_in" method="GET">
+        <label for="check_in"><b>Reservation ID :</b></label>
+        <!-- <label for="reservation_id">:</label> -->
+        {% if request.args.get('reservation_id') != None%}
+        <input type="text" id="reservation_id" name="reservation_id" value="{{request.args.get('reservation_id') }}" placeholder="#" style="margin-right: 20px;"> 
+        {% else %}
+        <input type="text" id="reservation_id" name="reservation_id" placeholder="#" style="margin-right: 20px;"> 
+        {% endif %}
+
+        <input type="submit" class="btn-style" value="Search">
+    </form>
+
+    {% if data %}
+    <h2>Search Results:</h2>
+    
+    <div id="table_div" class="table-features"></div>
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['table'] });
+        google.charts.setOnLoadCallback(drawTable);
+
+        function drawTable() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string',   'room_number');
+            data.addColumn('string',   'room_type');
+            data.addColumn('string', 'hotel_id');
+            data.addColumn('string', 'floor_number');
+            data.addColumn('string',   'is_clean');
+            data.addColumn('string',   'occupied');
+
+            data.addRows([
+                {% for row in data %}
+                [{% for i in range(6) %}'{{ row[i] }}', {% endfor %}],
+                {% endfor %}
+            ]);
+
+            // editing the display of the table, Define the CSS classes for table styling
+            var options = {
+            'cssClassNames': {
+                'tableRow': 'custom-table-font',
+                'headerRow': 'custom-header-font',
+                'tableCell': 'custom-table-font',
+                'headerCell': 'custom-header-font',
+            },
+            'showRowNumber': true,
+            'width': '70%',
+            'height': '100%'
+            };
+
+            var table = new google.visualization.Table(document.getElementById('table_div'));
+            table.draw(data, options);
+
+            google.visualization.events.addListener(table, "select", function() {
+                let selection = table.getSelection();
+                let item = selection[0];
+                if (item) {
+                    let room_number = document.getElementById("room_number");
+                    room_number.value = data.getValue(item.row, 0);
+                    let hotel_id = document.getElementById("hotel_id")
+                    hotel_id.value = data.getValue(item.row, 2);
+                    let reservation_id_hidden = document.getElementById("reservation_id_hidden")
+                    reservation_id_hidden.value = reservation_id.value
+                    console.log(reservation_id_hidden.value)
+                }
+            });
+        }
+    </script>
+    <form action="room_reserve">
+        <p>Selected room:
+            <input id="room_number" name="room_number" type="text" size="10" style="margin-right: 20px;">
+           Selected hotel:
+            <input id="hotel_id" name="hotel_id" type="text" size="10" style="margin-right: 20px;">
+            <input id="reservation_id_hidden" name="reservation_id_hidden" type="hidden" value="{{ request.args.get('reservation_id') }}" size="10" style="margin-right: 20px;">
+            <input type="submit" class="btn-style" value="Reserve">
+        </p>
+    </form>
+    <script type="text/javascript">
+        // let reservation_id = document.getElementById("reservation_id").value
+        // document.getElementById('reservation_id_hidden').value = reservation_id
+        // console.log(document.getElementById('reservation_id_hidden').value)
+    </script>
+
+    {% endif %}
+</body>
+</html>
