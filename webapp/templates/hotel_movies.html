@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotel-Movies</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+    <h1>Hotel Movies</h1>
+    <p><em>please enter the reservation_id ID to get the provided movies and check out</em></p>
+    <form action="/hotel_movies" method="GET">
+        <label for="hotel_movies"> <b>Reservation ID : </b></label>
+        <!-- <label for="reservation_id">:</label> -->
+        <input type="text" id="reservation_id" name="reservation_id" placeholder="#" style="margin-right: 20px;">
+        
+        <input type="submit" class="btn-style" value="Search">
+
+    </form>
+
+    {% if data %}
+    <h2>Movie Results:</h2>
+    
+    <div id="table_div" class="table-features"></div>
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['table'] });
+        google.charts.setOnLoadCallback(drawTable);        
+
+        function drawTable() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string',   'title');
+            data.addColumn('string',   'rating');
+            data.addColumn('string',   'runtime');
+            data.addColumn('string',   'price');
+
+            data.addRows([
+                {% for row in data %}
+                [{% for i in range(4) %}'{{ row[i] }}', {% endfor %}],
+                {% endfor %}
+            ]);
+
+            // editing the display of the table, Define the CSS classes for table styling
+            var options = {
+            'cssClassNames': {
+                'tableRow': 'custom-table-font',
+                'headerRow': 'custom-header-font',
+                'tableCell': 'custom-table-font',
+                'headerCell': 'custom-header-font',
+            },
+            'showRowNumber': true,
+            'width': '70%',
+            'height': '100%'
+            };
+
+            var table = new google.visualization.Table(document.getElementById('table_div'));
+            table.draw(data, options);
+
+
+            google.visualization.events.addListener(table, "select", function() {
+                let selection = table.getSelection();
+                let item = selection[0];
+                if (item) {
+                    let title = document.getElementById("title")
+                    title.value = data.getValue(item.row, 0);
+                }
+            });
+        }   
+    </script>
+    <form action="movie_reserve">
+        <p>Selected movie:
+            <input id="title" name="title" type="text" size="10" style="margin-right: 20px;">
+            <input id="reservation_id_hidden" name="reservation_id_hidden" type="hidden" value="{{ request.args.get('reservation_id') }}">
+            <input type="submit" class="btn-style" value="Reserve">
+        </p>
+    </form>
+    {% endif %}
+</body>
+</html>

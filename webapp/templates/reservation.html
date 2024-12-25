@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reservation</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Reservation Availabilities</h1>
+    <p><em>Please fill out the following information to see availability at desired hotel</em></p>
+    <form action="/reservation" method="GET">
+        <label for="reservation"> <b>Hotel:</b></label>
+        <input type="text" id="hotel_id" name="hotel_id" placeholder="hotel_id" required>
+                    
+        <label for="begin_date"><b>Check In Date:</b></label>
+        <input type="date" id="check_in_date" name="check_in_date" placeholder="yyyy-mm-dd" required>
+                    
+        <label for="end_date"><b>Check Out Date:</b></label>
+        <input type="date" id="check_out_id" name="check_out_date" placeholder="yyyy-mm-dd" required>
+                    
+        <label for="guest"><b>Guest ID:</b></label>
+        <input type="text" id="guest_id" name="guest_id" placeholder="####" required>
+                    
+        <input type="submit" class="btn-style" value="Search" style="margin: 10px;">
+    </form>
+
+    {% if data %}
+    <br>
+    <h2>Search Results:</h2> <hr>
+    <div id="table_div" class="table-features"></div>
+    <br><hr><br>
+    <form action="/export_reservation">
+        <h2>Book Your Reservation:</h2>
+        <input id="hotel_hidden" name="hotel_hidden" type="hidden" value=" {{ request.args.get('hotel_id') }}">
+        <input id="check_in_hidden" name="check_in_hidden" type="hidden" value="{{ request.args.get('check_in_date') }}">
+        <input id="check_out_hidden" name="check_out_hidden" type="hidden" value="{{ request.args.get('check_out_date') }}">
+        <input id="guest_hidden" name="guest_hidden" type="hidden" required value="{{ request.args.get('guest_id') }}">
+        <p style="text-align: left;">
+            <em>Room Type:</em>
+            <input id="room_type" name="room_type" type="text" size="10" required style="margin-right: 20px;">
+            <em>Base Price (per night):</em>
+            <input id="average_nightly_cost" name="average_nightly_cost" type="text" size="10" required style="margin-right: 20px;">
+            <em>How many people is the reservation for?</em>
+            <input id="num_occupants" name="num_occupants" size="10" required style="margin-right: 20px;">
+            <input type="submit" class="btn-style" value="Book Now!">
+        </p>
+    </form>
+
+    
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+        google.charts.load('current', {'packages':['table']});
+        google.charts.setOnLoadCallback(drawTable);
+
+        function drawTable() {
+            var data = new google.visualization.DataTable();
+            data.setProperty
+            data.addColumn('string', 'room_type');
+            data.addColumn('string', 'average_nightly_cost');
+
+            console.log("Adding rows: ", {{ data | tojson | safe }});
+
+            data.addRows([
+                {% for row in data %}
+                [ {% for i in range(2) %}'{{ row[i] }}', {% endfor %} ],
+                {% endfor %}          
+            ]);
+
+            // editing the display of the table, Define the CSS classes for table styling
+            var options = {
+            'cssClassNames': {
+                'tableRow': 'custom-table-font',
+                'headerRow': 'custom-header-font',
+                'tableCell': 'custom-table-font',
+                'headerCell': 'custom-header-font',
+            },
+            'showRowNumber': true,
+            'width': '70%',
+            'height': '100%'
+            };
+
+            var table = new google.visualization.Table(document.getElementById('table_div'));
+            table.draw(data, options);
+            
+            // table.draw(data, { showRowNumber: true, page: true, pageSize: 50 });
+
+            google.visualization.events.addListener(table, "select", function() {
+                let selection = table.getSelection();
+                let item = selection[0];
+                if (item) {
+                    let room_type = document.getElementById("room_type");
+                    room_type.value = data.getValue(item.row, 0);
+                    let average_nightly_cost = document.getElementById("average_nightly_cost");
+                    average_nightly_cost.value = data.getValue(item.row, 1);
+                    let hotel_hidden = document.getElementById("hotel_id");
+                    hotel_hidden.value = thisHotel;
+                    let guest_hidden = document.getElementById("guest_id");
+                    guest_hidden.value = thisGuest;
+                    let check_in_hidden = document.getElementById("check_in_date");
+                    check_in_hidden.value = start_date;
+                    let check_out_hidden = document.getElementById("check_out_date");
+                    check_out_hidden.value = end_date;
+                }
+            });
+        }
+    </script>
+    {% else %}
+    <br><br>
+    <div class="img-container">
+        <img src="https://media.istockphoto.com/id/932022348/vector/sad-face-icon-unhappy-face-symbol.jpg?s=612x612&w=0&k=20&c=ZpGiAAFxUNnde83WA2mqotDiZF2lFukmu5vs8fHc8rA=" 
+        alt="frowny face" height="200px" width="200px">
+        <h2 style="text-align: center;">Sorry, we couldn't find any availability meeting your criteria</h2>
+        <p><em>(try modifying your search)</em></p>
+    </div>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Checking-Out</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+    <h1>Billing Statement</h1>
+    <p><em>please enter the reservation ID to get the billing statement and check out</em></p>
+    <form action="/checking_out" method="GET">
+        <label for="check_in"> <b>Reservation ID : </b></label>
+        <!-- <label for="reservation_id">:</label> -->
+        <input type="text" id="reservation_id" name="reservation_id" placeholder="#" style="margin-right: 20px;">
+        
+        <input type="submit" class="btn-style" value="Search">
+
+    </form>
+
+    {% if data %}
+    <h2>Bill Results:</h2>
+    
+    <div id="table_div" class="table-features"></div>
+    <form action="/export_data/{{ data[0][0] }}" method="GET">
+        <input type="hidden" name="total" value="{{ data[0][5] }}">
+        <input type="submit" class="btn-style" value="CONFIRM" style="margin: 20px;">
+    </form>
+
+    <script type="text/javascript">
+        google.charts.load('current', { 'packages': ['table'] });
+        google.charts.setOnLoadCallback(drawTable);
+
+        
+
+        function drawTable() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string',   'reservation_id');
+            data.addColumn('string',   'base price');
+            data.addColumn('string',   'season price');
+            data.addColumn('string',   'dow price');
+            data.addColumn('string',   'additional charges')
+            data.addColumn('string',   'total');
+
+            data.addRows([
+                {% for row in data %}
+                [{% for i in range(6) %}'{{ row[i] }}', {% endfor %}],
+                {% endfor %}
+            ]);
+
+            // editing the display of the table, Define the CSS classes for table styling
+            var options = {
+            'cssClassNames': {
+                'tableRow': 'custom-table-font',
+                'headerRow': 'custom-header-font',
+                'tableCell': 'custom-table-font',
+                'headerCell': 'custom-header-font',
+            },
+            'showRowNumber': true,
+            'width': '70%',
+            'height': '100%'
+            };
+
+            var table = new google.visualization.Table(document.getElementById('table_div'));
+            table.draw(data, options);
+
+            function selectHandler(e) {
+                console.log(e)
+            }
+        }   
+    </script>
+
+    {% endif %}
+</body>
+</html>
