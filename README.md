@@ -12,7 +12,7 @@ This is the repository for my CS 374 group project (I have moved it my own repos
 - ``\database`` - implementations for conceptual and relational models of the database 
 - ``\webapp`` - web front-end that uses the database
 
-** SKILLS **
+**Skills**
 - Database Management Systems (DBMS): MySQL, PostgreSQL
 - Relational Database Design
 - ERD (Entity-Relationship Diagram)
